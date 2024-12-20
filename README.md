@@ -37,17 +37,25 @@ hunalign-1.1/
 #### Folder Descriptions
 - `data`: Contains book folders with original English and French versions, a translation dictionary, and sample French texts for training.
 - `data_test`: For testing alignment accuracy on smaller text segments.
-- `res`: Stores CSV files from Dialogism, segmented texts, and necessary dictionaries for Hunalign.
+- `res`: Stores CSV files from Dialogism, segmented texts by Hunalign, and necessary dictionaries for Hunalign.
 - `accuracy`: Includes output from Hunalign and alignment checks.
 - `punk`: Contains pickles for training space tokenizers in various languages.
 
-## Key Files and Their Usage
-- **`mentioned_used.csv`**: Entity list used from each novel.
-- **`alignments_with_char_positions.csv`**: Adjusted text by Hunalign/Gemini with character positions from the original text.
-- **`may_need_realign.csv`**: Alignments that may need realignment due to index discrepancies.
-- **`pronoun_alignment_with...`**: Pronoun alignments under different conditions of Gemini integration.
-- **`updated_alignments`**: Final alignment table.
-- **`realigned_need_to_transfer_annotations`**: Logs phrases needing realignment to avoid duplicates.
+### Key Files and Their Usage (all except mentioned_used.csv created by code)
+- `mentioned_used.csv`: Entity list used from each novel.
+- `alignments_with_char_positions.csv`: Adjusted text by Hunalign/Gemini with character positions from the original text.
+- `may_need_realign.csv`: Alignments that may need realignment due to index discrepancies.
+- `pronoun_alignment_with...`: There are three files associated with pronoun alignment:
+  - `pronoun_alignment_without_gemini.csv`: Transferred entities using only project-specific algorithms.
+  - `pronoun_alignment_with_gemini.csv`: Transferred entities using both project-specific algorithms and Gemini API.
+  - `pronoun_alignment_with_only_gemini.csv`: (Test case only) Transferred entities using only the Gemini API, utilized for statistical analysis. 
+  - These files encompass all data from the original `mentioned_used.csv` for English, including the French alternatives found, as well as the indices and phrases themselves.
+- `with_gemini_correction`: Files that hold the English and French entities with their indices and additional details similar to those in `mentioned_used.csv`. They include a "check" column to indicate whether Gemini assessed the entity transfers as correct. This set includes:
+  - `with_gemini_correction.csv`: Used for regular checks.
+  - `with_gemini_only_correction_test.csv`: Used specifically to compare the outcomes of hybrid approaches versus Gemini-only scenarios.
+- `updated_alignments`: Final alignment table.
+- `realigned_need_to_transfer_annotations`: This table, like many others, ensures that Gemini's work is accurately recorded after each update, considering the limited number of free API calls available. It lists phrases that required realignment after being initially aligned by Gemini in groups. The `id` column holds the previous IDs from the `updated_alignments` that were already aligned but needed to be realigned as they served as a buffer between groups of unaligned text. This mechanism prevents the duplication of entries.
+
 
 ## Execution Instructions
 1. **Prepare Text and call Hunalign**:
