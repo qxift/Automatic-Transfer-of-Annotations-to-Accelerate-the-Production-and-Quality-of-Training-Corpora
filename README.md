@@ -21,6 +21,7 @@ Fetch English novel texts from the Dialogism project:
 ### Directory Structure
 Ensure the following structure in your local setup:
 
+```
 hunalign-1.1/
 │
 ├── hunalign/ (All Hunalign-related files)
@@ -31,7 +32,7 @@ hunalign-1.1/
 │   ├── data_test/
 │   ├── accuracy/
 │   └── punk/
-
+```
 
 #### Folder Descriptions
 - `data`: Contains book folders with original English and French versions, a translation dictionary, and sample French texts for training.
