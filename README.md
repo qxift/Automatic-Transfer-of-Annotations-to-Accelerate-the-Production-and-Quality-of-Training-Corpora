@@ -1,0 +1,1 @@
+# Automatic-Transfer-of-Annotations-to-Accelerate-the-Production-and-Quality-of-Training-Corpora
