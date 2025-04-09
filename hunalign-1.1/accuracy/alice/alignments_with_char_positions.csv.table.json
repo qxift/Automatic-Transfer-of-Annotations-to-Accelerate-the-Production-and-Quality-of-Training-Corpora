@@ -1,0 +1,103 @@
+{
+  "columns": [
+    {
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false,
+      "width": 53
+    },
+    {
+      "field": "eng",
+      "title": "eng",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 3552
+    },
+    {
+      "field": "fr",
+      "title": "fr",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 3364
+    },
+    {
+      "field": "id",
+      "title": "id",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 70
+    },
+    {
+      "field": "llm alignment result",
+      "title": "llm alignment result",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 184
+    },
+    {
+      "field": "phrase_startByte_fr",
+      "title": "phrase_startByte_fr",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 187
+    },
+    {
+      "field": "phrase_endByte_fr",
+      "title": "phrase_endByte_fr",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 181
+    },
+    {
+      "field": "phrase_startByte_eng",
+      "title": "phrase_startByte_eng",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 200
+    },
+    {
+      "field": "phrase_endByte_eng",
+      "title": "phrase_endByte_eng",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 194
+    },
+    {
+      "field": "extracted_text_fr",
+      "title": "extracted_text_fr",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 3278
+    },
+    {
+      "field": "extracted_text_eng",
+      "title": "extracted_text_eng",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 3546
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+eng,fr,id,llm alignment result,phrase_startByte_fr,phrase_endByte_fr,phrase_startByte_eng,phrase_endByte_eng,extracted_text_fr,extracted_text_eng
+"He came on foot, across the downs, from Bramblehurst station, carrying in his thickly gloved hand a small black portmanteau.","Il venait pedestrement, par la dune, de la station de Bramblehurst, portant, de sa main couverte d'un gant epais, une petite valise noire.",2,aligned,284,422,-1,-1,"Il venait pedestrement, par la dune, de la station de Bramblehurst, portant, de sa main couverte d'un gant epais, une petite valise noire. ",
+Et encore un hote qui ne marchandait pas !,(No direct equivalent in text),5,not aligned,-1,-1,-1,-1,,
+He turned his head and looked at her over his shoulder.,(No direct equivalent in text),9,not aligned,-1,-1,2106,2161,,He turned his head and looked at her over his shoulder. 
+"""There!"" She went quite softly to the kitchen, and was too preoccupied to ask Millie what she was messing about with now, when she got there.","Elle retourna tout doucement a la cuisine, trop preoccupee pour demander a Millie ce que celle-ci fricotait juste a ce moment.",46,aligned,7227,7353,-1,-1,"Elle retourna tout doucement a la cuisine, trop preoccupee pour demander a Millie ce que celle-ci fricotait juste a ce moment.
+",
+"""I never,"" she whispered.","-- Non, jamais je n'ai..., dit-elle tout bas.",47,aligned,7180,7225,-1,-1,"-- Non, jamais je n'ai..., dit-elle tout bas.
+",
+"""I'll have them nicely dried, sir, at once,"" she said, and carried his clothes out of the room.","-- Je vais les faire bien secher tout de suite >>, dit-elle en sortant de la piece avec les vetements.",54,aligned,6790,6892,-1,-1,"-- Je vais les faire bien secher tout de suite >>, dit-elle en sortant de la piece avec les vetements.
+",
+"It was bright, pink, and shiny just as it had been at first.",(No direct equivalent in text),58,not aligned,-1,-1,5016,5076,,"It was bright, pink, and shiny just as it
+had been at first. "
+"""I didn't know, sir,"" she began, ""that..."" and she stopped embarrassed.","-- Je ne savais pas, monsieur, que... que... Et elle s'arreta, tout embarrassee.",60,aligned,6610,6691,-1,-1,"-- Je ne savais pas, monsieur, que... que...
+
+Et elle s'arreta, tout embarrassee.
+",
+"""It was altogether too discouraging.""",(No direct equivalent in text),109,not aligned,-1,-1,10341,10376,,"It was altogether
+too discouraging. "
+"""She went for the matches.""",(No direct equivalent in text),113,not aligned,-1,-1,10194,10219,,"She went for the matches.
+"
+"""Very glad.""",(No direct equivalent in text),137,not aligned,-1,-1,13931,13941,,"Very glad."""
+"""I thought, sir,"" said Mrs. Hall, ""you d prefer the clock...""","-- Je pensais, monsieur, que vous prefereriez que l'horloge...",144,aligned,15242,15304,-1,-1,"-- Je pensais, monsieur, que vous prefereriez que l'horloge...
+",
+"""But I m really glad to have the clock seen to,"" he said, seeing a certain hesitation in Mr. Henfrey s manner.",(No direct equivalent in text),146,not aligned,-1,-1,13820,13929,,"But I m really glad to have the clock seen to,"" he said, seeing a
+certain hesitation in Mr. Henfrey s manner. "
+"Mr. Henfrey had intended to apologise and withdraw, but this anticipation reassured him.",(No direct equivalent in text),147,not aligned,-1,-1,13943,14031,,"Mr. Henfrey
+had intended to apologise and withdraw, but this anticipation reassured
+him. "
+Lock myself up.,(No direct equivalent in text),163,not aligned,-1,-1,15473,15488,,Lock myself up. 
+"At such times the slightest disturbance, the entry of a stranger into the room, is a source of excruciating annoyance to me.","A ces moments-la, le moindre derangement, par exemple l'entree de quelqu'un dans ma chambre, est pour moi une cause de veritable torture...",167,aligned,17056,17195,-1,-1,"A ces moments-la, le moindre derangement, par exemple l'entree de quelqu'un dans ma chambre, est pour moi une cause de veritable torture... ",
+"Mr. Henfrey not only took off the hands of the clock, and the face, but extracted the works; and he tried to work in as slow and quiet and unassuming a manner as possible.",(No direct equivalent in text),172,not aligned,-1,-1,16105,16276,,"Mr.
+Henfrey not only took off the hands of the clock, and the face, but
+extracted the works; and he tried to work in as slow and quiet and
+unassuming a manner as possible. "
+"""And if I might make so bold as to ask...""",Si j'osais me permettre de demander...,173,aligned,17258,17296,-1,-1,"Si j'osais me permettre de demander...
+",
+"So still, it got on Henfrey's nerves.",Si bien immobile que cela finit par agacer Henfrey.,178,aligned,18184,18235,-1,-1,Si bien immobile que cela finit par agacer Henfrey. ,
+"""Why don't you finish and go?"" said the rigid figure, evidently in a state of painfully suppressed rage.","-- Pourquoi ne terminez-vous pas et ne partez-vous pas ? dit la figure rigide, evidemment en proie a une fureur difficilement contenue.",187,aligned,18830,18965,-1,-1,"-- Pourquoi ne terminez-vous pas et ne partez-vous pas ? dit la figure rigide, evidemment en proie a une fureur difficilement contenue. ",
+"""The weather..."" he began.","-- Le temps..., commenca-t-il.",188,aligned,18798,18828,-1,-1,"-- Le temps..., commenca-t-il.
+",
+"""Certainly, sir... one minute more. I overlooked...""","-- Bien, monsieur... Une seule minute encore. Je revoyais avec soin...",190,aligned,19082,19152,-1,-1,"-- Bien, monsieur... Une seule minute encore. Je revoyais avec soin...
+",
+"""All you've got to do is to fix the hour-hand on its axle. You're simply humbugging...""","-- Tout ce que vous etes parvenu a faire, c'est de resserrer l'aiguille sur le cadran. Vous vous moquez du monde !",191,aligned,18966,19080,-1,-1,"-- Tout ce que vous etes parvenu a faire, c'est de resserrer l'aiguille sur le cadran. Vous vous moquez du monde !
+",
+"""Rum-looking customer stopping at the Coach and Horses,"" said Teddy.","-- Un client qui a l'air bien original est descendu chez vous, mon vieux !...",204,aligned,20213,20290,-1,-1,"-- Un client qui a l'air bien original est descendu chez vous, mon vieux !...
+",
+"""My sakes!""",(No direct equivalent in text),205,not aligned,-1,-1,11312,11321,,My sakes! 
+"""Carrier s darg,"" he said ""bit en.""",(No direct equivalent in text),249,not aligned,-1,-1,23179,23212,,"Carrier s darg,"" he said ""bit en."""
+"""I'm rare sorry the darg""",Je suis tout a fait desole que cet animal...,272,aligned,27788,27832,-1,-1,"Je suis tout a fait desole que cet animal...
+",
+The chemist's shop in Bramblehurst could not boast half so many. Quite a sight it was.,Le pharmacien de Bramblehurst n'aurait pu se vanter d'en posseder autant dans sa boutique. C'etait une vraie curiosite.,274,aligned,28926,29045,-1,-1,Le pharmacien de Bramblehurst n'aurait pu se vanter d'en posseder autant dans sa boutique. C'etait une vraie curiosite. ,
+"Directly the first crate was, in accordance with his directions, carried into the parlour, the stranger flung himself upon it with extraordinary eagerness, and began to unpack it, scattering the straw with an utter disregard of Mrs. Hall's carpet.","Des que la premiere manne eut ete, conformement a ses ordres, apportee dans le salon, l'etranger se jeta dessus avec une ardeur incroyable et en commenca le deballage, eparpillant la paille, sans egard pour le tapis de madame Hall.",275,aligned,27966,28197,-1,-1,"Des que la premiere manne eut ete, conformement a ses ordres, apportee dans le salon, l'etranger se jeta dessus avec une ardeur incroyable et en commenca le deballage, eparpillant la paille, sans egard pour le tapis de madame Hall. ",
+"""He ought to have it cauterised at once,"" said Mr. Huxter; ""especially if it's at all inflamed.""","Il aurait du cauteriser la plaie immediatement, prononca M. Huxter, surtout si elle est a vif.",279,aligned,27190,27284,-1,-1,"Il aurait du cauteriser la plaie immediatement, prononca M. Huxter, surtout si elle est a vif.
+",
+"""The sooner you get those things in the better I'll be pleased.""","Plus vite vous aurez rentre tout cela, plus je serai content.",280,aligned,27586,27647,-1,-1,"Plus vite vous aurez rentre tout cela, plus je serai content.
+",
+"""I'd shoot en, that's what I'd do,"" said a lady in the group.","Moi, je tuerais la bete, voila ce que je ferais ! dit une femme, dans le groupe.",283,aligned,-1,-1,-1,-1,,
+"""We'd better be a-takin' of his luggage in.""",Il vaudrait mieux rentrer ses bagages a l'interieur.,284,aligned,27133,27185,-1,-1,"Il vaudrait mieux rentrer ses bagages a l'interieur.
+",
+"""He don't want no help, he says,"" he said in answer to his wife's inquiry.","Il pretend n'avoir besoin de personne, -- repondit-il a une question de sa femme.",285,aligned,27048,27129,-1,-1,"Il pretend n'avoir besoin de personne, -- repondit-il a une question de sa femme. ",
+"And from it he began to produce bottles little fat bottles containing powders, small and slender bottles containing coloured and white fluids, fluted blue bottles labeled Poison, bottles with round bodies and slender necks, large green-glass bottles, large white-glass bottles, bottles with glass stoppers and frosted labels, bottles with fine corks, bottles with bungs, bottles with wooden caps, wine bottles, salad-oil bottles putting them in rows on the chiffonnier, on the mantel, on the table under the window, round the floor, on the bookshelf everywhere.","Il en tira des bouteilles, des bouteilles petites et ventrues contenant des poudres ; des bouteilles petites et longues contenant des liquides colores ou incolores ; des bouteilles cannelees, en verre bleu, etiquetees : poison ; des bouteilles a panse ronde et a col elance ; d'enormes bouteilles en verre bleu, d'enormes bouteilles en verre blanc ; des bouteilles avec des bouchons de cristal et des etiquettes, des bouteilles avec des bouchons de liege, des bouteilles avec des bondes, des bouteilles a chape de bois, des bouteilles a vin, des bouteilles a huile, etc., etc. Il les mettait en rangs sur le chiffonnier, sur la cheminee, sur la table devant la fenetre, sur le parquet, sur les rayons a livres, partout, partout.",289,aligned,-1,-1,25740,26301,,"And from it he began to
+produce bottles little fat bottles containing powders, small and
+slender bottles containing coloured and white fluids, fluted blue
+bottles labeled Poison, bottles with round bodies and slender necks,
+large green-glass bottles, large white-glass bottles, bottles with
+glass stoppers and frosted labels, bottles with fine corks, bottles
+with bungs, bottles with wooden caps, wine bottles, salad-oil
+bottles putting them in rows on the chiffonnier, on the mantel, on the
+table under the window, round the floor, on the bookshelf everywhere.
+"
+"I have told the circumstances of the stranger's arrival in Iping with a certain fulness of detail, in order that the curious impression he created may be understood by the reader.",J'ai rappele avec detail les circonstances de l'arrivee de l'etranger a Iping afin que le lecteur puisse comprendre la curiosite qu'excita cet homme.,337,aligned,34083,34232,-1,-1,J'ai rappele avec detail les circonstances de l'arrivee de l'etranger a Iping afin que le lecteur puisse comprendre la curiosite qu'excita cet homme. ,
+He seemed under a chronic irritation of the greatest intensity.,(No direct equivalent in text),354,not aligned,-1,-1,32492,32555,,"He seemed under a chronic irritation of the greatest
+intensity. "
+"Lord! I thought, _that s_ a deformity!","'Je pensais : << C\'est une difformite. Il a, je suppose, un bras artificiel, et il l\'aura perdu. >>'",421,aligned,-1,-1,40615,40653,,"Lord! I thought, _that s_ a deformity!
+"
+"Got a cork arm, I suppose, and has taken it off.",(No direct equivalent in text),422,not aligned,-1,-1,40654,40702,,"Got a cork arm, I suppose, and has taken it off. "
+"What the devil keeps that sleeve up and open, if there s nothing in it?","'Pourquoi diable cette manche reste-t-elle en l\'air, s\'il n\'y a rien dedans ?'",424,aligned,-1,-1,40751,40822,,"What the devil keeps that sleeve up and
+open, if there s nothing in it? "
+Interrogative cough.,'Il poussa un grognement d\'interrogation.',426,aligned,-1,-1,41303,41323,,Interrogative cough. 
+"I was saying, said he, that there was the prescription burning, wasn t I?","'<< Je disais donc, reprit-il, que ma formule brulait, n\'est-ce pas ? >>'",427,aligned,-1,-1,41226,41301,,"I was saying,  said he,  that there was the
+prescription burning, wasn t I? "
+"""That s all. He never said a word; just glared, and put his sleeve back in his pocket quickly.","'-- C\'est tout. Il ne dit pas un mot. ~~~ Ses yeux brillerent et, rapidement, il enfonca la manche dans sa poche.'",428,aligned,-1,-1,41131,41224,,"That s all. He never said a word; just glared, and put his sleeve back
+in his pocket quickly. "
+Then he stopped.,'Alors il s\'arreta.',431,aligned,-1,-1,41032,41048,,Then he stopped. 
+Good God! I said.,'<< Bon Dieu ! >> m\'ecriai-je.',432,aligned,-1,-1,41013,41031,,Good God!  I said. 
+"I could see right down it to the elbow, and there was a glimmer of light shining through a tear of the cloth.","'Mon regard plongeait jusqu\'a l\'epaule, et un peu de jour passait par une dechirure du vetement.'",433,aligned,-1,-1,40902,41011,,"I could see right down it to
+the elbow, and there was a glimmer of light shining through a tear of
+the cloth. "
+Put it down; turned his head.,(No direct equivalent in text),447,not aligned,-1,-1,40226,40255,,"Put it down; turned
+his head. "
+"There was nothing in it, I tell you.","'Et il n\'y avait rien dedans, vous dis-je.'",455,aligned,-1,-1,40823,40859,,"There was nothing in it, I tell you.
+"
+"""Well? said I, clearing my throat, there's nothing in it. ""","<< Eh bien, -- repetai-je, faisant effort pour parler, -- il n'y a rien dedans ! >>",469,aligned,46468,46545,-1,-1,"Eh bien, -- repetai-je, faisant effort pour parler, -- il n'y a rien dedans ! ",
+"Certainly, I said.",(No direct equivalent in text),475,not aligned,-1,-1,41828,41847,,"Certainly,  I said. "
+"I didn't flinch, though I'm hanged if that bandaged knob of his, and those blinkers, aren't enough to unnerve any one, coming quietly up to you.","Je ne bronchai point. Pourtant, je veux etre pendu si cette grosse boule, avec ses bandeaux et ses oeilleres, marchant sur vous tranquillement, n'avait pas de quoi faire perdre contenance a n'importe qui :",478,aligned,45877,46082,-1,-1,"Je ne bronchai point. Pourtant, je veux etre pendu si cette grosse boule, avec ses bandeaux et ses oeilleres, marchant sur vous tranquillement, n'avait pas de quoi faire perdre contenance a n'importe qui : ",
+"""He turned round in a helpless way and took a second glass of the excellent vicar's very inferior sherry.""","'Il tournait sur lui-meme, dans un etat de grande faiblesse. Il but un second verre du mauvais sherry de l'excellent ministre.'",489,aligned,47301,47426,-1,-1,"Il tournait sur lui-meme, dans un etat de grande faiblesse. Il but un second verre du mauvais sherry de l'excellent ministre.
+",
+"""It's all very well for you to laugh, but I tell you I was so startled, I hit his cuff hard, and turned around, and cut out of the room I left him""","'C'est facile de rire ! ~~~ Mais je vous l'assure, j'etais si affole que je frappai violemment cette manche : je me retournai, je m'enfuis de la chambre, je le plantai la.'",492,aligned,47054,47220,-1,-1,"C'est facile de rire ! Mais je vous l'assure, j'etais si affole que je frappai violemment cette manche : je me retournai, je m'enfuis de la chambre, je le plantai la.
+",
+One thing kept Mr. Bunting's courage; the persuasion that this burglar was a resident in the village.,Une consideration leur donna du courage : la conviction que le cambrioleur etait un habitant du village.,521,aligned,49841,49945,-1,-1,"Une consideration leur donna du courage : la conviction que le cambrioleur etait un habitant du village.
+",
+"""Of all the strange occurrences...""",'-- C'est bien la le cas le plus extraordinaire...,543,aligned,51121,51170,-1,-1,"-- C'est bien la le cas le plus extraordinaire...
+",
+"""And the money's gone!"" She went hastily to the doorway.",'Et l'argent a disparu ! Elle se precipita vers la porte.,544,aligned,51062,51119,-1,-1,"Et l'argent a disparu !
+
+Elle se precipita vers la porte.
+",
+There was no answer.,"(No direct equivalent in text, implied in previous sentence)",551,aligned,-1,-1,48835,48855,,There was no answer. 
+On the landing he was surprised to see that the stranger's door was ajar.,"Sur le palier, il fut surpris de voir entre-baillee la porte de l'etranger.",556,aligned,52836,52911,-1,-1,"Sur le palier, il fut surpris de voir entre-baillee la porte de l'etranger. ",
+And with a flash of inspiration he connected this with the stranger's room upstairs and the suggestions of Mr. Teddy Henfrey.,"Dans une lueur soudaine d'intelligence, il fit un rapprochement entre ce fait, la chambre de l'etranger ouverte, la-haut, et les hypotheses de Teddy Henfrey.",559,aligned,53211,53368,-1,-1,"Dans une lueur soudaine d'intelligence, il fit un rapprochement entre ce fait, la chambre de l'etranger ouverte, la-haut, et les hypotheses de Teddy Henfrey. ",
+He rapped at the stranger's door.,Il frappa chez l'etranger : pas de reponse.,562,aligned,53465,53508,-1,-1,Il frappa chez l'etranger : pas de reponse. ,
+It was a minute or more before they entered the kitchen.,(No direct equivalent in text),567,not aligned,-1,-1,47187,47243,,"It was a minute or more before they entered the
+kitchen.
+"
+"Then as swiftly came the sponge from the washstand; and then the chair, flinging the stranger's coat and trousers carelessly aside, and laughing drily in a voice singularly like the stranger's, turned itself up with its four legs at Mrs. Hall, seemed to take aim at her for a moment, and charged at her.","Puis la chaise, laissant tomber habits et pantalon, riant sechement d'une voix toute semblable a celle de l'etranger, se tourna avec ses quatre pieds dans la direction de madame Hall, parut un instant la viser et fondit sur elle.",590,aligned,56104,56333,-1,-1,"Puis la chaise, laissant tomber habits et pantalon, riant sechement d'une voix toute semblable a celle de l'etranger, se tourna avec ses quatre pieds dans la direction de madame Hall, parut un instant la viser et fondit sur elle. ",
+"Immediately after, the stranger's hat hopped off the bed-post, described a whirling flight in the air through the better part of a circle, and then dashed straight at Mrs. Hall's face.","Aussitot apres, le chapeau fit un bond, tournoya en decrivant presque un cercle et s'elanca droit au nez de madame Hall.",591,aligned,55941,56061,-1,-1,"Aussitot apres, le chapeau fit un bond, tournoya en decrivant presque un cercle et s'elanca droit au nez de madame Hall. ",
+(No direct equivalent in text),Aussi rapidement vint l'eponge du lavabo.,595,not aligned,56062,56103,-1,-1,Aussi rapidement vint l'eponge du lavabo. ,
+"'""Well, if that don't lick everything!"" said Mr. Wadgers, and left the alternative unsaid.'","'-- Eh bien, celle-la est encore plus forte, par exemple !... dit M. Wadgers. ~~~ Et il n'acheva pas sa phrase.'",637,aligned,59832,59939,-1,-1,"-- Eh bien, celle-la est encore plus forte, par exemple !... dit M. Wadgers.
+
+Et il n'acheva pas sa phrase. ",
+"'""I'd go in and ask about it,"" said Wadgers, to Mr. Hall.'","'Il ajouta, s'adressant a M. ~~~ Hall : -- A votre place, je l'interrogerais. '",639,aligned,59940,60013,-1,-1,"Il ajouta, s'adressant a M. Hall :
+
+-- A votre place, je l'interrogerais. ",
+"'At last he rapped, opened the door, and got as far as, ""Excuse me...""'","'A la fin, il frappa, passa la tete et put dire : -- Excusez-moi...'",640,aligned,60124,60191,-1,-1,"A la fin, il frappa, passa la tete et put dire :
+
+-- Excusez-moi...
+",
+'It took some time to bring the landlady's husband up to that pitch.','Il fallut quelque temps pour amener a cette idee le mari de la patronne.',641,aligned,60051,60123,-1,-1,Il fallut quelque temps pour amener a cette idee le mari de la patronne. ,
+"'""I'd demand an explanation.""'",'Je lui demanderais une explication.',642,aligned,60014,60049,-1,-1,"Je lui demanderais une explication.
+",
+"""Well, I've found some more""","'Oui, mais j'en ai retrouve d'autres.'",676,aligned,65067,65103,-1,-1,"Oui, mais j'en ai retrouve d'autres.
+",
+"""I've told you my remittance hasn't come.""",'Je vous ai dit que mon argent n'etait pas arrive...',679,aligned,64840,64891,-1,-1,"Je vous ai dit que mon argent n'etait pas arrive...
+",
+"""Don't good woman _me_,"" said Mrs. Hall.",'-- Il ne s'agit pas de << brave dame >>.',680,aligned,64795,64835,-1,-1,"-- Il ne s'agit pas de << brave dame >>.
+",
+"""Look here, my good woman"" he began.","'Dites donc, ma brave dame, reprit l'autre...'",683,aligned,64749,64793,-1,-1,"Dites donc, ma brave dame, reprit l'autre...
+",
+"""That's what I want to know.""",'Voila ce que je voudrais bien savoir !',684,aligned,63999,64037,-1,-1,"Voila ce que je voudrais bien savoir !
+",
+"""I told you two days ago I wasn't going to await no remittances. You can't grumble if your breakfast waits a bit, if my bill's been waiting these five days, can you?""","'Et je vous ai repondu, il y a trois jours, que je n'avais pas a attendre vos entrees de fonds. Vous ne pouvez pas vous plaindre de ce que votre dejeuner est un peu en retard, puisque ma note est bien en retard depuis cinq jours, n'est-ce pas ?'",686,aligned,64113,64356,-1,-1,"Et je vous ai repondu, il y a trois jours, que je n'avais pas a attendre vos entrees de fonds. Vous ne pouvez pas vous plaindre de ce que votre dejeuner est un peu en retard, puisque ma note est bien en retard depuis cinq jours, n'est-ce pas ?
+",
+"""You told me three days ago that you hadn't anything but a sovereign's worth of silver upon you.""","'Vous m'avez dit, il y a trois jours, que vous n'aviez plus sur vous qu'un souverain environ.'",687,aligned,64970,65062,-1,-1,"Vous m'avez dit, il y a trois jours, que vous n'aviez plus sur vous qu'un souverain environ.
+",
+"""And I'd thank you kindly, sir, if you'd keep your swearing to yourself, sir,"" said Mrs. Hall.","'Je vous serais vraiment obligee, monsieur, si vous vouliez garder vos jurons pour vous.'",689,aligned,64449,64536,-1,-1,"Je vous serais vraiment obligee, monsieur, si vous vouliez garder vos jurons pour vous.
+",
+"""he said.""",(No direct equivalent in text),693,not aligned,-1,-1,2389,2397,,he said. 
+For a moment they resisted him.,(No direct equivalent in text),710,not aligned,-1,-1,60923,60954,,For a moment they resisted him. 
+The nose it was the stranger's nose! pink and shining rolled on the floor.,Le nez -- c'etait le nez rose et luisant de l'etranger -- roula sur le parquet avec un bruit sourd de carton creux.,713,aligned,66599,66714,-1,-1,"Le nez -- c'etait le nez rose et luisant de l'etranger -- roula sur le parquet avec un bruit sourd de carton creux.
+",
+They saw Mrs. Hall fall down and Mr. Teddy Henfrey jump to avoid tumbling over her.,Ils virent madame Hall tomber et Teddy Henfrey sauter pour ne pas culbuter sur elle.,725,aligned,67800,67884,-1,-1,Ils virent madame Hall tomber et Teddy Henfrey sauter pour ne pas culbuter sur elle. ,
+These increased suddenly.,(No direct equivalent in text),728,not aligned,-1,-1,62032,62057,,"These increased suddenly.
+"
+Didn't take ten seconds.,Cela n'a pas pris dix secondes...,744,aligned,69586,69619,-1,-1,Cela n'a pas pris dix secondes... ,
+Not a moment ago.,"Il n'y a qu'une minute,...",745,aligned,-1,-1,63358,63375,,Not a moment ago. 
+Went in that there door.,...il a passe par cette porte-ci...,746,aligned,-1,-1,63376,63400,,Went in that there door. 
+"""Can't use em as I can see.""","""je ne peux pas m'en servir, a ce que je vois...""",778,aligned,73234,73281,-1,-1,"je ne peux pas m'en servir, a ce que je vois...
+",
+"""""Why!"" said Huxter, suddenly, ""that's not a man at all. It's just empty clothes.""","""-- Mais ! s'ecria Huxter, tandis qu'il etait ainsi penche, ce n'est pas un homme ! Ce ne sont que des vetements sans corps !""",782,aligned,73537,73661,-1,-1,"-- Mais ! s'ecria Huxter, tandis qu'il etait ainsi penche, ce n'est pas un homme ! Ce ne sont que des vetements sans corps ! ",
+"""""I wish you'd keep your fingers out of my eye,"" said the aerial voice, in a tone of savage expostulation.""","""-- Je vous prie d'oter vos doigts de mes yeux ! ~~~ -- disait la voix aerienne du ton d'une priere farouche.""",784,aligned,73866,73970,-1,-1,-- Je vous prie d'oter vos doigts de mes yeux ! -- disait la voix aerienne du ton d'une priere farouche. ,
+"""The fact is, I'm all here head, hands, legs, and all the rest of it, but it happens I'm invisible.""","""La verite est que je suis la tout entier, tete, mains, jambes, et le reste ; mais il se trouve que je suis invisible.""",785,aligned,73974,74091,-1,-1,"La verite est que je suis la tout entier, tete, mains, jambes, et le reste ; mais il se trouve que je suis invisible. ",
+"""It's a confounded nuisance, but I am. That's no reason why I should be poked to pieces by every stupid bumpkin in Iping, is it?""","""C'est bien ennuyeux, mais c'est ainsi. Ce n'est vraiment pas une raison, il me semble, pour que je sois mis en pieces par tous les imbeciles d'Iping !""",786,aligned,74092,74242,-1,-1,"C'est bien ennuyeux, mais c'est ainsi. Ce n'est vraiment pas une raison, il me semble, pour que je sois mis en pieces par tous les imbeciles d'Iping !
+",
+"'""Invisible, eh?"" said Huxter, ignoring the stranger's abuse.","'-- Invisible, he ? dit Huxter, qui ignorait les mefaits de l'etranger.",790,aligned,74475,74545,-1,-1,"-- Invisible, he ? dit Huxter, qui ignorait les mefaits de l'etranger. ",
+"""There's a house been broke into and money took.""",'On s'est introduit dans une maison ; on a pris de l'argent...',794,aligned,74979,75040,-1,-1,"On s'est introduit dans une maison ; on a pris de l'argent...
+",
+"""And circumstances certainly point...""",'-- Et les circonstances donnent a penser...',796,aligned,75059,75102,-1,-1,"-- Et les circonstances donnent a penser...
+",
+"""I hope so, sir; but I've got my instructions.""","'-- Je le veux bien, monsieur. Mais j'ai recu des ordres...'",798,aligned,75163,75221,-1,-1,"-- Je le veux bien, monsieur. Mais j'ai recu des ordres...
+",
+"""Well,"" said the stranger, ""I'll come. I'll _come_. But no handcuffs.""",'-- Soit ! Je vous suivrai. Mais pas de menottes !',799,aligned,75223,75272,-1,-1,"-- Soit ! Je vous suivrai. Mais pas de menottes !
+",
+"""It's the regular thing,"" said Jaffers.",'-- C'est la consigne ! declara Jaffers.',800,aligned,75274,75313,-1,-1,"-- C'est la consigne ! declara Jaffers.
+",
+"""What I'm after ain't no invisibility, it's burglary.""",'Ce que je poursuis n'est pas invisible : c'est le vol commis au presbytere.',802,aligned,74903,74978,-1,-1,Ce que je poursuis n'est pas invisible : c'est le vol commis au presbytere. ,
+"""that's a different matter,"" said Jaffers.","'cela, c'est autre chose ! ~~~ riposta Jaffers.'",803,aligned,74726,74768,-1,-1,"cela, c'est autre chose ! riposta Jaffers. ",
+"""No doubt you are a bit difficult to see in this light, but I got a warrant and it's all correct.""","'Point de doute que vous ne soyez un peu difficile a distinguer en plein jour. Mais je suis porteur d'un mandat, et tout est en regle.'",804,aligned,74769,74902,-1,-1,"Point de doute que vous ne soyez un peu difficile a distinguer en plein jour. Mais je suis porteur d'un mandat, et tout est en regle. ",
+CHAPTER IX.,(No direct equivalent in text),844,not aligned,-1,-1,72364,72375,,"CHAPTER IX.
+"
+"Gibbons had heard nothing of the morning's occurrences, but the phenomenon was so striking and disturbing that his philosophical tranquillity vanished; he got up hastily, and hurried down the steepness of the hill towards the village, as fast as he could go.","Gibbins ne savait rien encore des evenements de la matinee ; mais le phenomene etait si frappant, si troublant, que sa serenite de philosophe n'y resista point : il se releva precipitamment et descendit au pas de course la pente raide de la cote, dans la direction du village, aussi vite qu'il le put.",845,aligned,79719,80020,-1,-1,"Gibbins ne savait rien encore des evenements de la matinee ; mais le phenomene etait si frappant, si troublant, que sa serenite de philosophe n'y resista point : il se releva precipitamment et descendit au pas de course la pente raide de la cote, dans la direction du village, aussi vite qu'il le put.
+",
+"""And if you'll believe me, I've raised nothing in the whole blessed country, try as I would, but _them_.""","""Vous me croirez si vous voulez, j'ai eu beau chercher, je n'ai pas trouve autre chose, dans ce sacre pays !...""",860,aligned,82332,82442,-1,-1,"Vous me croirez si vous voulez, j'ai eu beau chercher, je n'ai pas trouve autre chose, dans ce sacre pays !... ",
+"""I've worn worse in fact, I've worn none. ~~~ But none so owdacious ugly if you'll allow the expression.""","""-- Au fond, j'en ai porte de plus mauvaises... il m'est meme arrive de ne pas en porter du tout... mais pas de plus cyniquement laides, passez-moi l'expression !...""",862,aligned,81956,82120,-1,-1,"-- Au fond, j'en ai porte de plus mauvaises... il m'est meme arrive de ne pas en porter du tout... mais pas de plus cyniquement laides, passez-moi l'expression !... ",
+"""I've been cadging boots in particular for days. Because I was sick of _them_.""","""Dire que j'ai mendie des chaussures pendant des jours, parce que j'etais degoute de celles que j'ai !...""",863,aligned,82121,82225,-1,-1,"Dire que j'ai mendie des chaussures pendant des jours, parce que j'etais degoute de celles que j'ai !... ",
+"""Hm,"" said the Voice.","""-- Hem ! ~~~ fit la voix.""",864,aligned,81933,81954,-1,-1,"-- Hem ! fit la voix.
+",
+"""They are charity boots,"" said Mr. Thomas Marvel, with his head on one side regarding them distastefully; ""and which is the ugliest pair in the whole blessed universe, I'm darned if I know!""","""-- Oui, des chaussures donnees, -- repondit M. Marvel, les considerant, la tete penchee, avec mepris. -- Quelle est la paire la moins horrible des deux ? Sacristi ! je veux etre pendu si je le sais !""",865,aligned,81732,81931,-1,-1,"-- Oui, des chaussures donnees, -- repondit M. Marvel, les considerant, la tete penchee, avec mepris. -- Quelle est la paire la moins horrible des deux ? Sacristi ! je veux etre pendu si je le sais !
+",
+"""They're boots, anyhow,"" said the Voice.","""-- En tout cas, ce sont des chaussures ! disait cette voix.""",866,aligned,81671,81730,-1,-1,"-- En tout cas, ce sont des chaussures ! disait cette voix.
+",
+"""They're sound enough, of course.""","""Celles-ci, evidemment, sont en bon etat...""",867,aligned,82226,82268,-1,-1,"Celles-ci, evidemment, sont en bon etat... ",
+He lay quiet for a moment.,(No direct equivalent in text),916,not aligned,-1,-1,78280,78306,,He lay quiet for a moment. 
+Rot away.,(No direct equivalent in text),935,not aligned,-1,-1,78605,78614,,Rot away. 
+"""What! Ain t there any stuff to you. _Vox et_ what is it? jabber.  Is it that?""","-- Ainsi, vous n'avez rien de materiel ? Une voix et, comment dirai-je ? des phrases... des mots... Est-ce cela ?",945,aligned,87883,87996,-1,-1,"-- Ainsi, vous n'avez rien de materiel ? Une voix et, comment dirai-je ? des phrases... des mots... Est-ce cela ?
+",
+I have come to that,(No direct equivalent in text),963,not aligned,-1,-1,80807,80826,,"I have come to
+that "
+"""Howjer manage it! How the dooce is it done?""",-- Mais comment vous y etes-vous pris ? Comment diable cela se fait-il ?,967,aligned,-1,-1,80601,80644,,"Howjer manage it! How the dooce is it done?"""
+"""Sort of ghostly, though.""",(No direct equivalent in text),969,not aligned,-1,-1,80435,80459,,"Sort of ghostly, though."""
+~~~ An invisible man is a man of power.,(No direct equivalent in text),977,not aligned,-1,-1,82180,82216,," An invisible man is a man of power."""
+"~~~ And ""Lord!"" said Mr. Marvel.",-- Seigneur ! gemit de nouveau Marvel.,991,aligned,89853,89891,-1,-1,-- Seigneur ! gemit de nouveau Marvel. ,
+So I turned back and came to you.,"Alors, je me suis ravise, je suis venu a vous, et...",992,aligned,89799,89851,-1,-1,"Alors, je me suis ravise, je suis venu a vous, et...
+",
+"""I ve chosen you,"" said the Voice.",(No direct equivalent in text),1002,not aligned,-1,-1,81963,81996,,"I ve chosen you,"" said the Voice. "
+"""You are the only man except some of those fools down there, who knows there is such a thing as an invisible man.",(No direct equivalent in text),1003,not aligned,-1,-1,81998,82110,,"You are the only man except some of
+those fools down there, who knows there is such a thing as an invisible
+man. "
+You have to be my helper.,(No direct equivalent in text),1004,not aligned,-1,-1,82111,82136,,You have to be my helper. 
+Help me and I will do great things for you.,(No direct equivalent in text),1005,not aligned,-1,-1,82137,82180,,"Help me and I will do great things for
+you. "
+"""Don't you go a-thinking that, whatever you do.""",N'allez pas croire cela.,1010,aligned,91444,91468,-1,-1,N'allez pas croire cela. ,
+He paused and tapped Mr. Marvel's shoulder smartly.,Il fit une pause et frappa vigoureusement sur l'epaule de M. Marvel.,1011,aligned,91250,91318,-1,-1,"Il fit une pause et frappa vigoureusement sur l'epaule de M. Marvel.
+",
+"""I don't want to betray you,"" said Mr. Marvel, edging away from the direction of the fingers.",-- Je n'ai pas l'intention de vous trahir.,1014,aligned,91401,91443,-1,-1,-- Je n'ai pas l'intention de vous trahir. ,
+"On the village green an inclined strong [rope? ], down which, clinging the while to a pulley-swung handle, one could be hurled violently against a sack at the other end, came in for considerable favour among the adolescents, as also did the swings and the cocoanut shies.","Sur la place du village etait en grande faveur, surtout aupres des jeunes gens, un cable incline le long duquel, en se suspendant a une poulie pourvue d'une poignee, on glissait rapidement jusqu'a un gros sac place a l'autre extremite. Grand succes aussi pour les balancoires et les jeux de massacre.",1021,aligned,93444,93744,-1,-1,"Sur la place du village etait en grande faveur, surtout aupres des jeunes gens, un cable incline le long duquel, en se suspendant a une poulie pourvue d'une poignee, on glissait rapidement jusqu'a un gros sac place a l'autre extremite. Grand succes aussi pour les balancoires et les jeux de massacre. ",
+His cheeks were alternately limp and tightly puffed.,(No direct equivalent in text),1032,not aligned,-1,-1,85392,85444,,"His cheeks were
+alternately limp and tightly puffed. "
+CHAPTER XI.,(No direct equivalent in text),1055,not aligned,-1,-1,88483,88494,,"CHAPTER XI.
+"
+"The world seemed to splash into a million whirling specks of light, and subsequent proceedings interested him no more.",(No direct equivalent in text),1058,not aligned,-1,-1,88360,88478,,"The world seemed to splash into
+a million whirling specks of light, and subsequent proceedings
+interested him no more.
+"
+Mr. Huxter's sensations were vivid but brief.,"Les sensations de M. Huxter furent vives, mais breves.",1061,aligned,97275,97329,-1,-1,"Les sensations de M. Huxter furent vives, mais breves. ",
+"""I'd rather glance through the volumes first,"" said Mr. Bunting, still wiping. ""A general impression first, Cuss, and _then_, you know, we can go looking for clues.""","-- J'aimerais mieux auparavant jeter un coup d'oeil sur les trois volumes, -- reprit M. Bunting, en essuyant toujours ses verres. -- D'abord une impression generale, Cuss, et alors, vous comprenez, nous pourrons chercher le fil...",1066,aligned,99790,100020,-1,-1,"-- J'aimerais mieux auparavant jeter un coup d'oeil sur les trois volumes, -- reprit M. Bunting, en essuyant toujours ses verres. -- D'abord une impression generale, Cuss, et alors, vous comprenez, nous pourrons chercher le fil...
+",
+"""See for yourself,"" said Mr. Cuss. ""Some of it's mathematical and some of it's Russian or some such language (to judge by the letters), and some of it's Greek. Now the Greek I thought _you_ ""","Il y a, d'une part, des signes mathematiques et, d'autre part, des caracteres, du russe, ou quelque autre langue de ce genre-la... Il y a aussi des lettres grecques. Pour ce qui est du grec, je pense que vous...",1068,aligned,99264,99475,-1,-1,"Il y a, d'une part, des signes mathematiques et, d'autre part, des caracteres, du russe, ou quelque autre langue de ce genre-la... Il y a aussi des lettres grecques. Pour ce qui est du grec, je pense que vous...
+",
+"""I'm dear me! It's all cypher, Bunting.""","-- Sapristi ! rien que des chiffres, Bunting.",1071,aligned,99118,99163,-1,-1,"-- Sapristi ! rien que des chiffres, Bunting.
+",
+"""I'll find you a place.""",-- Je vais vous en trouver un passage.,1072,aligned,99750,99788,-1,-1,"-- Je vais vous en trouver un passage.
+",
+The Vicar stood with his hands on the table.,(No direct equivalent in text),1076,not aligned,-1,-1,89391,89435,,"The Vicar stood with his hands on the
+table.
+"
+The stranger's scattered garments had been removed by Mrs. Hall and the room tidied up.,Les vetements eparpilles de l'etranger avaient ete enleves par Mme Hall ; on avait remis en ordre la chambre a coucher.,1079,aligned,98522,98641,-1,-1,Les vetements eparpilles de l'etranger avaient ete enleves par Mme Hall ; on avait remis en ordre la chambre a coucher. ,
+Il songea que tous ses paroissiens croyaient a sa connaissance des textes grecs et hebreux : fallait-il donc avouer ? ou bien retrouverait-il des bribes de sa science ?... (No direct equivalent in text),Il songea que tous ses paroissiens croyaient a sa connaissance des textes grecs et hebreux : fallait-il donc avouer ? ou bien retrouverait-il des bribes de sa science ?...,1102,aligned,102643,102814,-1,-1,Il songea que tous ses paroissiens croyaient a sa connaissance des textes grecs et hebreux : fallait-il donc avouer ? ou bien retrouverait-il des bribes de sa science ?... ,
+"""Here's the poker, you see.""","'J'ai la le tisonnier, vous savez...'",1126,aligned,104515,104550,-1,-1,"J'ai la le tisonnier, vous savez... ",
+"""Where is it? No don't rise.","'Ou est ma garde-robe ?... Non, ne vous levez pas.'",1136,aligned,104817,104866,-1,-1,"Ou est ma garde-robe ?... Non, ne vous levez pas. ",
+I can see it's gone.,'Je vois tres bien qu'elle n'est plus ici.',1139,aligned,104867,104908,-1,-1,Je vois tres bien qu'elle n'est plus ici. ,
+Their eyes considered.,(No direct equivalent in text),1143,not aligned,-1,-1,95393,95415,,"Their
+eyes considered. "
+She raised her voice.,(No direct equivalent in text),1172,not aligned,-1,-1,97128,97149,,She raised her voice. 
+"""Didn't I hear the window?""",Il me semble que j'ai entendu la fenetre !...,1178,aligned,108573,108618,-1,-1,"Il me semble que j'ai entendu la fenetre !...
+",
+"""Ain't you nothin better to do busy day like this?""","N'avez-vous donc rien de mieux a faire, un jour de fete comme aujourd'hui ?",1182,aligned,107811,107886,-1,-1,"N'avez-vous donc rien de mieux a faire, un jour de fete comme aujourd'hui ?
+",
+This aroused Mrs. Hall's wifely opposition.,Cela reveilla en elle l'esprit conjugal d'opposition.,1184,aligned,107721,107774,-1,-1,"Cela reveilla en elle l'esprit conjugal d'opposition.
+",
+You'll be able to see him as long as he holds that parcel!,(No direct equivalent in text),1219,not aligned,-1,-1,-1,-1,,
+"""Don't let him drop that parcel.""",'Ne le laissez pas jeter son paquet !',1220,aligned,111481,111517,-1,-1,Ne le laissez pas jeter son paquet ! ,
+"Behind him as he was halfway up the inn steps he heard a sudden yell of rage, rising sharply out of the confusion of cries, and a sounding smack in someone's face.","Deja il etait sur les marches de l'auberge, lorsqu'il entendit, derriere lui un cri de rage, dominant tout le brouhaha, et une claque retentissante qui s'abattait sur la joue de quelqu'un.",1229,aligned,112793,112981,-1,-1,"Deja il etait sur les marches de l'auberge, lorsqu'il entendit, derriere lui un cri de rage, dominant tout le brouhaha, et une claque retentissante qui s'abattait sur la joue de quelqu'un. ",
+"""He's got my trousers! And every stitch of the Vicar's clothes!""",'Il m'a vole mon pantalon ! Et il a deshabille le pasteur de la tete aux pieds !',1234,aligned,111926,112005,-1,-1,"Il m'a vole mon pantalon ! Et il a deshabille le pasteur de la tete aux pieds !
+",
+"""I haven't the nerve and strength for the sort of thing you want.""","""-- Je n'ai pas les nerfs, je n'ai pas la vigueur qu'il faudrait pour ce que vous desirez.""",1294,aligned,118653,118742,-1,-1,"-- Je n'ai pas les nerfs, je n'ai pas la vigueur qu'il faudrait pour ce que vous desirez.
+",
+"""_I'll_ stimulate you.""","""-- Je vous remonterai, moi !""",1295,aligned,118744,118772,-1,-1,"-- Je vous remonterai, moi !
+",
+"""I wish you wouldn't. I wouldn't like to mess up your plans, you know. But I might out of sheer funk and misery.""","""-- J'aimerais mieux que vous n'ayez pas a le faire... Je ne voudrais pas compromettre vos projets, vous pensez ; mais cela pourrait arriver... par crainte et par faiblesse.""",1296,aligned,118774,118946,-1,-1,"-- J'aimerais mieux que vous n'ayez pas a le faire... Je ne voudrais pas compromettre vos projets, vous pensez ; mais cela pourrait arriver... par crainte et par faiblesse.
+",
+"""You'd better not,"" said the Voice, with quiet emphasis.","""-- Je ne vous le conseille pas ! dit la voix avec une tranquille assurance.""",1297,aligned,118948,119023,-1,-1,"-- Je ne vous le conseille pas ! dit la voix avec une tranquille assurance.
+",
+"""It ain't justice,"" he said; ""you must admit.... It seems to me I've a perfect right...""","""Il n'y a vraiment pas de justice... Vous devriez pourtant bien admettre... Il me semble que j'ai bien le droit...""",1299,aligned,119060,119173,-1,-1,"Il n'y a vraiment pas de justice... Vous devriez pourtant bien admettre... Il me semble que j'ai bien le droit...
+",
+He tried another tack.,(No direct equivalent in text),1303,not aligned,-1,-1,107349,107371,,"He tried another tack.
+"
+You'll do it all right.,Vous pouvez tres bien le faire.,1309,aligned,119631,119662,-1,-1,Vous pouvez tres bien le faire. ,
+"""If you don't shut up I shall twist your wrist again,"" said the Invisible Man.","-- Si vous ne vous taisez pas, je vais encore vous serrer le poignet ! -- dit l'homme invisible.",1310,aligned,119837,119933,-1,-1,"-- Si vous ne vous taisez pas, je vais encore vous serrer le poignet ! -- dit l'homme invisible. ",
+"""I tell you, sir, I'm not the man for it. Respectfully but it _is_ so""","-- Je vous dis, monsieur, que je ne suis pas l'homme qu'il vous faut. Je le dis, respectueusement, mais c'est ainsi.",1313,aligned,119719,119835,-1,-1,"-- Je vous dis, monsieur, que je ne suis pas l'homme qu'il vous faut. Je le dis, respectueusement, mais c'est ainsi.
+",
+"You're a fool and all that, but you'll do","Vous etes un imbecile, mais vous ferez tres bien cela.",1314,aligned,119663,119717,-1,-1,"Vous etes un imbecile, mais vous ferez tres bien cela.
+",
+"""_Here_.""",-- ici.,1337,aligned,-1,-1,110868,110875,,"_Here_."""
+"""And what s _he_ been up to?""",-- Et qu'est-ce qu'il a pu faire ?...,1341,aligned,-1,-1,111088,111115,,"And what s _he_ been up to?"""
+"""Yes, they re books.""",(No direct equivalent in text),1361,not aligned,-1,-1,110084,110103,,"Yes,
+they re books."""
+"""And wherever there was liquor he fancied""","""No direct equivalent in text""",1375,aligned,-1,-1,113930,113970,,And wherever there was liquor he fancied 
+"""I should think it was enough.""","""No direct equivalent in text""",1387,aligned,-1,-1,113002,113031,,"I should think it
+was enough."""
+"""He _has_.""","""No direct equivalent in text""",1400,aligned,-1,-1,114087,114096,,"He _has_."""
+"""I do,"" said Mr. Marvel.",(No direct equivalent in text),1407,not aligned,-1,-1,115797,115820,,"I do,"" said Mr. Marvel.
+"
+"""Wait a bit,"" said the mariner, rising and speaking slowly, ""D you mean to say ?""",(No direct equivalent in text),1408,not aligned,-1,-1,115714,115793,,"Wait a bit,"" said the mariner, rising and speaking slowly, ""D you mean
+to say ?"""
+"The mariner stared, paper in hand. Mr. Marvel jerkily faced about.",(No direct equivalent in text),1409,not aligned,-1,-1,115646,115712,,"The mariner stared, paper in hand. Mr. Marvel jerkily faced about.
+"
+"""Not a word of it,"" said Marvel, stoutly.",(No direct equivalent in text),1410,not aligned,-1,-1,115604,115644,,"Not a word of it,"" said Marvel, stoutly.
+"
+"""Hoax all the same,"" said Marvel. ""I know the chap that started the lie. There ain t no Invisible Man whatsoever Blimey.""",(No direct equivalent in text),1411,not aligned,-1,-1,115432,115551,,"Hoax all the same,"" said Marvel. ""I know the chap that started the
+lie. There ain t no Invisible Man whatsoever Blimey."""
+He edged in a curious way along the seat away from his interlocutor.,(No direct equivalent in text),1416,not aligned,-1,-1,115128,115196,,"He edged
+in a curious way along the seat away from his interlocutor. "
+"""But how bout this paper? D you mean to say ?""",(No direct equivalent in text),1417,not aligned,-1,-1,115555,115600,,"But how  bout this paper? D you mean to say ?"""
+"""Don't you come bandying words with _me_,"" said Mr. Marvel.","'-- Vous n'allez pas me chercher chicane, a moi !'",1436,aligned,129008,129056,-1,-1,"-- Vous n'allez pas me chercher chicane, a moi !
+",
+"""You'd better move on,"" said the mariner.",'-- Vous faites bien de filer !',1437,aligned,129260,129290,-1,-1,-- Vous faites bien de filer ! ,
+"""Bandying words! I'm a jolly good mind""",'-- Chercher chicane ! J'ai vraiment bonne envie...',1439,aligned,129058,129108,-1,-1,"-- Chercher chicane ! J'ai vraiment bonne envie...
+",
+"""and you, you little pot-bellied, leathery-faced son of an old boot, couldn't have the elementary manners""","'~~~ Et vous, petit pot a tabac, avec votre figure tannee, vous ne pouviez pas avoir la politesse elementaire de...'",1440,aligned,128895,129006,-1,-1," Et vous, petit pot a tabac, avec votre figure tannee, vous ne pouviez pas avoir la politesse elementaire de...
+",
+"""Who's moving on?"" said Mr. Marvel.",'-- Filer ! ~~~ Qui ? Moi ? ~~~ dit Marvel.',1442,aligned,129309,129343,-1,-1,"-- Filer ! Qui ? Moi ? dit Marvel.
+",
+"Dr. Kemp's solar lamp was lit, albeit the sky was still bright with the sunset light, and his blinds were up because there was no offence of peering outsiders to require them pulled down.","La lampe du docteur etait allumee deja, quoique le ciel resplendit encore du soleil couchant, et les stores etaient leves : il n'y avait pas a craindre que les gens du dehors pussent regarder au-dedans.",1465,aligned,132317,132519,-1,-1,"La lampe du docteur etait allumee deja, quoique le ciel resplendit encore du soleil couchant, et les stores etaient leves : il n'y avait pas a craindre que les gens du dehors pussent regarder au-dedans.
+",
+I can't imagine what possesses people.,Je ne peux pas concevoir ce qui tourne la tete a ces gens-la.,1469,aligned,133463,133524,-1,-1,Je ne peux pas concevoir ce qui tourne la tete a ces gens-la. ,
+"""Spurted, sir,"" said Dr. Kemp.",(No direct equivalent in text),1474,not aligned,-1,-1,120441,120470,,"Spurted, sir,"" said Dr. Kemp.
+"
+"""He seems in a confounded hurry,"" said Dr. Kemp, ""but he doesn't seem to be getting on.",Il parait furieusement presse... Mais il n'a pas l'air d'avancer !,1475,aligned,133708,133774,-1,-1,Il parait furieusement presse... Mais il n'a pas l'air d'avancer ! ,
+"If his pockets were full of lead, he couldn't run heavier.""","Certes, il ne courrait pas plus lourdement si ses poches etaient pleines de plomb...",1478,aligned,133775,133859,-1,-1,"Certes, il ne courrait pas plus lourdement si ses poches etaient pleines de plomb...
+",
+"But those who saw the fugitive nearer, and perceived the abject terror on his perspiring face, being themselves in the open roadway, did not share in the doctor's contempt.","Les personnes qui, etant elles-memes sur la grand-route, virent de plus pres le fuyard et purent observer la terreur bestiale repandue sur sa figure en sueur, n'eurent pas le meme detachement que le docteur Kemp.",1493,aligned,134240,134452,-1,-1,"Les personnes qui, etant elles-memes sur la grand-route, virent de plus pres le fuyard et purent observer la terreur bestiale repandue sur sa figure en sueur, n'eurent pas le meme detachement que le docteur Kemp. ",
+It was held half open by a strap.,(No direct equivalent in text),1500,not aligned,-1,-1,122976,123009,,"It was held half open by a strap.
+"
+He said he'd kill me and he will.,Il a promis de me tuer et il me tuera.,1512,aligned,137389,137427,-1,-1,"Il a promis de me tuer et il me tuera.
+",
+"""The door's shut.""",-- La porte est fermee.,1514,aligned,137485,137508,-1,-1,-- La porte est fermee. ,
+"""You're safe,"" said the man with the black beard.","-- Vous etes en lieu sur, dit l'homme a la barbe noire.",1515,aligned,137429,137484,-1,-1,"-- Vous etes en lieu sur, dit l'homme a la barbe noire. ",
+"""_Please_ don't open the door. _Where_ shall I hide?""","gemissait-il. Je vous en supplie, n'ouvrez pas ! Ou vais-je me cacher ?",1520,aligned,138103,138174,-1,-1,"gemissait-il. Je vous en supplie, n'ouvrez pas ! Ou vais-je me cacher ?
+",
+"""Don't open the door,"" he screamed.",-- N'ouvrez pas !,1521,aligned,138085,138102,-1,-1,-- N'ouvrez pas ! ,
+"""He'll kill me! He's got a knife or something. For Gawd's sake!""",-- Il me tuera ! Il a pris un couteau ou quelque chose... Par pitie...,1524,aligned,137857,137927,-1,-1,"-- Il me tuera ! Il a pris un couteau ou quelque chose... Par pitie...
+",
+"""Draw the bolts,"" said the man with the black beard.","Otez les verrous, -- dit l'homme a la barbe noire.",1549,aligned,139100,139150,-1,-1,"Otez les verrous, -- dit l'homme a la barbe noire. ",
+"""I say !""",(No direct equivalent in text),1555,not aligned,-1,-1,126059,126066,,"I say !"""
+"""I'm out of frocks,"" said the barman.","""-- J'en suis bleu ! ~~~ fit le garcon.""  (No direct equivalent in text)",1559,aligned,-1,-1,-1,-1,,
+"""There's the yard door and the private door. The yard door""","""-- Il y a la porte de la cour et l'entree particuliere. Celle de la cour...""",1560,aligned,140351,140426,-1,-1,"-- Il y a la porte de la cour et l'entree particuliere. Celle de la cour...
+",
+"""There's two women there, and I've stabbed every inch of it with this little beef slicer. And they don't think he's come in. They haven't noticed""","""-- Il y a la deux femmes qui n'ont rien entendu ; et, d'ailleurs, j'ai porte des coups dans tous les sens avec ce petit tranchelard. Elles ne pensent pas qu'il soit entre. Elles ont remarque...""",1561,aligned,140755,140948,-1,-1,"-- Il y a la deux femmes qui n'ont rien entendu ; et, d'ailleurs, j'ai porte des coups dans tous les sens avec ce petit tranchelard. Elles ne pensent pas qu'il soit entre. Elles ont remarque...
+",
+"""He's not in the kitchen,"" said the barman.","""-- En tout cas, il n'est pas dans la cuisine, -- repondit le garcon.""",1562,aligned,140686,140754,-1,-1,"-- En tout cas, il n'est pas dans la cuisine, -- repondit le garcon. ",
+He rushed out of the bar.,"""-- Il sortit en hate du bar.""",1566,aligned,-1,-1,126220,126245,,"He rushed out of the bar.
+"
+The bearded man's revolver cracked and the looking-glass at the back of the parlour starred and came smashing and tinkling down.,"Le revolver du grand barbu partit, la glace adossee au salon fut etoilee et vint se briser a terre avec fracas.",1570,aligned,141325,141436,-1,-1,"Le revolver du grand barbu partit, la glace adossee au salon fut etoilee et vint se briser a terre avec fracas.
+",
+The barman's red hands came clawing at the unseen.,Les mains rouges du garcon empoignerent l'ennemi qu'on ne voyait point.,1576,aligned,142299,142370,-1,-1,"Les mains rouges du garcon empoignerent l'ennemi qu'on ne voyait point.
+",
+"""That's the best of all. Four aces and a joker.",c'est encore ce qu'il y a de mieux. Quatre as et un roi !,1593,aligned,143830,143887,-1,-1,c'est encore ce qu'il y a de mieux. Quatre as et un roi ! ,
+CHAPTER XVII. DR. KEMP'S VISITOR,XVII L'HOTE DU DOCTEUR KEMP,1597,aligned,143974,144004,-1,-1,"XVII
+
+
+
+L'HOTE DU DOCTEUR KEMP
+",
+"""Who's letting off revolvers in Burdock? What are the asses at now?""","-- Qui est-ce qui tire ainsi, a Burdock ?... Que font maintenant ces anes-la ?",1599,aligned,144285,144363,-1,-1,"-- Qui est-ce qui tire ainsi, a Burdock ?... Que font maintenant ces anes-la ? ",
+"""Only a runaway ring, sir,"" she answered.",(No direct equivalent in text),1614,not aligned,-1,-1,131030,131070,,"Only a runaway ring, sir,"" she answered.
+"
+(No direct equivalent in text),"'-- Non, monsieur. Un passant qui a sonne, puis qui s'est enfui.'",1616,not aligned,146007,146070,-1,-1,"-- Non, monsieur. Un passant qui a sonne, puis qui s'est enfui.
+",
+It was two o'clock before Dr. Kemp had finished his work for the night.,Le docteur n'eut pas fini avant deux heures sa tache de la nuit.,1620,aligned,146431,146495,-1,-1,Le docteur n'eut pas fini avant deux heures sa tache de la nuit. ,
+"""If you shout, I'll smash your face,"" said the Invisible Man, relieving his mouth.","'-- Si vous criez, je vous ecrase la figure...'",1689,aligned,151157,151202,-1,-1,"-- Si vous criez, je vous ecrase la figure... ",
+"""I'm an Invisible Man. It's no foolishness, and no magic.""",'Je suis invisible. Il n'y a la ni sottise ni magie.',1690,aligned,151203,151254,-1,-1,Je suis invisible. Il n'y a la ni sottise ni magie. ,
+"I don't want to hurt you, but if you behave like a frantic rustic, I must.","Je ne veux pas vous faire de mal ; mais, si vous vous conduisez comme un rustre forcene, j'y serai contraint.",1692,aligned,151329,151438,-1,-1,"Je ne veux pas vous faire de mal ; mais, si vous vous conduisez comme un rustre forcene, j'y serai contraint. ",
+"""I'll stop where I am.",Je resterai ou je suis...,1695,aligned,151553,151578,-1,-1,Je resterai ou je suis... ,
+"Don't you remember me, Kemp? Griffin, of University College?","N'avez-vous pas garde souvenir de moi, Kemp... Griffin, de l'University College ?",1697,aligned,151439,151520,-1,-1,"N'avez-vous pas garde souvenir de moi, Kemp... Griffin, de l'University College ?
+",
+"""It's no devilry. It's a process, sane and intelligible enough""","""-- Il n'y a pas de sorcellerie. C'est un procede scientifique, et assez facile a comprendre.""",1710,aligned,152292,152384,-1,-1,"-- Il n'y a pas de sorcellerie. C'est un procede scientifique, et assez facile a comprendre.
+",
+"""It's horrible!""","""-- C'est horrible !""",1711,aligned,152198,152217,-1,-1,-- C'est horrible ! ,
+"""How on earth ?""",(No direct equivalent in text),1712,not aligned,-1,-1,136821,136835,,"How on earth ?"""
+"""It's horrible enough. But I'm wounded and in pain, and tired ... Great God! Kemp, you are a man.""","""-- Horrible, si vous voulez. Mais je suis blesse, je souffre, je suis ereinte... Bon Dieu ! Kemp, vous etes un homme.""",1713,aligned,152428,152545,-1,-1,"-- Horrible, si vous voulez. Mais je suis blesse, je souffre, je suis ereinte... Bon Dieu ! Kemp, vous etes un homme. ",
+"""Give me some whiskey. I'm near dead.""",-- Donnez-moi du whisky. Je suis a peu pres mort.,1716,aligned,153159,153208,-1,-1,"-- Donnez-moi du whisky. Je suis a peu pres mort.
+",
+"""That's better. Thank Heaven, you're getting sensible!""","Cela va mieux, Dieu merci ! Voila que vous devenez raisonnable.",1717,aligned,153030,153093,-1,-1,"Cela va mieux, Dieu merci ! Voila que vous devenez raisonnable.
+",
+"""It didn't feel so. Where are you? If I get up shall I run into you? _There_!""","-- Sapristi ! il n'y paraissait pas tout a l'heure... Ou etes-vous ? Si je me leve, ne tomberai-je pas sur vous ? La !...",1722,aligned,153210,153331,-1,-1,"-- Sapristi ! il n'y paraissait pas tout a l'heure... Ou etes-vous ? Si je me leve, ne tomberai-je pas sur vous ? La !... ",
+"""This is this must be hypnotism. You have suggested you are invisible.""","Cela est, cela ne peut etre que de l'hypnotisme ! dit-il.  Vous devez m'avoir suggere que vous etiez invisible.",1731,aligned,-1,-1,137836,137905,,"This is this must be hypnotism.
+You have suggested you are invisible."""
+"""Invisible!"" said Kemp, and sat down on a bedroom chair.",(No direct equivalent in text),1744,not aligned,-1,-1,139031,139086,,"Invisible!"" said Kemp, and sat down on a bedroom chair.
+"
+"He came back with some cold cutlets and bread, pulled up a light table, and placed them before his guest.",(No direct equivalent in text),1746,not aligned,-1,-1,138829,138934,,"He came back with some cold cutlets and bread,
+pulled up a light table, and placed them before his guest. "
+"""Of all the strange and wonderful """,(No direct equivalent in text),1757,not aligned,-1,-1,139307,139339,,Of all the strange and wonderful 
+"The Invisible Man's wrist was growing painful; he was feverish, exhausted, and his mind came round to brood upon his chase down the hill and the struggle about the inn.","Le poignet de l'homme invisible devenait douloureux. Il avait la fievre, il etait epuise. Son esprit se reportait sans cesse a la chasse qu'on lui avait donnee du haut en bas de la colline, a la lutte soutenue dans l'auberge.",1780,aligned,158616,158841,-1,-1,"Le poignet de l'homme invisible devenait douloureux. Il avait la fievre, il etait epuise. Son esprit se reportait sans cesse a la chasse qu'on lui avait donnee du haut en bas de la colline, a la lutte soutenue dans l'auberge. ",
+"He began his story, and abandoned it.","Il commenca son recit, et l'abandonna.",1781,aligned,158842,158880,-1,-1,"Il commenca son recit, et l'abandonna. ",
+"""You haven't changed much, Kemp, these dozen years. You fair men don't. Cool and methodical after the first collapse. I must tell you. We will work together!""","'-- Vous n'avez pas beaucoup change, Kemp, depuis une douzaine d'annees. Vous autres, hommes blonds, vous ne changez point. Froids et methodiques... Je vais vous dire : nous allons travailler ensemble.'",1782,aligned,158201,158401,-1,-1,"-- Vous n'avez pas beaucoup change, Kemp, depuis une douzaine d'annees. Vous autres, hommes blonds, vous ne changez point. Froids et methodiques... Je vais vous dire : nous allons travailler ensemble.
+",
+"""It's wild but I suppose I may drink.""",'-- C'est insense... Mais vous permettez que je boive ?...',1783,aligned,158142,158199,-1,-1,"-- C'est insense... Mais vous permettez que je boive ?...
+",
+"""I'm lucky to have fallen upon you, Kemp. You must help me. ~~~ Fancy tumbling on you just now! I'm in a devilish scrape I've been mad, I think. The things I have been through! But we will do things yet. Let me tell you""","'-- J'ai de la chance d'etre tombe sur vous, Kemp : vous allez m'aider. Quel bonheur de vous avoir precisement rencontre ! Je suis dans un embarras du diable ; j'ai ete fou, je crois. Quelles aventures j'ai traversees ! Mais, croyez-moi, nous ferons quelque chose, a nous deux, maintenant !'",1786,aligned,157706,157995,-1,-1,"-- J'ai de la chance d'etre tombe sur vous, Kemp : vous allez m'aider. Quel bonheur de vous avoir precisement rencontre ! Je suis dans un embarras du diable ; j'ai ete fou, je crois. Quelles aventures j'ai traversees ! Mais, croyez-moi, nous ferons quelque chose, a nous deux, maintenant !
+",
+"""For God's sake, let me smoke in peace for a little while! And then I will begin to tell you.""","'-- Pour Dieu, laissez-moi fumer en paix une minute ! Ensuite je vous le dirai.'",1788,aligned,158479,158557,-1,-1,"-- Pour Dieu, laissez-moi fumer en paix une minute ! Ensuite je vous le dirai.
+",
+"""I'll see what there is to eat downstairs,"" said Kemp. ""Not much, I'm afraid.""","'-- Je vais voir ce qu'il y a encore en bas. Pas grand-chose, je le crains !'",1791,aligned,157148,157223,-1,-1,"-- Je vais voir ce qu'il y a encore en bas. Pas grand-chose, je le crains !
+",
+"""Some fool I'd never seen fired at random. A lot of them got scared. They all got scared at me. Curse them! ~~~ I say I want more to eat than this, Kemp.""","'Un idiot que je n'avais jamais vu tirait a tort et a travers. Ils ont tous pris peur a mon arrivee. Que le diable les emporte !... Dites donc, je voudrais autre chose a manger, Kemp.'",1792,aligned,156964,157146,-1,-1,"Un idiot que je n'avais jamais vu tirait a tort et a travers. Ils ont tous pris peur a mon arrivee. Que le diable les emporte !... Dites donc, je voudrais autre chose a manger, Kemp.
+",
+"""_You_ didn't do any shooting?"" he asked.","'-- Mais vous, vous n'avez pas tire ?'",1796,aligned,156913,156949,-1,-1,"-- Mais vous, vous n'avez pas tire ?
+",
+"""Can't I have some more to eat before I tell you all that? ~~~ I'm hungry in pain. And you want me to tell stories!""","'-- Ne pourrais-je pas avoir autre chose a manger avant de vous dire tout cela ?... Je suis affame, je souffre, et vous me demandez de vous raconter des histoires !'",1797,aligned,156729,156892,-1,-1,"-- Ne pourrais-je pas avoir autre chose a manger avant de vous dire tout cela ?... Je suis affame, je souffre, et vous me demandez de vous raconter des histoires ! ",
+"""The cur! ~~~ ""I should have killed him!""",(No direct equivalent in text),1804,not aligned,-1,-1,142395,142431,,"The cur!
+
+""I should have killed him!"""
+Finally he expressed himself satisfied.,(No direct equivalent in text),1824,not aligned,-1,-1,143829,143868,,"Finally he expressed himself satisfied.
+"
+"""It's incredible.",C'est incroyable...,1834,aligned,161585,161604,-1,-1,C'est incroyable... ,
+I can't.,Je ne peux pas.,1837,aligned,161298,161313,-1,-1,Je ne peux pas. ,
+"""It's fact,"" he said.",-- C'est pourtant vrai ! fit-il.,1856,aligned,162752,162784,-1,-1,"-- C'est pourtant vrai ! fit-il.
+",
+Kemp's face changed a little.,Le visage de Kemp prit une expression particuliere :,1859,aligned,162112,162164,-1,-1,"Le visage de Kemp prit une expression particuliere :
+",
+"It was a little room, because Dr. Kemp did not live by practice, and in it were the day's newspapers.",'Ce cabinet etait tout petit : le docteur ne vivait pas de sa science. ~~~ Les journaux etaient la.',1876,aligned,163954,164048,-1,-1,Ce cabinet etait tout petit : le docteur ne vivait pas de sa science. Les journaux etaient la. ,
+Mais quoi ? (No direct equivalent in text),'Mais quoi ?',1881,aligned,163641,163652,-1,-1,Mais quoi ? ,
+"""You re rather liable to that sort of thing.""",(No direct equivalent in text),1939,not aligned,-1,-1,150685,150728,,"You re rather liable to that sort of thing."""
+"""I am.""",(No direct equivalent in text),1940,not aligned,-1,-1,60327,60332,,I am. 
+"I don't know what your plans are, but of course I'm anxious to help you.","J'ignore quels sont vos projets ; mais, bien entendu, je suis desireux de vous servir.",1948,aligned,169105,169191,-1,-1,"J'ignore quels sont vos projets ; mais, bien entendu, je suis desireux de vous servir.
+",
+"""There's breakfast upstairs,"" said Kemp, speaking as easily as possible,","-- Le dejeuner est servi la-haut, -- ajouta Kemp, d'un ton aussi aise que possible.",1949,aligned,169233,169316,-1,-1,"-- Le dejeuner est servi la-haut, -- ajouta Kemp, d'un ton aussi aise que possible.
+",
+Kemp led the way up the narrow staircase to the belvedere.,(No direct equivalent in text),1951,not aligned,-1,-1,151355,151413,,"Kemp led the way up the narrow staircase to the belvedere.
+"
+"""It's simple enough and credible enough,"" said Griffin, putting the serviette aside and leaning the invisible head on an invisible hand.","-- C'est bien simple, -- repondit Griffin, en posant sa serviette a cote de lui.",1954,aligned,169943,170023,-1,-1,"-- C'est bien simple, -- repondit Griffin, en posant sa serviette a cote de lui.
+",
+"""No doubt, to you, but...""","-- Pour vous, sans doute ; mais...",1955,aligned,170025,170059,-1,-1,"-- Pour vous, sans doute ; mais...
+",
+Light fascinated me.,L'etude de la lumiere m'attirait.,1963,aligned,170476,170509,-1,-1,"L'etude de la lumiere m'attirait.
+",
+"'""As though knowing could be any satisfaction to a man!""'","'Comme si, de connaitre, de savoir, cela pouvait procurer quelque satisfaction a un homme!...'",1971,aligned,-1,-1,152667,152720,,"As though knowing could be any satisfaction to a man!"""
+Laissez-moi vous exposer les notions elementaires comme si vous ne les connaissiez pas du tout. Mon explication en deviendra plus claire.,(No direct equivalent in text),1987,not aligned,-1,-1,-1,-1,,
+Il n'y a pas d'ecolier aujourd'hui qui ne sache tout cela. (No direct equivalent in text),Il n'y a pas d'ecolier aujourd'hui qui ne sache tout cela.,2007,aligned,174441,174499,-1,-1,"Il n'y a pas d'ecolier aujourd'hui qui ne sache tout cela.
+",
+"""Now you have me! And all that I knew and had in mind a year after I left London six years ago. But I kept it to myself.""","""Maintenant vous me comprenez ! Vous etes au courant de tout ce que je savais, de tout ce que j'avais dans l'esprit, un an apres avoir quitte Londres -- il y a six ans. Mais je gardais tout pour moi.""",2026,aligned,177200,177398,-1,-1,"Maintenant vous me comprenez ! Vous etes au courant de tout ce que je savais, de tout ce que j'avais dans l'esprit, un an apres avoir quitte Londres -- il y a six ans. Mais je gardais tout pour moi. ",
+"""One could make it invisible!""",'On pouvait le rendre invisible !',2042,aligned,-1,-1,159267,159295,,"One could make
+it invisible! "
+"""All except the pigments I could be invisible!""","(No direct equivalent in text, but conceptually linked to the following sentence)",2043,aligned,-1,-1,159296,159341,,All except the pigments I could be invisible! 
+"""In all my great moments I have been alone.""",(No direct equivalent in text),2049,not aligned,-1,-1,159176,159218,,"In all my great moments I have been
+alone. "
+"""It was late at night; in the daytime one was bothered with the gaping, silly students""","'Il etait tard, le soir (dans la journee, on etait assomme par des eleves sots et paresseux) ;'",2053,aligned,178552,178645,-1,-1,"Il etait tard, le soir (dans la journee, on etait assomme par des eleves sots et paresseux) ; ",
+"""I can't explain it.  She was bandaged and clamped, of course so I had her safe;""","""Je n'y peux rien comprendre. Le chat etait bien attache, naturellement : il n'allait pas se sauver.""",2142,aligned,186587,186686,-1,-1,"Je n'y peux rien comprendre. Le chat etait bien attache, naturellement : il n'allait pas se sauver. ",
+"I lay awake thinking weak aimless stuff, going over the experiment over and over again, dreaming feverishly of things growing misty and vanishing about me, until everything, the ground I stood on, vanished, and so I came to that sickly falling nightmare one gets.","J'eus de la peine a m'endormir ; je restais eveille, pensant vaguement a des choses sans suite, reprenant toujours mon experience, revant fievreusement que tous les objets s'obscurcissaient peu a peu, s'evanouissaient, jusqu'a ce que le sol meme ou je me tenais s'evanouit. J'arrivai ainsi au cauchemar maladif et au vertige.",2162,aligned,188199,188524,-1,-1,"J'eus de la peine a m'endormir ; je restais eveille, pensant vaguement a des choses sans suite, reprenant toujours mon experience, revant fievreusement que tous les objets s'obscurcissaient peu a peu, s'evanouissaient, jusqu'a ce que le sol meme ou je me tenais s'evanouit. J'arrivai ainsi au cauchemar maladif et au vertige. ",
+"""Why not?"" said Kemp. ""I didn't mean to interrupt.""",Mais je n'avais pas l'intention de vous interrompre.,2164,aligned,189751,189803,-1,-1,"Mais je n'avais pas l'intention de vous interrompre.
+",
+"""If it hasn't been killed,"" said the Invisible Man.",-- A moins qu'on ne l'ait tue... Pourquoi pas ? fit l'homme invisible.,2165,aligned,189658,189728,-1,-1,"-- A moins qu'on ne l'ait tue... Pourquoi pas ? fit l'homme invisible.
+",
+"Then Heaven knows why I fell thinking of my father's funeral again, and the dismal windy hillside, until the day had come.","Alors, Dieu sait pourquoi ! je repensai a l'enterrement de mon pere, a la colline lugubre battue par le vent, jusqu'a ce que le jour se levat.",2167,aligned,189290,189432,-1,-1,"Alors, Dieu sait pourquoi ! je repensai a l'enterrement de mon pere, a la colline lugubre battue par le vent, jusqu'a ce que le jour se levat. ",
+"I would have given it milk, but I hadn't any.","Je lui aurais bien donne du lait, mais je n'en avais plus.",2168,aligned,188820,188878,-1,-1,"Je lui aurais bien donne du lait, mais je n'en avais plus. ",
+"It wouldn't be quiet, it just sat down and miaowed at the door.",Il ne voulait pas se tenir tranquille ; il s'assit et miaula encore jusqu'a la porte.,2169,aligned,188879,188964,-1,-1,Il ne voulait pas se tenir tranquille ; il s'assit et miaula encore jusqu'a la porte. ,
+"I tried to catch it, with an idea of putting it out of the window, but it wouldn't be caught, it vanished.","J'essayai de l'attraper avec l'idee de le jeter par la fenetre, mais il ne se laissa pas prendre, il disparut, tout en continuant de miauler a droite et a gauche dans la chambre.",2170,aligned,188965,189143,-1,-1,"J'essayai de l'attraper avec l'idee de le jeter par la fenetre, mais il ne se laissa pas prendre, il disparut, tout en continuant de miauler a droite et a gauche dans la chambre. ",
+At last I opened the window and made a bustle.,(No direct equivalent in text),2172,not aligned,-1,-1,167797,167843,,"At last I opened the
+window and made a bustle. "
+"""You don't mean to say there's an invisible cat at large!"" said Kemp.",-- Vous ne voulez pas dire qu'il y a un chat invisible lache a travers le monde ? demanda Kemp.,2174,aligned,189561,189656,-1,-1,"-- Vous ne voulez pas dire qu'il y a un chat invisible lache a travers le monde ? demanda Kemp.
+",
+"'""It s the palaeolithic in a bottle.""'",(No direct equivalent in text),2196,not aligned,-1,-1,170206,170240,,"It s the palaeolithic in a bottle."""
+I had to hang on to the table and press my forehead against the glass.,(No direct equivalent in text),2259,not aligned,-1,-1,175005,175075,,"I had to hang on to the table and press my forehead
+against the glass.
+"
+"One of my fellow lodgers, a coster-monger who shared the opposite room with a butcher, appeared on the landing, and he was called in and told incoherent things.","La vieille regardait encore dans le buffet et sous le lit : l'un de mes colocataires, un marchand des quatre saisons, qui partageait avec un boucher la chambre d'en face, apparut sur le palier : on l'appela, il entra, et debita des sottises. (Partial Match)",2281,aligned,-1,-1,178081,178241,,"One of my fellow lodgers, a
+coster-monger who shared the opposite room with a butcher, appeared on
+the landing, and he was called in and told incoherent things.
+"
+"The old lady peered into the cupboard and under the bed, and one of the young men pushed up the register and stared up the chimney.","La vieille regardait encore dans le buffet et sous le lit : l'un de mes colocataires, un marchand des quatre saisons, qui partageait avec un boucher la chambre d'en face, apparut sur le palier : on l'appela, il entra, et debita des sottises. (Partial Match)",2283,aligned,-1,-1,177949,178080,,"The old lady peered
+into the cupboard and under the bed, and one of the young men pushed up
+the register and stared up the chimney. "
+I went into one of the sitting-rooms and waited.,"Au rez-de-chaussee, j'entrai dans une petite piece ou j'attendis.",2296,aligned,202006,202071,-1,-1,"Au rez-de-chaussee, j'entrai dans une petite piece ou j'attendis. ",
+"""Looky there, Ted,"" quoth the younger of the detectives, with the sharpness of surprise in his voice, and pointed straight to my feet.","""Regardez, la, Ted ! >> fit le plus jeune des petits detectives, avec la voix aigue de la surprise. >> Et il allongeait le doigt dans la direction de mes pieds.""",2354,aligned,-1,-1,-1,-1,,
+"""""Why, that's rum,"" said the elder.""","""<< Eh ! c'est bizarre, dit le plus age, c'est renversant !""",2355,aligned,210089,210144,-1,-1,"Eh ! c'est bizarre, dit le plus age, c'est renversant ! ",
+"""Dashed rum!""",(No direct equivalent in text),2356,not aligned,-1,-1,185876,185887,,Dashed rum! 
+What's up? asked someone.,Qu'est-ce qu'il a ? demanda quelqu'un.,2365,aligned,210882,210920,-1,-1,Qu'est-ce qu'il a ? demanda quelqu'un. ,
+I had burnt my boats if ever a man did!,"Tout ! Si jamais homme brula ses vaisseaux, c'etait bien moi !",2386,aligned,-1,-1,189002,189041,,"I had burnt my boats if ever a
+man did! "
+"and the sniffing old clergyman mumbling Earth to earth, ashes to ashes, dust to dust, at my father's open grave.","j'entendis le vieux clergyman renifler et marmotter sur la tombe ouverte de mon pere : << Le limon au limon, la cendre a la cendre, la poussiere a la poussiere... >>",2448,aligned,221465,221627,-1,-1,"j'entendis le vieux clergyman renifler et marmotter sur la tombe ouverte de mon pere : << Le limon au limon, la cendre a la cendre, la poussiere a la poussiere... ",
+"""You also,"" said a voice, and suddenly I was being forced towards the grave.","<< Vous aussi ! >> fit une voix. ~~~ Et, tout a coup, je fus pousse vers le trou.",2449,aligned,221634,221708,-1,-1,"Vous aussi ! >> fit une voix. Et, tout a coup, je fus pousse vers le trou. ",
+"""I suppose they saw merely a figure moving quietly and quickly away.""",(No direct equivalent in text),2463,not aligned,-1,-1,197419,197486,,"I suppose
+they saw merely a figure moving quietly and quickly away. "
+But I saw clearly it could not be for long.,(No direct equivalent in text),2510,not aligned,-1,-1,202046,202089,,"But I saw clearly it could not be for long.
+"
+What to do with my face puzzled me.,(No direct equivalent in text),2517,not aligned,-1,-1,202408,202443,,What to do with my face puzzled me. 
+I sat on the head of the staircase until his return.,(No direct equivalent in text),2571,not aligned,-1,-1,208228,208280,,"I sat on the head of the staircase until his return.
+"
+Can't you see my position?,Vous figurez-vous ma position ?,2616,aligned,239382,239413,-1,-1,"Vous figurez-vous ma position ?
+",
+"""Robbing! Confound it! You'll call me a thief next!","-- De le voler ? Mon Dieu, mon Dieu ! vous allez m'appeler filou bientot !...",2617,aligned,239222,239299,-1,-1,"-- De le voler ? Mon Dieu, mon Dieu ! vous allez m'appeler filou bientot !... ",
+"My dear Kemp, it's no good your sitting glaring as though I was a murderer.","Mon cher Kemp, ce n'est pas bien de me regarder comme si j'avais commis un meurtre.",2623,aligned,238898,238981,-1,-1,"Mon cher Kemp, ce n'est pas bien de me regarder comme si j'avais commis un meurtre. ",
+I couldn't think of any other way of doing it.,et je n'avais pas d'autre facon d'y arriver.,2627,aligned,238556,238600,-1,-1,et je n'avais pas d'autre facon d'y arriver. ,
+It had to be done.,(No direct equivalent in text),2630,not aligned,-1,-1,211131,211149,,It had to be done. 
+Kemp's face grew a trifle hard.,La figure de Kemp devint un peu dure.,2631,aligned,239514,239551,-1,-1,La figure de Kemp devint un peu dure. ,
+"Surely, Kemp, you're not fool enough to dance on the old strings.","Assurement, Kemp, vous n'etes pas assez naif pour donner dans les vieux prejuges.",2632,aligned,239300,239381,-1,-1,"Assurement, Kemp, vous n'etes pas assez naif pour donner dans les vieux prejuges. ",
+"""A brisk traffic was going by, fruit carts, a hansom, a four-wheeler with a pile of boxes, a fishmonger's cart.""","'La circulation etait active : des charrettes de fruits, un cab, une voiture a galerie couverte de caisses, la charrette d'un marchand de poisson...'",2644,aligned,240708,240855,-1,-1,"La circulation etait active : des charrettes de fruits, un cab, une voiture a galerie couverte de caisses, la charrette d'un marchand de poisson... ",
+"""I never blame anyone,"" said Kemp. ""It's quite out of fashion. What did you do next?""","'-- Je ne blame jamais personne, repondit Kemp. Ca ne se fait plus... Et ensuite ?'",2648,aligned,240080,240161,-1,-1,"-- Je ne blame jamais personne, repondit Kemp. Ca ne se fait plus... Et ensuite ?
+",
+In five minutes a dozen turnings intervened between me and the costumier's shop.,"En moins de cinq minutes, j'avais tourne par une douzaine de rues qui me separaient de la boutique et du costumier.",2658,aligned,243306,243421,-1,-1,"En moins de cinq minutes, j'avais tourne par une douzaine de rues qui me separaient de la boutique et du costumier. ",
+"""No,"" said the Invisible Man.  ""Nor have I heard what became of him. I suppose he untied himself or kicked himself out.""","-- Non. Et je n'ai jamais su ce qu'il etait devenu. J'imagine qu'il se sera delie, soit avec ses mains, soit en gigotant.",2663,aligned,243639,243760,-1,-1,"-- Non. Et je n'ai jamais su ce qu'il etait devenu. J'imagine qu'il se sera delie, soit avec ses mains, soit en gigotant. ",
+"I could find no socks, but the hunchback's boots were rather a loose fit and sufficed.","Je ne trouvai pas de chaussettes, mais les bottes du bossu m'allaient assez bien, et cela suffisait.",2665,aligned,242245,242345,-1,-1,"Je ne trouvai pas de chaussettes, mais les bottes du bossu m'allaient assez bien, et cela suffisait. ",
+I felt amazingly confident; it's not particularly pleasant recalling that I was an ass.,"J'etais plein d'une confiance etonnante ; j'etais un serin, -- il ne m'est pas particulierement agreable de me le rappeler. --",2681,aligned,244470,244596,-1,-1,"J'etais plein d'une confiance etonnante ; j'etais un serin, -- il ne m'est pas particulierement agreable de me le rappeler. -- ",
+I don't know if you have ever been disappointed in your appetite.,Je ne sais si votre appetit a jamais ete desappointe de cette facon ?... --,2687,aligned,244871,244947,-1,-1,"Je ne sais si votre appetit a jamais ete desappointe de cette facon ?...
+
+-- ",
+"No doubt it's exasperating,"" said Kemp, drily.",(No direct equivalent in text),2731,not aligned,-1,-1,-1,-1,,
+"As it is, they've made things a thousand times more difficult.","Deja, ils m'ont rendu les choses mille fois plus difficiles !...",2733,aligned,248470,248534,-1,-1,"Deja, ils m'ont rendu les choses mille fois plus difficiles !...
+",
+And do things.,(No direct equivalent in text),2745,not aligned,-1,-1,220340,220354,,"And do
+things. "
+"He has hidden my books, Kemp.","Il a cache mes livres, Kemp !",2749,aligned,249884,249913,-1,-1,"Il a cache mes livres, Kemp ! ",
+"""You have told no one I am here?"" he asked abruptly.",'-- Vous n'avez dit a personne que j'etais ici ? demanda-t-il brusquement.',2756,aligned,-1,-1,221568,221619,,"You have told no one I am here?"" he asked abruptly.
+"
+"""Certainly we must get those books. But that won't be difficult, if he doesn't know they're for you.""","'-- Certainement, il faut que nous ayons ces livres. Mais cela ne sera pas bien difficile, s'il ne sait pas ce que ces livres representent pour vous.'",2759,aligned,250437,250585,-1,-1,"-- Certainement, il faut que nous ayons ces livres. Mais cela ne sera pas bien difficile, s'il ne sait pas ce que ces livres representent pour vous.
+",
+"""In spite of all that has happened, in spite of this publicity, of the loss of my books, of what I have suffered, there still remain great possibilities, huge possibilities...""","'Malgre tout ce qui est arrive, malgre cette publicite, malgre la perte de mes livres et tout ce que j'ai souffert, il ne me reste pas moins la possibilite de faire de grandes choses, des choses enormes...'",2763,aligned,250904,251108,-1,-1,"Malgre tout ce qui est arrive, malgre cette publicite, malgre la perte de mes livres et tout ce que j'ai souffert, il ne me reste pas moins la possibilite de faire de grandes choses, des choses enormes... ",
+"""Why killing?""",'Pourquoi tuer ?',2795,aligned,252987,253002,-1,-1,"Pourquoi tuer ?
+",
+Kemp's face became white.,Il devint bleme.,2832,aligned,255639,255655,-1,-1,Il devint bleme. ,
+By Jove! it's urgent. Come along tell me as we go.,"Parbleu ! il y a urgence. Allons, venez... nous causerons en marchant.",2879,aligned,259938,260008,-1,-1,"Parbleu ! il y a urgence. Allons, venez... nous causerons en marchant. ",
+They found the front door open and the policemen standing outside staring at empty air.,(No direct equivalent in text),2884,not aligned,-1,-1,229256,229343,,"They found the
+front door open and the policemen standing outside staring at empty
+air. "
+"""He's got away, sir,"" said one.","-- Il est parti, monsieur ! dit l'un.",2893,aligned,260244,260281,-1,-1,"-- Il est parti, monsieur ! dit l'un.
+",
+"""Says he hasn't them. But he thinks the tramp has.",-- Dit qu'il ne les a point. Mais l'autre est persuade qu'il les a...,2894,aligned,258965,259034,-1,-1,-- Dit qu'il ne les a point. Mais l'autre est persuade qu'il les a... ,
+"""Get dogs. They don't see him, but they wind him. Get dogs.""","'Prenez des chiens. Ils ne le voient pas, mais ils l'eventent. Prenez des chiens.'",2896,aligned,260466,260546,-1,-1,"Prenez des chiens. Ils ne le voient pas, mais ils l'eventent. Prenez des chiens.
+",
+"""Good,"" said Adye. ""It's not generally known, but the prison officials over at Halstead know a man with bloodhounds.""","'-- Parfait ! On ne le sait pas en general, mais les gardiens, a la prison de Halstead, depistent un homme avec des limiers !...'",2897,aligned,260548,260675,-1,-1,"-- Parfait ! On ne le sait pas en general, mais les gardiens, a la prison de Halstead, depistent un homme avec des limiers !... ",
+"""Powdered glass,"" said Kemp. ""It's cruel, I know. But think of what he may do!""","'Du verre pile !... C'est cruel, je le sais. Mais songez a ce qu'il peut faire.'",2911,aligned,261286,261364,-1,-1,"Du verre pile !... C'est cruel, je le sais. Mais songez a ce qu'il peut faire.
+",
+"""The man's become inhuman, I tell you,"" said Kemp.","'-- Cet homme s'est mis hors de l'humanite, je vous dis.'",2917,aligned,261525,261580,-1,-1,"-- Cet homme s'est mis hors de l'humanite, je vous dis. ",
+"""But I'll have powdered glass got ready.""",'Je vais toujours faire preparer du verre pile.',2919,aligned,261456,261502,-1,-1,Je vais toujours faire preparer du verre pile. ,
+"""I don't know.""","'Apres tout, je ne sais pas.'",2920,aligned,261428,261455,-1,-1,"Apres tout, je ne sais pas. ",
+"""It's unsportsmanlike.""",'-- Vilaine chasse ! dit-il.',2921,aligned,261400,261427,-1,-1,-- Vilaine chasse ! dit-il. ,
+"""The Invisible Man seems to have rushed out of Kemp's house in a state of blind fury.""","'Il y a tout lieu de croire que l'homme invisible, lorsqu'il s'elanca hors de chez Kemp, etait dans un etat de fureur aveugle.'",2923,aligned,261936,262061,-1,-1,"Il y a tout lieu de croire que l'homme invisible, lorsqu'il s'elanca hors de chez Kemp, etait dans un etat de fureur aveugle. ",
+"""A little child playing near Kemp's gateway was violently caught up and thrown aside, so that its ankle was broken, and thereafter for some hours the Invisible Man passed out of human perceptions.""","'Un petit enfant, qui jouait pres de la porte, fut violemment enleve de terre et jete de cote ; il eut la cheville brisee et resta quelques heures sans connaissance.'",2924,aligned,262062,262226,-1,-1,"Un petit enfant, qui jouait pres de la porte, fut violemment enleve de terre et jete de cote ; il eut la cheville brisee et resta quelques heures sans connaissance. ",
+"At any rate he vanished from human ken about midday, and no living witness can tell what he did until about half-past two.","Quoi qu'il en soit, il disparut aux yeux de tous vers midi, et il n'est pas de temoin qui puisse dire ce qu'il fit jusque vers deux heures et demie.",2936,aligned,-1,-1,232125,232247,,"At any rate he vanished from human ken about midday, and no
+living witness can tell what he did until about half-past two. "
+"By two o clock even he might still have removed himself out of the district by getting aboard a train, but after two that became impossible.","A deux heures, il aurait encore pu quitter le district en prenant quelque train ; plus tard cela devenait impossible.",2937,aligned,-1,-1,232708,232848,,"By two o clock even he might still
+have removed himself out of the district by getting aboard a train, but
+after two that became impossible. "
+"""He must get food every day and I don't envy him.'",'Il faut qu'il trouve a manger tous les jours... je ne l'envie pas...',3017,aligned,275212,275280,-1,-1,Il faut qu'il trouve a manger tous les jours... je ne l'envie pas... ,
+(No direct equivalent in text),'et malgre votre audace !... ',3018,not aligned,275059,275086,-1,-1,et malgre votre audace !... ,
+"""I'm getting nervous,"" said Kemp.",'Je deviens nerveux !',3023,aligned,275637,275657,-1,-1,"Je deviens nerveux !
+",
+He's close here.,Il est tout pres d'ici.,3043,aligned,276200,276223,-1,-1,Il est tout pres d'ici. ,
+A little breeze seemed to ripple over the grass. Something moved near him.,la legere brise sembla courir sur le gazon ; quelque chose remua aupres de lui.,3100,aligned,-1,-1,246456,246530,,"A little breeze
+seemed to ripple over the grass. Something moved near him. "
+"""""Oblige me by going back to the house,"" said the Voice, as tense and grim as Adye's.""","""-- Faites-moi le plaisir de retourner a la maison ! -- dit la voix, d'un ton aussi sec et dur que celui du colonel.""",3104,aligned,280062,280177,-1,-1,"-- Faites-moi le plaisir de retourner a la maison ! -- dit la voix, d'un ton aussi sec et dur que celui du colonel.
+",
+"""Suppose he were to take his luck with a shot?""","""S'il essayait d'une balle!... --""",3107,aligned,-1,-1,246890,246935,,"Suppose he were to
+take his luck with a shot?
+"
+"""and there was a quick movement of the two, and a flash of sunlight from the open lip of Adye's pocket.""","""Les deux interlocuteurs firent un mouvement rapide ; le revolver brilla dans la poche entrebaillee du colonel.""",3111,aligned,280394,280504,-1,-1,Les deux interlocuteurs firent un mouvement rapide ; le revolver brilla dans la poche entrebaillee du colonel. ,
+"""I'd kill you now if it wasn't the waste of a bullet,"" it said.","'-- Je vous tuerais tout de suite, prononca-t-elle, si ce n'etait perdre une balle.'",3115,aligned,281029,281111,-1,-1,"-- Je vous tuerais tout de suite, prononca-t-elle, si ce n'etait perdre une balle.
+",
+"""Attention,"" said the Voice, and then fiercely, ""Don t try any games. Remember I can see your face if you can t see mine. You ve got to go back to the house.""","-- Attention ! -- N'essayez pas de jouer avec moi. Rappelez-vous que, moi, je vois votre figure, si vous ne voyez pas la mienne. Vous allez retourner a la maison.",3123,aligned,-1,-1,247725,247881,,"Attention,"" said the Voice, and then fiercely, ""Don t try any games.
+Remember I can see your face if you can t see mine. You ve got to go
+back to the house."""
+"""Get up,"" said the Voice.","-- Levez-vous ! commanda la voix, d'un ton ferme.",3125,aligned,-1,-1,247682,247706,,"Get up,"" said the Voice.
+"
+"""Don't push a winning game too far. Give a man a chance.""",(No direct equivalent in text),3142,not aligned,-1,-1,-1,-1,,
+"Mr. Heelas, Mr. Kemp's nearest neighbour among the villa holders, was asleep in his summer house when the siege of Kemp's house began.","M. Heelas, le voisin le plus proche de Kemp, dormait dans son pavillon, quand le siege de la maison commenca.",3228,aligned,290632,290741,-1,-1,"M. Heelas, le voisin le plus proche de Kemp, dormait dans son pavillon, quand le siege de la maison commenca. ",
+The second policeman's opinion of Kemp was terse and vivid.,"L'idee que le second agent eut de Kemp, a ce moment-la, ne fut pas moins brillante.",3231,aligned,290423,290506,-1,-1,"L'idee que le second agent eut de Kemp, a ce moment-la, ne fut pas moins brillante.
+",
+"""Doctor Kemp's a hero,"" he said, as his companion looked over his shoulder.","-- Le docteur Kemp est un heros ! -- reprit-il, comme son camarade arrivait pour regarder par-dessus son epaule.",3233,aligned,290204,290316,-1,-1,"-- Le docteur Kemp est un heros ! -- reprit-il, comme son camarade arrivait pour regarder par-dessus son epaule.
+",
+"""Don't know. I've hit him. He's standing somewhere in the hall. Unless he's slipped past you. Doctor Kemp sir.""","'-- Je n'en sais rien, mais je l'ai touche. Il est quelque part dans le vestibule, a moins qu'il n'ait file derriere vous. Docteur !... Monsieur !... Docteur !...",3243,aligned,289618,289779,-1,-1,"-- Je n'en sais rien, mais je l'ai touche. Il est quelque part dans le vestibule, a moins qu'il n'ait file derriere vous. Docteur !... Monsieur !... Docteur !... ",
+"""You can't come in,"" said Mr. Heelas, shutting the bolts. ""I'm very sorry if he's after you, but you can't come in!""","-- Vous n'entrerez pas ! -- cria M. Heelas en poussant les verrous. -- S'il est a vos trousses, j'en suis bien fache... mais vous n'entrerez pas !",3273,aligned,293855,294001,-1,-1,"-- Vous n'entrerez pas ! -- cria M. Heelas en poussant les verrous. -- S'il est a vos trousses, j'en suis bien fache... mais vous n'entrerez pas !
+",
+And there was no shouting after Kemp's cry only a sound of blows and feet and heavy breathing.,"'On n'entendit plus rien, d'ailleurs, apres le cri de Kemp, qu'un bruit de coups, de pietinement, et un souffle penible.'",3326,aligned,299860,299979,-1,-1,"On n'entendit plus rien, d'ailleurs, apres le cri de Kemp, qu'un bruit de coups, de pietinement, et un souffle penible.
+",
+"""Help! Help! Hold him! He's down! Hold his feet!""",'Au secours ! au secours !... Tenez-le ! Il est par terre ! Prenez-lui les pieds !',3328,aligned,299586,299667,-1,-1,"Au secours ! au secours !... Tenez-le ! Il est par terre ! Prenez-lui les pieds !
+",
+"and three little children, pushing forward through the crowd, were suddenly twisted round and sent packing off again. (No direct equivalent in text)","'-- Couvrez-lui la figure ! cria quelqu'un. Pour l'amour de Dieu, qu'on lui couvre la figure !'",3372,aligned,303462,303555,-1,-1,"-- Couvrez-lui la figure ! cria quelqu'un. Pour l'amour de Dieu, qu'on lui couvre la figure !
+",
+"""When they found they couldn't prove whose money was which, I'm blessed,"" he says, ""if they didn't try to make me out a blooming treasure trove! Do I _look_ like a Treasure Trove?""","'-- Quand ils reconnurent qu'ils ne pouvaient pas etablir a qui etait l'argent, je veux etre pendu, repeta-t-il, s'ils n'ont pas voulu me faire passer pour un trouveur de tresor... Voyons, est-ce que j'ai l'air d'un trouveur de tresor ?'",3377,aligned,304743,304978,-1,-1,"-- Quand ils reconnurent qu'ils ne pouvaient pas etablir a qui etait l'argent, je veux etre pendu, repeta-t-il, s'ils n'ont pas voulu me faire passer pour un trouveur de tresor... Voyons, est-ce que j'ai l'air d'un trouveur de tresor ? ",
+"""And if you want to cut off the flow of his reminiscences abruptly, you can always do so by asking if there weren't three manuscript books in the story.""","'Et, si vous eprouvez le besoin d'interrompre brusquement le cours de ses souvenirs, cela vous sera toujours facile : demandez-lui s'il n'etait pas question, dans son histoire, de trois manuscrits.'",3378,aligned,305089,305285,-1,-1,"Et, si vous eprouvez le besoin d'interrompre brusquement le cours de ses souvenirs, cela vous sera toujours facile : demandez-lui s'il n'etait pas question, dans son histoire, de trois manuscrits. ",
+"""But bless you! he hasn't.""","'~~~ Mais, bon Dieu ! il ne les a pas.'",3380,aligned,305411,305445,-1,-1," Mais, bon Dieu ! il ne les a pas. ",
+"""""The Invisible Man it was took em off to hide em when I cut and ran for Port Stowe. It's that Mr. Kemp put people on with the idea of _my_ having em.""""","""<< L'homme invisible les a pris, pour les cacher, au moment ou je l'ai quitte, m'enfuyant vers Port-Stowe... C'est M. Kemp qui a mis dans la tete des gens que je les avais. >>""",3383,aligned,305449,305618,-1,-1,"L'homme invisible les a pris, pour les cacher, au moment ou je l'ai quitte, m'enfuyant vers Port-Stowe... C'est M. Kemp qui a mis dans la tete des gens que je les avais. ",
+And none other will know of them until he dies. H. G. WELLS',Personne n'en saura rien jusqu'a sa mort. H. G. WELLS',3389,aligned,308172,308230,-1,-1,"Personne n'en saura rien jusqu'a sa mort.
+
+
+
+
+
+H. G. WELLS
+",

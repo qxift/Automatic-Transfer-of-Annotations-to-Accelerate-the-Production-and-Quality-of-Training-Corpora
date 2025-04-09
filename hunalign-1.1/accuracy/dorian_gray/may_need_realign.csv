@@ -1,0 +1,626 @@
+eng,fr,id,llm alignment result,phrase_startByte_fr,phrase_endByte_fr,phrase_startByte_eng,phrase_endByte_eng,extracted_text_fr,extracted_text_eng
+An ethical sympathy in an artist is an unpardonnable mannerism of style.,Une sympathie morale dans un artiste amene un manierisme impardonnable du style.,18,aligned,1268,1348,-1,-1,"Une sympathie morale dans un artiste amene un manierisme impardonnable du style.
+",
+No artist is ever morbid.,(No direct equivalent in text),19,not aligned,-1,-1,1246,1271,,No artist is ever morbid. 
+"From the point of view of feeling, the actor's craft is the type.","Au point de vue de la sensation, c'est le metier de comedien.",24,aligned,1607,1668,-1,-1,"Au point de vue de la sensation, c'est le metier de comedien.
+",
+"""Oh, I can't explain.",-- Oh ! je ne puis vous l'expliquer.,83,aligned,8626,8662,-1,-1,-- Oh ! je ne puis vous l'expliquer. ,
+"Your rank and wealth, Harry; my brains, such as they are my art, whatever it may be worth; Dorian Gray's good looks we shall all suffer for what the gods have given us, suffer terribly.","Mais vous, avec votre rang et votre fortune, Harry, moi, avec mon cerveau tel qu'il est, mon art aussi imparfait qu'il puisse etre, Dorian Gray avec sa beaute, nous souffrirons tous pour ce que les dieux nous ont donne, nous souffrirons terriblement...",86,aligned,8201,8453,-1,-1,"Mais vous, avec votre rang et votre fortune, Harry, moi, avec mon cerveau tel qu'il est, mon art aussi imparfait qu'il puisse etre, Dorian Gray avec sa beaute, nous souffrirons tous pour ce que les dieux nous ont donne, nous souffrirons terriblement...
+",
+"I didn't intend to tell it to you.""",Je n'avais pas l'intention de vous le dire.,89,aligned,8563,8606,-1,-1,"Je n'avais pas l'intention de vous le dire.
+",
+"When I like people immensely, I never tell their names to anyone.","Quand j'aime quelqu'un intensement, je ne dis son nom a personne.",91,aligned,8663,8728,-1,-1,"Quand j'aime quelqu'un intensement, je ne dis son nom a personne. ",
+"It is a silly habit, I dare say, but somehow it seems to bring a great deal of romance into one's life.","C'est une mauvaise habitude, je l'avoue, mais en quelque sorte, elle apporte dans la vie une part de romanesque...",98,aligned,9075,9189,-1,-1,"C'est une mauvaise habitude, je l'avoue, mais en quelque sorte, elle apporte dans la vie une part de romanesque... ",
+"'When we meet -- we do meet occasionally, when we dine out together, or go down to the Duke's -- we tell each other the most absurd stories with the most serious faces.'","'Quand nous nous rencontrons -- et nous nous rencontrons de temps a autre, quand nous dinons ensemble dehors, ou que nous allons chez le duc -- nous nous contons les plus absurdes histoires de l'air le plus serieux du monde.'",103,aligned,9555,9778,-1,-1,"Quand nous nous rencontrons -- et nous nous rencontrons de temps a autre, quand nous dinons ensemble dehors, ou que nous allons chez le duc -- nous nous contons les plus absurdes histoires de l'air le plus serieux du monde. ",
+"""Now, that is childish.""",(No direct equivalent in text),125,not aligned,-1,-1,10659,10681,,"Now, that is childish."""
+"Lord Henry felt as if he could hear Basil Hallward's heart beating, and wondered what was coming.","Lord Henry restait silencieux comme s'il avait voulu percevoir les battements du coeur de Basil Hallward, se demandant ce qui allait se passer.",139,aligned,12734,12877,-1,-1,"Lord Henry restait silencieux comme s'il avait voulu percevoir les battements du coeur de Basil Hallward, se demandant ce qui allait se passer.
+",
+"""Two months ago I went to a crush at Lady Brandon's.","Il y a deux mois, j'allais en soiree chez Lady Brandon.",141,aligned,12931,12986,-1,-1,"Il y a deux mois, j'allais en soiree chez Lady Brandon. ",
+"""I don't believe that, Harry, and I don't believe you do either.","Je ne crois pas cela, Harry, et je pense que vous ne le croyez pas non plus.",161,aligned,14628,14704,-1,-1,"Je ne crois pas cela, Harry, et je pense que vous ne le croyez pas non plus. ",
+she screamed out.,(No direct equivalent in text),165,not aligned,-1,-1,14066,14083,,she screamed out. 
+"""Quite forget what he does afraid he doesn't do anything oh, yes, plays the piano or is it the violin, dear Mr. Gray?""","'Tout a fait oublie ce qu'il fait, ou plutot, je crains... qu'il ne fasse rien ! ~~~ Ah ! si, il joue du piano... Ne serait-ce pas plutot du violon, mon cher M. Gray ?'",193,aligned,17420,17582,-1,-1,"Tout a fait oublie ce qu'il fait, ou plutot, je crains... qu'il ne fasse rien ! Ah ! si, il joue du piano... Ne serait-ce pas plutot du violon, mon cher M. Gray ? ",
+"""You don't understand what friendship is, Harry,""","'Vous ne pouvez comprendre, Harry,'",198,aligned,17859,17892,-1,-1,"Vous ne pouvez comprendre, Harry, ",
+"""Oh, brothers! I don't care for brothers.""","""Un frere !.. Je me moque pas mal des freres !...""",212,aligned,19081,19129,-1,-1,Un frere !.. Je me moque pas mal des freres !... ,
+"""My elder brother won't die, and my younger brothers seem never to do anything else.""","""Mon frere aine ne veut pas mourir, et mes plus jeunes semblent vouloir l'imiter.""",213,aligned,19130,19210,-1,-1,"Mon frere aine ne veut pas mourir, et mes plus jeunes semblent vouloir l'imiter.
+",
+"""But I can't help detesting my relations.""","""Mais je ne puis m'empecher de detester mes parents ; je suppose que cela vient de ce que chacun de nous ne peut supporter de voir d'autres personnes ayant les memes defauts que soi-meme.""",216,aligned,19310,19496,-1,-1,Mais je ne puis m'empecher de detester mes parents ; je suppose que cela vient de ce que chacun de nous ne peut supporter de voir d'autres personnes ayant les memes defauts que soi-meme. ,
+"""I sometimes think, Harry, that there are only two eras of any importance in the world's history. The first is the appearance of a new medium for art, and the second is the appearance of a new personality for art also.""","'je pense quelquefois, Harry, qu'il n'y a que deux eres de quelque importance dans l'histoire du monde. La premiere est l'apparition d'un nouveau moyen d'art, et la seconde l'avenement d'une nouvelle personnalite artistique.'",234,aligned,21550,21773,-1,-1,"je pense quelquefois, Harry, qu'il n'y a que deux eres de quelque importance dans l'histoire du monde. La premiere est l'apparition d'un nouveau moyen d'art, et la seconde l'avenement d'une nouvelle personnalite artistique. ",
+"I won't tell you that I am dissatisfied with what I have done of him, or that his beauty is such that art cannot express it.",Cela ne veut point dire que je sois peu satisfait de ce que j'ai fait d'apres lui ou que sa beaute soit telle que l'Art ne la puisse rendre.,242,aligned,22081,22221,-1,-1,Cela ne veut point dire que je sois peu satisfait de ce que j'ai fait d'apres lui ou que sa beaute soit telle que l'Art ne la puisse rendre. ,
+"""Tell me, is Dorian Gray very fond of you?""","""Dites-moi, Dorian Gray vous aime-t-il...?""",284,aligned,-1,-1,23536,23577,,"Tell me, is Dorian Gray very
+fond of you?"""
+"""I think you are wrong, Basil, but I won't argue with you.""","""-- Je pense que vous avez tort, Basil, mais je ne veux pas discuter avec vous.""",289,aligned,25669,25747,-1,-1,"-- Je pense que vous avez tort, Basil, mais je ne veux pas discuter avec vous. ",
+You can't feel what I feel.,Vous ne pouvez sentir de la meme facon que moi.,301,aligned,27959,28006,-1,-1,Vous ne pouvez sentir de la meme facon que moi. ,
+"Some day you will look at your friend, and he will seem to you to be a little out of drawing, or you won't like his tone of colour, or something.","Quelque jour, vous regarderez votre ami et il vous semblera que << ca n'est plus ca >> ; vous n'aimerez plus son teint, ou toute autre chose...",307,aligned,27312,27455,-1,-1,"Quelque jour, vous regarderez votre ami et il vous semblera que << ca n'est plus ca >> ; vous n'aimerez plus son teint, ou toute autre chose... ",
+"Harry, don't talk like that.","-- Harry, ne parlez pas comme cela.",308,aligned,27844,27879,-1,-1,"-- Harry, ne parlez pas comme cela. ",
+Those who are faithful know only the trivial side of love: it is the faithless who know love's tragedies.,Ceux qui sont fideles connaissent seulement le cote trivial de l'amour ; c'est la trahison qui en connait les tragedies.,314,aligned,28102,28222,-1,-1,"Ceux qui sont fideles connaissent seulement le cote trivial de l'amour ; c'est la trahison qui en connait les tragedies.
+",
+"""Don't look so angry, Basil.""","'-- Ne me regardez pas d'un air si furieux, Basil...'",329,aligned,29780,29831,-1,-1,"-- Ne me regardez pas d'un air si furieux, Basil... ",
+"""It was at my aunt, Lady Agatha's.""","'C'etait chez ma tante, Lady Agathe.'",330,aligned,29832,29867,-1,-1,"C'etait chez ma tante, Lady Agathe. ",
+"""I don't want you to meet him.""","""-- Je ne desire pas que vous le connaissiez.""",335,aligned,30556,30600,-1,-1,"-- Je ne desire pas que vous le connaissiez.
+",
+"""You don't want me to meet him?""","""-- Vous ne desirez pas que je le connaisse...?""",338,aligned,-1,-1,-1,-1,,
+"""Then he looked at Lord Henry.""",(No direct equivalent in text),344,not aligned,-1,-1,28188,28217,,Then he looked at Lord Henry. 
+"""Don't spoil him.""","""Ne me le gatez pas ;""",348,aligned,31243,31263,-1,-1,Ne me le gatez pas ; ,
+"""Don't try to influence him.""","""n'essayez point de l'influencer ;""",349,aligned,31264,31297,-1,-1,n'essayez point de l'influencer ; ,
+Don't take away from me the one person who gives to my art whatever charm it possesses: my life as an artist depends on him.,Ne m'enlevez pas la seule personne qui donne a mon art le charme qu'il peut posseder ; ma vie d'artiste depend de lui.,352,aligned,31396,31514,-1,-1,Ne m'enlevez pas la seule personne qui donne a mon art le charme qu'il peut posseder ; ma vie d'artiste depend de lui. ,
+CHAPTER II.,(No direct equivalent in text),355,not aligned,-1,-1,28846,28857,,"CHAPTER II.
+"
+"He was looking worried, and when he heard Lord Henry's last remark, he glanced at him, hesitated for a moment, and then said, ""Harry, I want to finish this picture to-day.""","Il avait l'air ennuye ; quand il entendit la derniere remarque de lord Henry il le fixa... Il hesita un moment, puis se decidant : -- Harry, dit-il, j'ai besoin de finir ce portrait aujourd'hui.",381,aligned,34295,34490,-1,-1,"Il avait l'air ennuye ; quand il entendit la derniere remarque de lord Henry il le fixa... Il hesita un moment, puis se decidant :
+
+-- Harry, dit-il, j'ai besoin de finir ce portrait aujourd'hui. ",
+"You don't really mind, Basil, do you?""","Vous ne tenez pas absolument a ce que je m'en aille, Basil, n'est-ce pas ?",383,aligned,35081,35155,-1,-1,"Vous ne tenez pas absolument a ce que je m'en aille, Basil, n'est-ce pas ? ",
+"""Oh, please don't, Lord Henry. I see that Basil is in one of his sulky moods, and I can't bear him when he sulks.","Oh ! non, je vous en prie, lord Henry. Je vois que Basil est dans de mauvaises dispositions et je ne puis le supporter quand il fait la tete...",386,aligned,34643,34786,-1,-1,"Oh ! non, je vous en prie, lord Henry. Je vois que Basil est dans de mauvaises dispositions et je ne puis le supporter quand il fait la tete... ",
+"""I don't know that I shall tell you that, Mr. Gray. It is so tedious a subject that one would have to talk seriously about it.","Je ne sais ce que je dois vous repondre, M. Gray. C'est un sujet si assommant qu'on ne peut en parler que serieusement...",388,aligned,34884,35005,-1,-1,"Je ne sais ce que je dois vous repondre, M. Gray. C'est un sujet si assommant qu'on ne peut en parler que serieusement... ",
+"And now, Dorian, get up on the platform, and don't move about too much, or pay any attention to what Lord Henry says.","Et maintenant, Dorian, montez sur la plate-forme ; ne bougez pas trop et tachez de n'apporter aucune attention a ce que vous dira lord Henry.",407,aligned,36481,36622,-1,-1,"Et maintenant, Dorian, montez sur la plate-forme ; ne bougez pas trop et tachez de n'apporter aucune attention a ce que vous dira lord Henry. ",
+"""Because to influence a person is to give him one's own soul. He does not think his natural thoughts, or burn with his natural passions. His virtues are not real to him. His sins, if there are such things as sins, are borrowed.","-- Parce que je considere qu'influencer une personne, c'est lui donner un peu de sa propre ame. Elle ne pense plus avec ses pensees naturelles, elle ne brule plus avec ses passions naturelles. Ses vertus ne sont plus siennes. Ses peches, s'il y a quelque chose de semblable a des peches, sont empruntes.",413,aligned,37275,37578,-1,-1,"-- Parce que je considere qu'influencer une personne, c'est lui donner un peu de sa propre ame. Elle ne pense plus avec ses pensees naturelles, elle ne brule plus avec ses passions naturelles. Ses vertus ne sont plus siennes. Ses peches, s'il y a quelque chose de semblable a des peches, sont empruntes. ",
+"""I don't think there will be any difficulty about that.",-- Je pense que cela s'arrangera tout seul...,415,aligned,36412,36457,-1,-1,-- Je pense que cela s'arrangera tout seul... ,
+"Or, rather, let me try not to think.""",(No direct equivalent in text),446,not aligned,-1,-1,36737,36773,,"Or, rather, let me try not to think."""
+Don't keep Dorian too long.,Ne me gardez pas Dorian trop longtemps.,487,aligned,43893,43932,-1,-1,Ne me gardez pas Dorian trop longtemps. ,
+"""No, you don't feel it now. Some day, when you are old and wrinkled and ugly, when thought has seared your forehead with its lines, and passion branded your lips with its hideous fires, you will feel it, you will feel it terribly.""","'-- Vous ne vous en souciez pas... maintenant. Un jour viendra, quand vous serez vieux, ride, laid, quand la pensee aura marque votre front de sa griffe, et la passion fletri vos levres de stigmates hideux, un jour viendra, dis-je, ou vous vous en soucierez amerement.'",518,aligned,46534,46801,-1,-1,"-- Vous ne vous en souciez pas... maintenant. Un jour viendra, quand vous serez vieux, ride, laid, quand la pensee aura marque votre front de sa griffe, et la passion fletri vos levres de stigmates hideux, un jour viendra, dis-je, ou vous vous en soucierez amerement. ",
+"""I don't feel that, Lord Henry.""",(No direct equivalent in text),519,not aligned,-1,-1,-1,-1,,
+"""You smile? Ah! when you have lost it you won't smile....""",'vous souriez ?... Ah ! vous ne sourirez plus quand vous l'aurez perdue...',524,aligned,47348,47421,-1,-1,vous souriez ?... Ah ! vous ne sourirez plus quand vous l'aurez perdue... ,
+"""You have a wonderfully beautiful face, Mr. Gray. Don't frown.""","'Vous avez une figure adorablement belle, M. Gray... Ne vous fachez point, vous l'avez...'",530,aligned,46879,46967,-1,-1,"Vous avez une figure adorablement belle, M. Gray... Ne vous fachez point, vous l'avez... ",
+"""As they entered the studio, Dorian Gray put his hand upon Lord Henry's arm.""","'Comme ils entraient dans l'atelier, Dorian Gray mit sa main sur le bras de lord Harry :'",582,aligned,51764,51851,-1,-1,"Comme ils entraient dans l'atelier, Dorian Gray mit sa main sur le bras de lord Harry :
+",
+"""Don't you like it?"" cried Hallward at last, stung a little by the lad's silence, not understanding what it meant.","-- Aimez-vous cela, cria enfin Hallward, quelque peu etonne du silence de l'adolescent, qu'il ne comprenait pas...",615,aligned,54824,54938,-1,-1,"-- Aimez-vous cela, cria enfin Hallward, quelque peu etonne du silence de l'adolescent, qu'il ne comprenait pas...
+",
+"""Of course he likes it,"" said Lord Henry. ""Who wouldn't like it? It is one of the greatest things in modern art.""","-- Naturellement, il l'aime, dit lord Henry. Pourquoi ne l'aimerait-il pas. C'est une des plus nobles choses de l'art contemporain.",622,aligned,54940,55071,-1,-1,"-- Naturellement, il l'aime, dit lord Henry. Pourquoi ne l'aimerait-il pas. C'est une des plus nobles choses de l'art contemporain. ",
+"""I should object very strongly, Harry,"" said Hallward.",(No direct equivalent in text),626,not aligned,-1,-1,51226,51279,,"I should object very strongly, Harry,"" said Hallward.
+"
+"""It would be rather hard lines on your work.""","""Eh ! ~~~ eh ! je m'y opposerais d'ailleurs, dit le peintre."" (No direct equivalent in text, but closest in meaning and context)",627,aligned,-1,-1,51179,51222,,"It would be rather hard lines on your work."""
+"""Dorian's, of course,"" answered the painter.","""A Dorian, pardieu ! repondit le peintre.""",635,aligned,55218,55258,-1,-1,"A Dorian, pardieu ! repondit le peintre.
+",
+He seemed quite angry.,C'est vrai qu'il semblait desole ; sa face etait toute rouge et ses joues allumees.  (Note: This is a partial alignment.  The French sentence describes his appearance more than his emotional state.),641,aligned,-1,-1,51566,51588,,He seemed quite angry. 
+His face was flushed and his cheeks burning.,C'est vrai qu'il semblait desole ; sa face etait toute rouge et ses joues allumees. (Note: This is a partial alignment. The French sentence describes his appearance more than his emotional state.),642,aligned,-1,-1,51589,51633,,"His face was flushed
+and his cheeks burning.
+"
+"""don't talk like that.""","""ne parlez pas ainsi !""",653,aligned,56901,56922,-1,-1,ne parlez pas ainsi ! ,
+"""Harry, I can't quarrel with my two best friends at once, but between you both you have made me hate the finest piece of work I have ever done, and I will destroy it.""","-- Harry, je ne veux pas me quereller maintenant avec mes deux meilleurs amis, mais par votre faute a tous les deux, vous me faites detester ce que j'ai jamais fait de mieux et je vais l'aneantir.",660,aligned,58052,58248,-1,-1,"-- Harry, je ne veux pas me quereller maintenant avec mes deux meilleurs amis, mais par votre faute a tous les deux, vous me faites detester ce que j'ai jamais fait de mieux et je vais l'aneantir. ",
+"""I stayed when you asked me,"" was Lord Henry's answer.","-- Je suis reste parce que vous me l'avez demande, riposta lord Henry.",661,aligned,57980,58050,-1,-1,"-- Je suis reste parce que vous me l'avez demande, riposta lord Henry.
+",
+"""Don't, Basil, don't!""","-- Basil, je vous en prie !...",680,aligned,58934,58964,-1,-1,"-- Basil, je vous en prie !... ",
+"""And you know you have been a little silly, Mr. Gray, and that you don't really object to being reminded that you are extremely young.""","-- Et vous savez aussi que vous avez ete un petit peu mechant, M. Gray, et que vous ne pouvez vous revolter quand on vous fait souvenir que vous etes extremement jeune.",698,aligned,60446,60614,-1,-1,"-- Et vous savez aussi que vous avez ete un petit peu mechant, M. Gray, et que vous ne pouvez vous revolter quand on vous fait souvenir que vous etes extremement jeune.
+",
+"""and I don't allow people to call me a silly boy.""",et je ne permets a personne de m'appeler un mechant garcon...,700,aligned,60285,60346,-1,-1,"et je ne permets a personne de m'appeler un mechant garcon...
+",
+"This silly boy doesn't really want it, and I really do.",Ce mechant garcon n'en a pas aussi reellement besoin que moi...,708,aligned,60113,60176,-1,-1,"Ce mechant garcon n'en a pas aussi reellement besoin que moi...
+",
+"'""It is such a bore putting on one's dress-clothes,"" muttered Hallward.'","'-- C'est assommant de passer un habit, ajouta Hallward ;'",718,aligned,61550,61606,-1,-1,"-- C'est assommant de passer un habit, ajouta Hallward ; ",
+"'I have promised to dine at White's, but it is only with an old friend, so I can send him a wire to say that I am ill, or that I am prevented from coming in consequence of a subsequent engagement.'","'-- J'ai promis de diner chez White, mais comme c'est un vieil ami, je puis lui envoyer un telegramme pour lui dire que je suis indispose, ou que je suis empeche de venir par suite d'un engagement posterieur.'",720,aligned,61248,61455,-1,-1,"-- J'ai promis de diner chez White, mais comme c'est un vieil ami, je puis lui envoyer un telegramme pour lui dire que je suis indispose, ou que je suis empeche de venir par suite d'un engagement posterieur. ",
+"The painter bit his lip and walked over, cup in hand, to the picture.","'-- Le peintre se mordit les levres et, la tasse a la main, il se dirigea vers le portrait.'",729,aligned,-1,-1,57176,57245,,"The painter bit his lip and walked over, cup in hand, to the picture.
+"
+"""I can't, really. I would sooner not. I have a lot of work to do.""","'-- Je ne puis pas, vraiment... Je prefere rester, j'ai un tas de choses a faire.'",734,aligned,62153,62233,-1,-1,"-- Je ne puis pas, vraiment... Je prefere rester, j'ai un tas de choses a faire.
+",
+"""Then you shall come; and you will come, too, Basil, won't you?""","'-- Eh bien, venez, et vous aussi, n'est-ce pas, Basil.'",735,aligned,62097,62151,-1,-1,"-- Eh bien, venez, et vous aussi, n'est-ce pas, Basil.
+",
+"""Am I really like that?""",'-- Suis-je reellement comme cela ?',737,aligned,-1,-1,57387,57409,,"Am I really like that?"""
+"""Yes, Basil?""","""-- Moi non plus, Basil."" (Partial Match - implies agreement, not direct answer)",767,aligned,-1,-1,58658,58669,,"Yes, Basil?"""
+"""You won't forget?""","""-- Vous n'oublierez pas...""",768,aligned,63941,63967,-1,-1,"-- Vous n'oublierez pas...
+",
+~~~ CHAPTER III.,(No direct equivalent in text),775,not aligned,-1,-1,59091,59108,,"
+
+
+
+
+CHAPTER III.
+"
+"""But I don't want money.""",'mais je n'ai pas besoin d'argent.',794,aligned,67222,67255,-1,-1,mais je n'ai pas besoin d'argent. ,
+He is the last Lord Kelso's grandson.,C'est le dernier petit-fils de lord Kelso.,808,aligned,68420,68462,-1,-1,C'est le dernier petit-fils de lord Kelso. ,
+I didn't dare show my face at Court for a month.,Un mois durant je n'osais me montrer a la Cour.,850,aligned,70627,70674,-1,-1,Un mois durant je n'osais me montrer a la Cour. ,
+"""I don't know,"" answered Lord Henry.","-- Je ne sais, repondit lord Henry.",851,aligned,70737,70772,-1,-1,"-- Je ne sais, repondit lord Henry. ",
+"She laughed at him, and there wasn't a girl in London at the time who wasn't after him.","Elle lui rit au nez, et cependant, pas une fille de Londres qui ne courut apres lui.",860,aligned,71354,71438,-1,-1,"Elle lui rit au nez, et cependant, pas une fille de Londres qui ne courut apres lui. ",
+"""Has she got any?""",'a-t-elle beaucoup d\'argent !',874,aligned,-1,-1,66059,66075,,"Has she got any?"""
+"""I don't think Dartmoor has a chance.""",'je crois que Dartmoor n'a guere de chances.',877,aligned,72097,72140,-1,-1,"je crois que Dartmoor n'a guere de chances.
+",
+"""At Aunt Agatha's. I have asked myself and Mr. Gray. He is her latest _prot g_.""","'-- Chez tante Agathe. Je me suis invite avec M. Gray, c'est son dernier protege.'",894,aligned,73278,73358,-1,-1,"-- Chez tante Agathe. Je me suis invite avec M. Gray, c'est son dernier protege.
+",
+"He found that he had passed his aunt's some distance, and, smiling to himself, turned back.","Il s'apercut qu'il avait depasse la maison de sa tante, et souriant en lui-meme, il revint sur ses pas.",935,aligned,77491,77594,-1,-1,"Il s'apercut qu'il avait depasse la maison de sa tante, et souriant en lui-meme, il revint sur ses pas. ",
+"""Don't mind him, my dear,"" whispered Lady Agatha.","-- Ne faites pas attention a lui, ma chere, murmura lady Agathe,",954,aligned,80230,80294,-1,-1,"-- Ne faites pas attention a lui, ma chere, murmura lady Agathe, ",
+"""I am afraid that your nephew is prejudiced against that great country,"" he said to Lady Agatha.","J'ai peur que votre neveu ne soit prevenu contre ce grand pays, dit-il a lady Agathe.",975,aligned,-1,-1,74730,74825,,"I am afraid that your nephew is prejudiced against
+that great country,"" he said to Lady Agatha. "
+"The less said about life's sores, the better.","Moins on parle des plaies sociales, mieux cela vaut.",1007,aligned,83785,83837,-1,-1,"Moins on parle des plaies sociales, mieux cela vaut.
+",
+"Nowadays most people die of a sort of creeping common sense, and discover when it is too late that the only things one never regrets are one's mistakes.""",Aujourd'hui beaucoup de gens meurent d'un bon sens terre a terre et s'apercoivent trop tard que les seules choses qu'ils regrettent sont leurs propres erreurs.,1037,aligned,86093,86252,-1,-1,"Aujourd'hui beaucoup de gens meurent d'un bon sens terre a terre et s'apercoivent trop tard que les seules choses qu'ils regrettent sont leurs propres erreurs.
+",
+"""A dangerous theory!"" came from Sir Thomas's tight lips.","'-- Une dangereuse theorie prononca sir Thomas, les levres pincees.",1038,aligned,85867,85933,-1,-1,"-- Une dangereuse theorie prononca sir Thomas, les levres pincees.
+",
+"If I am late he is sure to be furious, and I couldn't have a scene in this bonnet.""","Si je suis en retard il sera surement furieux, et je ne puis avoir une scene avec ce chapeau.",1054,aligned,87965,88058,-1,-1,"Si je suis en retard il sera surement furieux, et je ne puis avoir une scene avec ce chapeau. ",
+"""I must go. I have to call for my husband at the club, to take him to some absurd meeting at Willis's Rooms, where he is going to be in the chair.","Il faut que je parte ; je dois rejoindre mon mari au club pour aller a un absurde meeting, qu'il doit presider aux Willis's Rooms.",1055,aligned,87834,87964,-1,-1,"Il faut que je parte ; je dois rejoindre mon mari au club pour aller a un absurde meeting, qu'il doit presider aux Willis's Rooms. ",
+I am sure I don't know what to say about your views.,Je ne sais que dire de vos idees.,1059,aligned,88253,88286,-1,-1,Je ne sais que dire de vos idees. ,
+"""You talk books away,"" he said; ""why don't you write one?""","-- Vous parlez comme un livre, dit-il, pourquoi n'en ecrivez-vous pas ?",1068,aligned,88747,88818,-1,-1,"-- Vous parlez comme un livre, dit-il, pourquoi n'en ecrivez-vous pas ?
+",
+"""Do let me.""",'Voulez-vous...',1092,aligned,-1,-1,83549,83559,,"Do let
+me. "
+"Dorian smiled and shook his head: ""I am afraid I don't think so, Lady Henry.",Dorian sourit en secouant la tete.,1131,aligned,93945,93979,-1,-1,"Dorian sourit en secouant la tete.
+",
+"If one hears bad music, it is one's duty to drown it in conversation.""","Si l'on en entend de mauvaise, c'est un devoir de la couvrir par le bruit d'une conversation.",1133,aligned,94107,94200,-1,-1,"Si l'on en entend de mauvaise, c'est un devoir de la couvrir par le bruit d'une conversation.
+",
+I have simply worshipped pianists.,J'ai un culte pour les pianistes simplement.,1139,aligned,94483,94527,-1,-1,J'ai un culte pour les pianistes simplement. ,
+I don't know what it is about them.,Je ne sais ce qu'ils etaient.,1141,aligned,94587,94616,-1,-1,Je ne sais ce qu'ils etaient. ,
+"Makes it quite cosmopolitan, doesn't it?",(No direct equivalent in text),1144,not aligned,-1,-1,-1,-1,,
+"I can't afford orchids, but I spare no expense in foreigners.","Je ne puis point offrir d'orchidees, mais je n'epargne aucune depense pour avoir des etrangers.",1147,aligned,94905,95000,-1,-1,"Je ne puis point offrir d'orchidees, mais je n'epargne aucune depense pour avoir des etrangers. ",
+They make one's rooms look so picturesque.,Ils vous font une chambree si pittoresque...,1148,aligned,95001,95045,-1,-1,Ils vous font une chambree si pittoresque... ,
+"They all are, ain't they? Even those that are born in England become foreigners after a time, don't they?","Ils le sont tous, et meme ceux qui sont nes en Angleterre le deviennent bientot, n'est-il pas vrai ?",1152,aligned,94642,94742,-1,-1,"Ils le sont tous, et meme ceux qui sont nes en Angleterre le deviennent bientot, n'est-il pas vrai ? ",
+"""I don't think I am likely to marry, Harry. I am too much in love.""","""Je ne crois pas que je sois en train de me marier, Harry. Je suis trop amoureux.""",1174,aligned,96673,96753,-1,-1,"Je ne crois pas que je sois en train de me marier, Harry. Je suis trop amoureux. ",
+"As for conversation, there are only five women in London worth talking to, and two of these can't be admitted into decent society.","Quant a la conversation, il n'y a que cinq femmes dans Londres qui vaillent la peine qu'on leur parle, et deux d'entre elles ne peuvent etre recues dans une societe qui se respecte.",1205,aligned,98318,98499,-1,-1,"Quant a la conversation, il n'y a que cinq femmes dans Londres qui vaillent la peine qu'on leur parle, et deux d'entre elles ne peuvent etre recues dans une societe qui se respecte. ",
+"""I will tell you, Harry, but you mustn't be unsympathetic about it.""","'-- Je vous le dirai, Harry ; mais il ne faut pas vous moquer de moi...'",1214,aligned,98743,98813,-1,-1,"-- Je vous le dirai, Harry ; mais il ne faut pas vous moquer de moi... ",
+"""Do you think my nature so shallow?""","""Me croyez-vous d'une nature si futile?""",1244,aligned,-1,-1,93174,93208,,"Do you think my nature so shallow?"""
+And her voice! I never heard such a voice.,Et sa voix ! jamais je n'ai entendu une pareille voix.,1280,aligned,104772,104826,-1,-1,Et sa voix ! jamais je n'ai entendu une pareille voix. ,
+"It was very low at first, with deep mellow notes that seemed to fall singly upon one's ear.","Elle parlait tres bas tout d'abord, avec des notes profondes et melodieuses : comme si sa parole ne devait tomber que dans une oreille,",1284,aligned,104827,104962,-1,-1,"Elle parlait tres bas tout d'abord, avec des notes profondes et melodieuses : comme si sa parole ne devait tomber que dans une oreille, ",
+"""Don't run down dyed hair and painted faces. There is an extraordinary charm in them, sometimes,"" said Lord Henry.","""-- Ne meprisez pas les cheveux teints et les figures peintes ; cela a quelquefois un charme extraordinaire, dit lord Henry.""",1314,aligned,106942,107065,-1,-1,"-- Ne meprisez pas les cheveux teints et les figures peintes ; cela a quelquefois un charme extraordinaire, dit lord Henry.
+",
+"""Harry! why didn't you tell me that the only thing worth loving is an actress?""","""Harry ! pourquoi ne m'avez-vous pas dit que le seul etre digne d'amour est une actrice.""",1317,aligned,106730,106817,-1,-1,"Harry ! pourquoi ne m'avez-vous pas dit que le seul etre digne d'amour est une actrice.
+",
+"""People like you, the wilful sunbeams of life, don't commit crimes, Dorian.""","'Les gens comme vous, fatidiques rayons de soleil de l'existence, ne commettent point de crimes, Dorian.'",1323,aligned,107461,107564,-1,-1,"Les gens comme vous, fatidiques rayons de soleil de l'existence, ne commettent point de crimes, Dorian. ",
+"""And now tell me, reach me the matches, like a good boy thanks, what are your actual relations with Sibyl Vane?""","'Et maintenant, dites-moi -- passez-moi les allumettes comme un gentil garcon... merci -- ou en sont vos relations avec Sibyl Vane.'",1324,aligned,107623,107753,-1,-1,"Et maintenant, dites-moi -- passez-moi les allumettes comme un gentil garcon... merci -- ou en sont vos relations avec Sibyl Vane.
+",
+"""When one is in love, one always begins by deceiving one's self, and one always ends by deceiving others.""","'Quand on est amoureux, on s'abuse d'abord soi-meme et on finit toujours par abuser les autres.'",1328,aligned,108066,108160,-1,-1,"Quand on est amoureux, on s'abuse d'abord soi-meme et on finit toujours par abuser les autres. ",
+'I should not wonder if he was quite right there.',(No direct equivalent in text),1340,not aligned,-1,-1,100134,100182,,I should not wonder if he was quite right there. 
+"""It was a distinction, my dear Dorian, a great distinction.","C'en etait un, mon cher Dorian, un veritable.",1351,aligned,109823,109868,-1,-1,"C'en etait un, mon cher Dorian, un veritable. ",
+"""It was curious my not wanting to know her, wasn't it?""","""C'est curieux, n'est-ce pas, ce desir de ne pas faire sa connaissance ?""",1361,aligned,110315,110386,-1,-1,"C'est curieux, n'est-ce pas, ce desir de ne pas faire sa connaissance ?
+",
+"""No; I don't think so.""","""-- Non, je ne trouve pas.""",1362,aligned,110388,110413,-1,-1,"-- Non, je ne trouve pas.
+",
+"You don't understand her, Harry.","Vous ne la comprenez pas, Harry.",1373,aligned,111245,111277,-1,-1,"Vous ne la comprenez pas, Harry. ",
+"""Well, I can't help going to see Sibyl play,"" he cried, ""even if it is only for a single act.","'-- Mais je ne puis m'empecher d'aller voir jouer Sibyl, s'ecria-t-il, meme pour un seul acte.",1391,aligned,112450,112543,-1,-1,"-- Mais je ne puis m'empecher d'aller voir jouer Sibyl, s'ecria-t-il, meme pour un seul acte. ",
+"""You can dine with me to-night, Dorian, can't you?""","'-- Vous pouvez diner avec moi ce soir, Dorian, n'est-ce pas ?'",1392,aligned,112682,112743,-1,-1,"-- Vous pouvez diner avec moi ce soir, Dorian, n'est-ce pas ?
+",
+"""Then we must get her out of the Jew's hands.""","""Alors nous la retirerons des mains du juif.""",1416,aligned,114193,114236,-1,-1,Alors nous la retirerons des mains du juif. ,
+"And now I am off. Imogen is waiting for me. Don't forget about to-morrow. Good-bye.""","Et maintenant je m'en vais. Imogene m'attend, n'oubliez pas pour demain... Au revoir.",1458,aligned,117047,117132,-1,-1,"Et maintenant je m'en vais. Imogene m'attend, n'oubliez pas pour demain... Au revoir.
+",
+"As he left the room, Lord Henry's heavy eyelids drooped, and he began to think.","Des qu'il fut parti, les lourdes paupieres de lord Henry se baisserent et il se mit il reflechir.",1462,aligned,117134,117231,-1,-1,"Des qu'il fut parti, les lourdes paupieres de lord Henry se baisserent et il se mit il reflechir. ",
+"When he arrived home, about half-past twelve o'clock, he saw a telegram lying on the hall table.","Lorsqu'il rentra chez lui, vers minuit et demie, il trouva un telegramme sur sa table.",1523,aligned,123628,123714,-1,-1,"Lorsqu'il rentra chez lui, vers minuit et demie, il trouva un telegramme sur sa table. ",
+He thought of his friend's young fiery-coloured life and wondered how it was all going to end.,Il pensa a la vitalite impetueuse de son jeune ami et se demanda comment tout cela finirait.,1524,aligned,123535,123627,-1,-1,Il pensa a la vitalite impetueuse de son jeune ami et se demanda comment tout cela finirait. ,
+"Mrs. Vane winced and put her thin, bismuth-whitened hands on her daughter's head.",Mme Vane tressaillit et posa ses mains maigres et blanchies au bismuth sur la tete de sa fille.,1535,aligned,124226,124321,-1,-1,"Mme Vane tressaillit et posa ses mains maigres et blanchies au bismuth sur la tete de sa fille.
+",
+They trembled.,(No direct equivalent in text),1544,not aligned,-1,-1,115289,115303,,They trembled. 
+"The waving of crooked, false-jewelled fingers gave grotesqueness to the words.",(No direct equivalent in text),1548,not aligned,-1,-1,115495,115573,,"The waving of crooked, false-jewelled fingers gave grotesqueness to the
+words.
+"
+Don't look so sad.,Ne soyez pas si triste.,1580,aligned,127569,127592,-1,-1,Ne soyez pas si triste. ,
+"""Ah! but you don't like being kissed, Jim,"" she cried.","-- Ah ! mais vous n'aimez pas qu'on vous embrasse, Jim, s'ecria-t-elle ;",1598,aligned,128884,128956,-1,-1,"-- Ah ! mais vous n'aimez pas qu'on vous embrasse, Jim, s'ecria-t-elle ; ",
+James Vane looked into his sister's face with tenderness.,James Vane regarda sa soeur avec tendresse.,1601,aligned,129047,129090,-1,-1,"James Vane regarda sa soeur avec tendresse.
+",
+"""My son, don't say such dreadful things,"" murmured Mrs. Vane, taking up a tawdry theatrical dress, with a sigh, and beginning to patch it.","'-- Mon fils, ne dites pas d'aussi tristes choses, murmura Mme Vane, ramassant en soupirant un pretentieux costume de theatre et en se mettant a le raccommoder.",1611,aligned,129246,129405,-1,-1,"-- Mon fils, ne dites pas d'aussi tristes choses, murmura Mme Vane, ramassant en soupirant un pretentieux costume de theatre et en se mettant a le raccommoder. ",
+Don't let her come to any harm.,Ne permettez pas qu'il lui arrive malheur.,1649,aligned,132074,132116,-1,-1,Ne permettez pas qu'il lui arrive malheur. ,
+"""You don't know his name, though,"" said the lad harshly.",-- Vous ne savez pas son nom pourtant ? dit-il aprement.,1661,aligned,132912,132968,-1,-1,"-- Vous ne savez pas son nom pourtant ? dit-il aprement.
+",
+"""You are speaking about things you don't understand, James.","-- Vous parlez de choses que vous ne comprenez pas, James.",1663,aligned,132386,132444,-1,-1,"-- Vous parlez de choses que vous ne comprenez pas, James. ",
+"Inexperienced though he was, he had still a strong sense of the danger of Sibyl's position.","Tout inexperimente qu'il fut, il avait un vif sentiment des dangers de la position de Sibyl.",1722,aligned,137477,137569,-1,-1,"Tout inexperimente qu'il fut, il avait un vif sentiment des dangers de la position de Sibyl. ",
+"He was conscious also of the shallowness and vanity of his mother's nature, and in that saw infinite peril for Sibyl and Sibyl's happiness.",Il connaissait aussi la futilite et la vanite de sa mere et il y voyait un peril pour Sibyl et pour le bonheur de celle-ci.,1725,aligned,137814,137937,-1,-1,Il connaissait aussi la futilite et la vanite de sa mere et il y voyait un peril pour Sibyl et pour le bonheur de celle-ci. ,
+"""Don't you like the name.""","""N'aimez-vous pas ce nom.""",1746,aligned,139369,139393,-1,-1,N'aimez-vous pas ce nom. ,
+"""Then you will know what it is.""",(No direct equivalent in text),1778,not aligned,-1,-1,129851,129881,,"Then you will
+know what it is. "
+"""Don't look so sulky.""",'N'ayez pas l'air si maussade.',1780,aligned,141069,141098,-1,-1,N'ayez pas l'air si maussade. ,
+"but at that moment the Duke of Berwick's four-in-hand came between,","mais au meme moment le mail du duc de Berwick passa devant eux,",1805,aligned,142573,142636,-1,-1,"mais au meme moment le mail du duc de Berwick passa devant eux, ",
+You don't know what you are talking about.,Vous ne savez pas de quoi vous parlez.,1811,aligned,143509,143547,-1,-1,Vous ne savez pas de quoi vous parlez. ,
+"'""Oh, don't be so serious, Jim.'","'""Oh ! ne soyez pas aussi serieux, Jim !'",1830,aligned,143987,144025,-1,-1,"Oh ! ne soyez pas aussi serieux, Jim ! ",
+"'I would, if my articles hadn't been signed.'",'Je le ferais si mon engagement n'etait pas signe.',1831,aligned,143933,143982,-1,-1,"Je le ferais si mon engagement n'etait pas signe.
+",
+"It was after five o'clock, and Sibyl had to lie down for a couple of hours before acting.","Il etait plus de cinq heures, et Sibyl devait dormir une heure ou deux avant de jouer.",1846,aligned,144684,144770,-1,-1,"Il etait plus de cinq heures, et Sibyl devait dormir une heure ou deux avant de jouer. ",
+They don't interest me.,elle ne m'interesse d'ailleurs pas.,1920,aligned,149662,149697,-1,-1,elle ne m'interesse d'ailleurs pas. ,
+"""I can't believe it. Dorian is far too sensible.""","'-- Je ne puis le croire... Lui, si raisonnable !... '",1934,aligned,150144,150195,-1,-1,"-- Je ne puis le croire... Lui, si raisonnable !...
+",
+"""But I didn't say he was married.",Mais je n'ai pas dit qu'il etait marie.,1938,aligned,150437,150476,-1,-1,Mais je n'ai pas dit qu'il etait marie. ,
+"They become more highly organized, and to be highly organized is, I should fancy, the object of man's existence.","Ils deviennent plus hautement organises, et etre plus hautement organise, je m'imagine, est l'objet de l'existence de l'homme.",1969,aligned,152985,153111,-1,-1,"Ils deviennent plus hautement organises, et etre plus hautement organise, je m'imagine, est l'objet de l'existence de l'homme. ",
+"""You don't mean a single word of all that, Harry; you know you don't.","-- Vous savez bien que vous ne pensez pas un mot de ce que vous dites, Harry ; vous le savez mieux que moi.",1975,aligned,153444,153551,-1,-1,"-- Vous savez bien que vous ne pensez pas un mot de ce que vous dites, Harry ; vous le savez mieux que moi. ",
+"If Dorian Gray's life were spoiled, no one would be sorrier than yourself.","Si la vie de Dorian Gray etait gatee, personne n'en serait plus desole que vous.",1976,aligned,153552,153632,-1,-1,"Si la vie de Dorian Gray etait gatee, personne n'en serait plus desole que vous. ",
+I will certainly encourage them.,(No direct equivalent in text),1987,not aligned,-1,-1,142082,142114,,"I
+will certainly encourage them. "
+I don't care.,Ca m'est egal !,2017,aligned,157478,157493,-1,-1,Ca m'est egal ! ,
+I don't know what my guardians will say.,Je ne sais pas ce que diront mes tuteurs ;,2019,aligned,157396,157438,-1,-1,Je ne sais pas ce que diront mes tuteurs ; ,
+"I feel that I should not tell you all this, but I can't help it.","Je sens que je ne devrais vous dire cela, mais je ne puis m'en empecher.",2022,aligned,157240,157312,-1,-1,"Je sens que je ne devrais vous dire cela, mais je ne puis m'en empecher. ",
+I can't describe to you what I felt at that moment.,Je ne puis vous rapporter ce qu'alors je ressentis.,2028,aligned,156981,157032,-1,-1,Je ne puis vous rapporter ce qu'alors je ressentis. ,
+"""Don't, Harry. You have annoyed Dorian. He is not like other men. He would never bring misery upon any one. His nature is too fine for that.""","""Finissez, Harry... Vous desobligez Dorian. Il n'est pas comme les autres et ne ferait de peine a personne ; sa nature est trop delicate pour cela.",2050,aligned,158811,158957,-1,-1,"Finissez, Harry... Vous desobligez Dorian. Il n'est pas comme les autres et ne ferait de peine a personne ; sa nature est trop delicate pour cela.
+",
+"""Modern morality consists in accepting the standard of one's age.""",'La moralite moderne consiste a se ranger sous le drapeau de son temps.',2081,aligned,161690,161760,-1,-1,La moralite moderne consiste a se ranger sous le drapeau de son temps. ,
+"""As for the lives of one's neighbours, if one wishes to be a prig or a Puritan, one can flaunt one's moral views about them, but they are not one's concern.""","'Pour les vies de nos semblables, si on desire etre un faquin ou un puritain, on peut etendre ses vues morales sur elles, mais elles ne nous concernent pas.'",2082,aligned,161473,161628,-1,-1,"Pour les vies de nos semblables, si on desire etre un faquin ou un puritain, on peut etendre ses vues morales sur elles, mais elles ne nous concernent pas. ",
+"""One's own life that is the important thing.""","'Sa propre vie, voila la seule chose importante.'",2084,aligned,161425,161472,-1,-1,"Sa propre vie, voila la seule chose importante. ",
+"""Discord is to be forced to be in harmony with others.""",(No direct equivalent in text),2085,not aligned,-1,-1,148522,148575,,Discord is to be forced to be in harmony with others. 
+"""To be good is to be in harmony with one's self,"" he replied, touching the thin stem of his glass with his pale, fine-pointed fingers.","'-- Etre bon, c'est etre en harmonie avec soi-meme, repliqua-t-il en caressant de ses fins doigts pales la tige frele de son verre,",2086,aligned,161235,161365,-1,-1,"-- Etre bon, c'est etre en harmonie avec soi-meme, repliqua-t-il en caressant de ses fins doigts pales la tige frele de son verre, ",
+"""But, surely, if one lives merely for one's self, Harry, one pays a terrible price for doing so?"" suggested the painter.","'-- Mais, parfois, Harry, on paie tres cher le fait de vivre uniquement pour soi, fit remarquer le peintre.",2089,aligned,161902,162008,-1,-1,"-- Mais, parfois, Harry, on paie tres cher le fait de vivre uniquement pour soi, fit remarquer le peintre.
+",
+"""I don't know why I like you so much.""","""Je ne sais pourquoi je vous aime autant.""",2114,aligned,163933,163973,-1,-1,"Je ne sais pourquoi je vous aime autant.
+",
+"""I understand what you mean, and I believe in this girl. Any one you love must be marvellous, and any girl who has the effect you describe must be fine and noble. To spiritualize one's age that is something worth doing.","Je sais, moi, ce que vous voulez dire et je crois en cette jeune fille. Quiconque vous aimez doit le meriter et la personne qui a produit sur vous l'effet que vous nous avez decrit doit etre noble et intelligente. Spiritualiser ses contemporains, c'est quelque chose d'appreciable...",2154,aligned,168265,168548,-1,-1,"Je sais, moi, ce que vous voulez dire et je crois en cette jeune fille. Quiconque vous aimez doit le meriter et la personne qui a produit sur vous l'effet que vous nous avez decrit doit etre noble et intelligente. Spiritualiser ses contemporains, c'est quelque chose d'appreciable... ",
+"""The same flesh and blood as one's self! Oh, I hope not!"" exclaimed Lord Henry, who was scanning the occupants of the gallery through his opera-glass.","La meme chair et le meme sang que soi-meme ! Oh ! je ne crois pas, s'exclama lord Henry qui passait en revue les spectateurs de la galerie avec sa lorgnette.",2155,aligned,168048,168205,-1,-1,"La meme chair et le meme sang que soi-meme ! Oh ! je ne crois pas, s'exclama lord Henry qui passait en revue les spectateurs de la galerie avec sa lorgnette.
+",
+"""Don't pay any attention to him, Dorian,"" said the painter.","Ne faites pas attention a lui, Dorian, dit le peintre.",2157,aligned,168210,168264,-1,-1,"Ne faites pas attention a lui, Dorian, dit le peintre. ",
+"""What a place to find one's divinity in!"" said Lord Henry.","Quel endroit pour y rencontrer sa divinite, dit lord Henry.",2159,aligned,167440,167499,-1,-1,"Quel endroit pour y rencontrer sa divinite, dit lord Henry.
+",
+"They sit silently and watch her. They weep and laugh as she wills them to do. She makes them as responsive as a violin. She spiritualizes them, and one feels that they are of the same flesh and blood as one's self.",(No direct equivalent in text),2163,not aligned,-1,-1,-1,-1,,
+(No direct equivalent in text),Les courbes de sa poitrine semblaient les courbes d'un blanc lys.,2183,not aligned,170598,170663,-1,-1,Les courbes de sa poitrine semblaient les courbes d'un blanc lys. ,
+The curves of her throat were the curves of a white lily.,(No direct equivalent in text),2185,not aligned,-1,-1,156949,157006,,"The curves of her throat were the curves of a
+white lily. "
+"""Don't talk like that about any one you love, Dorian. Love is a more wonderful thing than art.""","-- Ne parlez pas ainsi de ce que vous aimez, Dorian. L'amour est une plus merveilleuse chose que l'art.",2208,aligned,173992,174095,-1,-1,"-- Ne parlez pas ainsi de ce que vous aimez, Dorian. L'amour est une plus merveilleuse chose que l'art.
+",
+"Sweet, good-night! This bud of love by summer's ripening breath May prove a beauteous flower when next we meet",">> Sweet, good-night ! This bud of love by Summer's ripening breath May prove a beauteous flower when next we meet...[3]",2209,aligned,172595,172714,-1,-1,"Sweet, good-night !
+
+This bud of love by Summer's ripening breath
+
+May prove a beauteous flower when next we meet...[3]
+",
+"""She is quite beautiful, Dorian,"" he said, ""but she can't act.","-- Elle est tres belle, Dorian, dit-il, mais elle ne sait pas jouer.",2216,aligned,173401,173469,-1,-1,"-- Elle est tres belle, Dorian, dit-il, mais elle ne sait pas jouer. ",
+"""It is not good for one's morals to see bad acting.""","""Ce n'est pas bon pour l'esprit de voir jouer mal.""",2227,aligned,174242,174291,-1,-1,Ce n'est pas bon pour l'esprit de voir jouer mal. ,
+"""You are ill, I suppose. When you are ill you shouldn't act. You make yourself ridiculous. My friends were bored. I was bored.""","'-- Vous etes malade, je crois ; quand vous etes malade, vous ne pouvez jouer : vous paraissez absolument ridicule. Vous nous avez navres, mes amis et moi.'",2262,aligned,177055,177209,-1,-1,"-- Vous etes malade, je crois ; quand vous etes malade, vous ne pouvez jouer : vous paraissez absolument ridicule. Vous nous avez navres, mes amis et moi.
+",
+"""Dorian, you should have understood. But you understand now, don't you?""","'vous auriez du comprendre, mais vous comprenez maintenant, n'est-ce pas ?'",2266,aligned,176784,176857,-1,-1,"vous auriez du comprendre, mais vous comprenez maintenant, n'est-ce pas ?
+",
+"Oh, I can't bear to think of it!",Ah ! je ne veux plus penser a cela !,2320,aligned,180659,180695,-1,-1,Ah ! je ne veux plus penser a cela ! ,
+"You don't know what you were to me, once.","Vous ne pouvez vous douter ce que vous etiez pour moi, autrefois...",2322,aligned,180576,180643,-1,-1,"Vous ne pouvez vous douter ce que vous etiez pour moi, autrefois... ",
+"Why, once...",Autrefois !...,2325,aligned,180644,180658,-1,-1,Autrefois !... ,
+"""Acting!",(No direct equivalent in text),2332,not aligned,-1,-1,166571,166578,,Acting! 
+I leave that to you.,(No direct equivalent in text),2334,not aligned,-1,-1,166579,166599,,I leave that to you. 
+"""I am so sorry I didn't act well.""","""Je suis desolee d'avoir si mal joue ;",2343,aligned,181744,181781,-1,-1,Je suis desolee d'avoir si mal joue ; ,
+"""Dorian, Dorian, don't leave me!""","""-- Dorian, Dorian, ne m'abandonnez pas, souffla-t-elle.",2344,aligned,181688,181743,-1,-1,"-- Dorian, Dorian, ne m'abandonnez pas, souffla-t-elle. ",
+"""Don't go away from me.""","""Ne t'en va pas !",2348,aligned,182050,182066,-1,-1,Ne t'en va pas ! ,
+"""I couldn't bear it. Oh!""","""Je ne pourrais le supporter ! Oh !""",2349,aligned,182067,182101,-1,-1,Je ne pourrais le supporter ! Oh ! ,
+"It was foolish of me, and yet I couldn't help it.","C'etait fou de ma part... et cependant, je n'ai pu faire autrement...",2361,aligned,182511,182580,-1,-1,"C'etait fou de ma part... et cependant, je n'ai pu faire autrement... ",
+"Oh, don't leave me, don't leave me!",Oh ! ne me quitte pas ! ne m'abandonne pas !...,2362,aligned,182581,182628,-1,-1,"Oh ! ne me quitte pas ! ne m'abandonne pas !...
+",
+"""I don't wish to be unkind, but I can't see you again. You have disappointed me.""","Je ne veux pas etre cruel davantage, mais je ne puis vous revoir. Vous m'avez depouille de toutes mes illusions...",2374,aligned,183064,183178,-1,-1,"Je ne veux pas etre cruel davantage, mais je ne puis vous revoir. Vous m'avez depouille de toutes mes illusions...
+",
+Sibyl Vane seemed to him to be absurdly melodramatic.,(No direct equivalent in text),2377,not aligned,-1,-1,168095,168148,,"Sibyl Vane
+seemed to him to be absurdly melodramatic. "
+CHAPTER VIII.,"| Bon pelerin, vous etes trop severe pour votre main Qui n'a fait preuve en ceci que d'une respectueuse devotion ; (No direct equivalent in text)",2479,aligned,-1,-1,176863,176876,,"CHAPTER VIII.
+"
+asked Dorian Gray drowsily.,(No direct equivalent in text),2485,not aligned,-1,-1,177402,177429,,"asked Dorian Gray drowsily.
+"
+"I can't bear your shutting yourself up like this.""",Je ne puis supporter de vous voir ainsi barricade...,2560,aligned,200397,200449,-1,-1,"Je ne puis supporter de vous voir ainsi barricade...
+",
+"Suddenly there came a knock to the door, and he heard Lord Henry's voice outside.",On frappa tout a coup a la porte et il entendit en dehors la voix de lord Henry :,2562,aligned,200250,200331,-1,-1,"On frappa tout a coup a la porte et il entendit en dehors la voix de lord Henry :
+",
+"""Don't sneer at it, Harry, any more at least not before me.""","'Ne vous en moquez plus, Harry, au moins devant moi.'",2582,aligned,201924,201975,-1,-1,"Ne vous en moquez plus, Harry, au moins devant moi. ",
+"~~~ She is to be my wife.""",(No direct equivalent in text),2591,not aligned,-1,-1,185746,185768,," She is to be my wife."""
+"A cry of pain broke from the lad's lips, and he leaped to his feet, tearing his hands away from Lord Henry's grasp.","Un cri de douleur jaillit des levres de l'adolescent ; il bondit sur ses pieds, s'arrachant de l'etreinte de lord Henry :",2598,aligned,203269,203390,-1,-1,"Un cri de douleur jaillit des levres de l'adolescent ; il bondit sur ses pieds, s'arrachant de l'etreinte de lord Henry :
+",
+I was afraid there might be something in it that I wouldn't like.,Je craignais d'y trouver quelque chose qui me ferait de la peine.,2601,aligned,202834,202899,-1,-1,Je craignais d'y trouver quelque chose qui me ferait de la peine. ,
+"""Dorian,"" he said, ""my letter don't be frightened was to tell you that Sibyl Vane is dead.""","-- Dorian, lui dit-il, ma lettre -- ne vous effrayez pas ! -- vous informait de la mort de Sibyl Vane !...",2603,aligned,203161,203267,-1,-1,"-- Dorian, lui dit-il, ma lettre -- ne vous effrayez pas ! -- vous informait de la mort de Sibyl Vane !...
+",
+"I can't tell you what it was, but it was terrible.","Je ne puis vous dire ce que ce fut, mais ce fut terrible...",2665,aligned,206866,206925,-1,-1,"Je ne puis vous dire ce que ce fut, mais ce fut terrible... ",
+"You don't know the danger I am in, and there is nothing to keep me straight.","Vous savez dans quel danger je suis, et rien n'est la pour m'en garder !",2672,aligned,207075,207147,-1,-1,"Vous savez dans quel danger je suis, et rien n'est la pour m'en garder ! ",
+It fills one with the terror of eternity.,(No direct equivalent in text),2720,not aligned,-1,-1,194499,194540,,"It fills one
+with the terror of eternity. "
+"You forget that.""",(No direct equivalent in text),2741,not aligned,-1,-1,196900,196916,,"You forget that."""
+"Indeed, I have not mentioned the most important one.""",(No direct equivalent in text),2746,not aligned,-1,-1,196314,196366,,"Indeed, I have not mentioned the most important one."""
+"""Oh, the obvious consolation. Taking some one else's admirer when one loses one's own.",-- La consolation evidente : prendre un nouvel adorateur quand on en perd un.,2750,aligned,214246,214323,-1,-1,-- La consolation evidente : prendre un nouvel adorateur quand on en perd un. ,
+"""I don't feel up to it,"" said Dorian listlessly.","""-- Ca ne m'est point possible, dit Dorian nonchalamment...""",2790,aligned,218334,218392,-1,-1,"-- Ca ne m'est point possible, dit Dorian nonchalamment... ",
+"""But I am sorry you won't come and dine.""","""-- Je suis desole que vous ne veniez diner.""",2792,aligned,-1,-1,-1,-1,,
+The pity of it! The pity of it!,Quelle derision sans mesure !,2825,aligned,221582,221611,-1,-1,"Quelle derision sans mesure !
+",
+I can't tell you how heart-broken I am about the whole thing.,Je ne saurais vous dire combien j'ai eu le coeur brise par tout cela.,2860,aligned,224388,224457,-1,-1,Je ne saurais vous dire combien j'ai eu le coeur brise par tout cela. ,
+Did you go down and see the girl's mother?,Etes-vous alle voir la mere de la pauvre fille ?,2863,aligned,224515,224563,-1,-1,Etes-vous alle voir la mere de la pauvre fille ? ,
+'You should have come on there.',(No direct equivalent in text),2875,not aligned,-1,-1,206540,206570,,"You should have come
+on there. "
+I may mention that she was not the woman's only child.,Je dois dire que ce n'etait pas l'unique enfant de la pauvre femme.,2884,aligned,225453,225520,-1,-1,Je dois dire que ce n'etait pas l'unique enfant de la pauvre femme. ,
+"""Stop, Basil! I won't hear it!""","'Arretez-vous, Basil, je ne veux pas les entendre !'",2890,aligned,226169,226219,-1,-1,"Arretez-vous, Basil, je ne veux pas les entendre ! ",
+"Now, I don't know what has come over you.",Maintenant je ne sais ce qui a passe sur vous.,2903,aligned,227019,227065,-1,-1,Maintenant je ne sais ce qui a passe sur vous. ,
+It is all Harry's influence.,"C'est l'influence d'Harry qui a fait cela, je le vois bien...",2906,aligned,227119,227180,-1,-1,"C'est l'influence d'Harry qui a fait cela, je le vois bien...
+",
+"""I don't know what you want. What do you want?""","""Je ne sais ce que vous voulez ! Que voulez-vous ?""",2910,aligned,227570,227619,-1,-1,"Je ne sais ce que vous voulez ! Que voulez-vous ?
+",
+"""I don't know what you mean, Basil,"" he exclaimed, turning round.","""Je ne sais ce que vous voulez dire, Basil, s'ecria-t-il en se retournant.""",2911,aligned,227496,227569,-1,-1,"Je ne sais ce que vous voulez dire, Basil, s'ecria-t-il en se retournant. ",
+"""My dear Basil! Surely you don't think it was a vulgar accident? Of course she killed herself.""","-- Mon cher Basil ! Vous ne pensiez surement pas que ce fut un vulgaire accident. Certainement, elle s'est suicidee.",2916,aligned,227977,228093,-1,-1,"-- Mon cher Basil ! Vous ne pensiez surement pas que ce fut un vulgaire accident. Certainement, elle s'est suicidee.
+",
+The inquest is to take place this afternoon.,L'enquete doit avoir lieu cet apres-midi.,2970,aligned,-1,-1,213070,213114,,"The inquest is to take
+place this afternoon. "
+"""Well, Dorian,"" he said at length, with a sad smile, ""I won't speak to you again about this horrible thing, after to-day.","'-- Bien, Dorian, dit-il enfin, avec un sourire attriste ; je ne vous parlerai plus de cette horrible affaire desormais.",2971,aligned,231955,232074,-1,-1,"-- Bien, Dorian, dit-il enfin, avec un sourire attriste ; je ne vous parlerai plus de cette horrible affaire desormais. ",
+I only trust your name won't be mentioned in connection with it.,J'espere seulement que votre nom n'y sera pas mele.,2972,aligned,232075,232126,-1,-1,J'espere seulement que votre nom n'y sera pas mele. ,
+"""They don't know my name,"" he answered.","-- Ils ne connaissent pas mon nom, repondit-il.",2974,aligned,232362,232409,-1,-1,"-- Ils ne connaissent pas mon nom, repondit-il.
+",
+"""I will try and do something, Dorian, if it would please you. But you must come and sit to me yourself again. I can't get on without you.""","'-- J'essaierai de faire quelque chose, Dorian, si cela vous fait plaisir. Mais il faudra que vous veniez encore me poser. Je ne puis me passer de vous.'",2983,aligned,232916,233067,-1,-1,"-- J'essaierai de faire quelque chose, Dorian, si cela vous fait plaisir. Mais il faudra que vous veniez encore me poser. Je ne puis me passer de vous.
+",
+"""Do you mean to say you don't like what I did of you?""",'Voudriez-vous dire que ce que j'ai fait de vous ne vous plait pas ?',2986,aligned,233243,233310,-1,-1,Voudriez-vous dire que ce que j'ai fait de vous ne vous plait pas ? ,
+"""Where is it?""",'Ou est-ce...?',2987,aligned,-1,-1,214119,214131,,Where is it? 
+"""he cried.""",(No direct equivalent in text),2990,not aligned,-1,-1,29048,29057,,he cried. 
+"""You don't imagine I let him arrange my room for me?""","""Vous n'imaginez pas que je lui laisse arranger mon appartement.""",2996,aligned,233701,233764,-1,-1,Vous n'imaginez pas que je lui laisse arranger mon appartement. ,
+"""A cry of terror broke from Dorian Gray's lips, and he rushed between the painter and the screen.""","""Un cri de terreur s'echappa des levres de Dorian Gray. Il s'elanca entre le peintre et le paravent.""",3002,aligned,234039,234138,-1,-1,"Un cri de terreur s'echappa des levres de Dorian Gray. Il s'elanca entre le peintre et le paravent.
+",
+"""Basil,"" he said, looking very pale, ""you must not look at it. I don't wish you to.""","""-- Basil, dit-il, en palissant vous ne regarderez pas cela, je ne le veux pas.""",3003,aligned,234140,234218,-1,-1,"-- Basil, dit-il, en palissant vous ne regarderez pas cela, je ne le veux pas.
+",
+"""Don't speak!""",Ne parlez pas !,3018,aligned,40434,40449,-1,-1,Ne parlez pas ! ,
+"""Yes; I don't suppose you will object to that.","-- Oui, je ne suppose pas que vous ayez quelque chose a objecter.",3032,aligned,235641,235706,-1,-1,"-- Oui, je ne suppose pas que vous ayez quelque chose a objecter. ",
+You can't have forgotten that you assured me most solemnly that nothing in the world would induce you to send it to any exhibition.,Vous ne pouvez avoir oublie que vous m'avez solennellement assure que rien au monde ne pourrait vous amener a l'exposer.,3042,aligned,236484,236604,-1,-1,Vous ne pouvez avoir oublie que vous m'avez solennellement assure que rien au monde ne pourrait vous amener a l'exposer. ,
+"'He remembered that Lord Henry had said to him once, half seriously and half in jest, ""If you want to have a strange quarter of an hour, get Basil to tell you why he won't exhibit your picture. He told me why he wouldn't, and it was a revelation to me.""'","'Il se souvint que lord Henry lui avait dit un jour a moitie serieusement, a moitie en riant : << Si vous voulez passer un curieux quart d'heure, demandez a Basil pourquoi il ne veut pas exposer votre portrait. Il me l'a dit, et cela a ete pour moi une revelation >>.'",3045,aligned,236707,236973,-1,-1,"Il se souvint que lord Henry lui avait dit un jour a moitie serieusement, a moitie en riant : << Si vous voulez passer un curieux quart d'heure, demandez a Basil pourquoi il ne veut pas exposer votre portrait. Il me l'a dit, et cela a ete pour moi une revelation >>. ",
+"""Let us sit down.",(No direct equivalent in text),3062,not aligned,-1,-1,218565,218581,,"Let us
+sit down. "
+He was determined to find out Basil Hallward's mystery.,Il etait resolu a connaitre le secret de Basil Hallward.,3063,aligned,237925,237981,-1,-1,"Il etait resolu a connaitre le secret de Basil Hallward.
+",
+"I had drawn you as Paris in dainty armour, and as Adonis with huntsman's cloak and polished boar-spear.","Je vous avais dessine en berger Paris, revetu d'une delicate armure, en Adonis arme d'un epieu poli et en costume de chasseur.",3080,aligned,239497,239623,-1,-1,"Je vous avais dessine en berger Paris, revetu d'une delicate armure, en Adonis arme d'un epieu poli et en costume de chasseur. ",
+"Crowned with heavy lotus-blossoms you had sat on the prow of Adrian's barge, gazing across the green turbid Nile.","Couronne de lourdes fleurs de lotus, vous aviez pose sur la proue de la trireme d'Adrien, regardant au-dela du Nil vert et bourbeux.",3081,aligned,239624,239756,-1,-1,"Couronne de lourdes fleurs de lotus, vous aviez pose sur la proue de la trireme d'Adrien, regardant au-dela du Nil vert et bourbeux. ",
+You had leaned over the still pool of some Greek woodland and seen in the water's silent silver the marvel of your own face.,"Vous vous etiez penche sur l'etang limpide d'un paysage grec, mirant dans l'argent des eaux silencieuses, la merveille de votre propre visage.",3082,aligned,239757,239899,-1,-1,"Vous vous etiez penche sur l'etang limpide d'un paysage grec, mirant dans l'argent des eaux silencieuses, la merveille de votre propre visage. ",
+But I did not mind that.,(No direct equivalent in text),3090,not aligned,-1,-1,221099,221123,,"But I did not
+mind that. "
+Lord Henry had the charm of being very dangerous.,Lord Henry avait ce charme d'etre tres dangereux.,3110,aligned,-1,-1,222521,222570,,"Lord
+Henry had the charm of being very dangerous. "
+"""you don't know what it cost me to tell you all that I have told you.""","""vous ne savez pas ce qu'il m'en coute de vous dire tout cela !...""",3126,aligned,243346,243411,-1,-1,"vous ne savez pas ce qu'il m'en coute de vous dire tout cela !...
+",
+"""I can't explain it to you, Basil, but I must never sit to you again. There is something fatal about a portrait.""","""Je ne puis vous donner d'explications, Basil ; je ne dois plus poser pour vous. Il y a quelque chose de fatal dans un portrait.""",3138,aligned,244683,244810,-1,-1,"Je ne puis vous donner d'explications, Basil ; je ne dois plus poser pour vous. Il y a quelque chose de fatal dans un portrait. ",
+"""Harry spends his days in saying what is incredible and his evenings in doing what is improbable. Just the sort of life I would like to lead. But still I don't think I would go to Harry if I were in trouble. I would sooner go to you, Basil.""","""Harry passe ses journees a dire des choses incroyables et ses soirees a faire des choses invraisemblables. Tout a fait le genre de vie que j'aimerais. Mais je ne crois pas que j'irai vers Harry dans un moment d'embarras ; je viendrai a vous aussitot, Basil.""",3144,aligned,244227,244484,-1,-1,"Harry passe ses journees a dire des choses incroyables et ses soirees a faire des choses invraisemblables. Tout a fait le genre de vie que j'aimerais. Mais je ne crois pas que j'irai vers Harry dans un moment d'embarras ; je viendrai a vous aussitot, Basil.
+",
+"""I am sorry you won't let me look at the picture once again.""","""Je suis fache que vous ne vouliez pas me laisser regarder encore une fois le tableau.""",3151,aligned,245001,245086,-1,-1,Je suis fache que vous ne vouliez pas me laisser regarder encore une fois le tableau. ,
+"""But that can't be helped.""","""Mais nous n'y pouvons rien.""",3152,aligned,245087,245114,-1,-1,Mais nous n'y pouvons rien. ,
+"The painter's absurd fits of jealousy, his wild devotion, his extravagant panegyrics, his curious reticences he understood them all now, and he felt sorry.","Les absurdes acces de jalousie du peintre, sa devotion farouche, ses panegyriques extravagants, ses curieuses reticences, il comprenait tout maintenant et il en eprouva une contrariete.",3158,aligned,245492,245677,-1,-1,"Les absurdes acces de jalousie du peintre, sa devotion farouche, ses panegyriques extravagants, ses curieuses reticences, il comprenait tout maintenant et il en eprouva une contrariete. ",
+"""I don't want it put straight, Leaf. I only want the key.""","-- Je n'ai pas besoin qu'elle soit en ordre, Leaf. Il me faut la clef, simplement...",3176,aligned,247340,247424,-1,-1,"-- Je n'ai pas besoin qu'elle soit en ordre, Leaf. Il me faut la clef, simplement...
+",
+"""Well, sir, you'll be covered with cobwebs if you go into it.","-- Mais, monsieur, vous serez couvert de toiles d'araignees si vous y allez.",3177,aligned,247426,247502,-1,-1,"-- Mais, monsieur, vous serez couvert de toiles d'araignees si vous y allez. ",
+"Why, it hasn't been opened for nearly five years, not since his lordship died.""","Comment ! On ne l'a pas ouverte depuis cinq ans, depuis que Sa Seigneurie est morte.",3178,aligned,247503,247587,-1,-1,"Comment ! On ne l'a pas ouverte depuis cinq ans, depuis que Sa Seigneurie est morte.
+",
+"""That does not matter,"" he answered. ""I simply want to see the place, that is all. Give me the key.""","-- Ca ne fait rien, dit-il, j'ai seulement besoin de voir cette piece, et c'est tout. Donnez-moi la clef.",3179,aligned,247682,247787,-1,-1,"-- Ca ne fait rien, dit-il, j'ai seulement besoin de voir cette piece, et c'est tout. Donnez-moi la clef.
+",
+"Basil would have helped him to resist Lord Henry's influence, and the still more poisonous influences that came from his own temperament.",Basil l'eut aide a resister a l'influence de lord Henry et aux influences encore plus empoisonnees de son propre temperament.,3203,aligned,249312,249437,-1,-1,Basil l'eut aide a resister a l'influence de lord Henry et aux influences encore plus empoisonnees de son propre temperament. ,
+The love that he bore him -- for it was really love -- had nothing in it that was not noble and intellectual.,L'amour qu'il lui portait -- car c'etait reellement de l'amour -- n'avait rien que de noble et d'intellectuel.,3204,aligned,249438,249548,-1,-1,L'amour qu'il lui portait -- car c'etait reellement de l'amour -- n'avait rien que de noble et d'intellectuel. ,
+"As he did so, a knock came to the door.",Au meme instant on frappa a la porte.,3224,aligned,-1,-1,230226,230265,,"As he did so, a knock came to the door.
+"
+"""We will go up by the front staircase, as it is wider.""",(No direct equivalent in text),3257,not aligned,-1,-1,232682,232735,,"We will go up by the front staircase, as it is wider."""
+"The elaborate character of the frame had made the picture extremely bulky, and now and then, in spite of the obsequious protests of Mr. Hubbard, who had the true tradesman's spirited dislike of seeing a gentleman doing anything useful, Dorian put his hand to it so as to help them.","Les ornements du cadre rendaient le tableau tres volumineux et de temps en temps, en depit des obsequieuses protestations de M. Hubbard, qui eprouvait comme tous les marchands un vif deplaisir a voir un homme du monde faire quelque chose d'utile, Dorian leur donnait un coup de main.",3261,aligned,253636,253919,-1,-1,"Les ornements du cadre rendaient le tableau tres volumineux et de temps en temps, en depit des obsequieuses protestations de M. Hubbard, qui eprouvait comme tous les marchands un vif deplaisir a voir un homme du monde faire quelque chose d'utile, Dorian leur donnait un coup de main.
+",
+"He would be sure to miss the picture, had no doubt missed it already, while he had been laying the tea-things.","Il remarquerait surement l'absence du tableau, l'avait meme sans doute deja remarquee en apportant le the.",3311,aligned,259272,259378,-1,-1,"Il remarquerait surement l'absence du tableau, l'avait meme sans doute deja remarquee en apportant le the. ",
+"""I didn't say I liked it, Harry. I said it fascinated me. There is a great difference.""","Je ne dis pas qu'il m'a plu, je dis qu'il m'a interesse, il y a une grande difference.",3353,aligned,264383,264469,-1,-1,"Je ne dis pas qu'il m'a plu, je dis qu'il m'a interesse, il y a une grande difference.
+",
+"It was almost nine o'clock before he reached the club, where he found Lord Henry sitting alone, in the morning-room, looking very much bored.","Il etait pres de neuf heures lorsqu'il arriva au club, ou il trouva lord Henry assis tout seul, dans le salon, paraissant tres ennuye.",3354,aligned,263997,264131,-1,-1,"Il etait pres de neuf heures lorsqu'il arriva au club, ou il trouva lord Henry assis tout seul, dans le salon, paraissant tres ennuye.
+",
+In one point he was more fortunate than the novel's fantastic hero.,"A un certain point de vue, il etait plus fortune que le fantastique heros du roman.",3364,aligned,265346,265429,-1,-1,"A un certain point de vue, il etait plus fortune que le fantastique heros du roman. ",
+"The bezoar, that was found in the heart of the Arabian deer, was a charm that could cure the plague.",(No direct equivalent in text),3444,not aligned,-1,-1,263017,263117,,"The
+bezoar, that was found in the heart of the Arabian deer, was a charm
+that could cure the plague. "
+"Leonardus Camillus had seen a white stone taken from the brain of a newly killed toad, that was a certain antidote against poison.","Leonardus Camillus a vu une blanche pierre prise dans la cervelle d'un crapaud nouvellement tue, qui etait un antidote certain contre les poisons.",3446,aligned,-1,-1,262886,263016,,"Leonardus Camillus had seen a white stone taken from the brain of a
+newly killed toad, that was a certain antidote against poison. "
+"Henry II wore jewelled gloves reaching to the elbow, and had a hawk-glove sewn with twelve rubies and fifty-two great orients.",Henry II portait des gants enrichis de pierreries montant jusqu'au coude et avait un gant de fauconnerie cousu de vingt rubis et de cinquante-deux perles.,3460,aligned,287485,287639,-1,-1,Henry II portait des gants enrichis de pierreries montant jusqu'au coude et avait un gant de fauconnerie cousu de vingt rubis et de cinquante-deux perles. ,
+"Society, civilized society, at least, is never very ready to believe anything to the detriment of those who are both rich and fascinating.","La societe, la societe civilisee tout au moins, croit difficilement du mal de ceux qui sont riches et beaux.",3516,aligned,298284,298392,-1,-1,"La societe, la societe civilisee tout au moins, croit difficilement du mal de ceux qui sont riches et beaux. ",
+"Encore et encore, Dorian relisait ce chapitre fantastique, et les deux chapitres suivants, dans lesquels, comme en une curieuse tapisserie ou par des emaux adroitement incrustes, etaient peintes les figures terribles et belles de ceux que le Vice et le Sang et la Lassitude ont fait monstrueux et dements : Filippo, duc de Milan, qui tua sa femme et teignit ses levres d'un poison ecarlate, de facon a ce que son amant sucat la mort en baisant la chose morte qu'il idolatrait ; Pietro Barbi, le Venitien, que l'on nomme Paul II, qui voulut vaniteusement prendre le titre de Formosus, et dont la tiare, evaluee a deux cent mille florins, fut le prix d'un peche terrible ; Gian Maria Visconti, qui se servait de levriers pour chasser les hommes, et dont le cadavre meurtri fut couvert de roses par une prostituee qui l'avait aime !",(No direct equivalent in text),3571,not aligned,-1,-1,-1,-1,,
+But I wasn't quite sure.,Mais je n'en etais pas sur.,3598,aligned,309729,309756,-1,-1,Mais je n'en etais pas sur. ,
+Didn't you recognize me?,Ne m'aviez-vous pas reconnu ?,3599,aligned,309757,309786,-1,-1,"Ne m'aviez-vous pas reconnu ?
+",
+"""In this fog, my dear Basil? Why, I can't even recognize Grosvenor Square.""","Il y a du brouillard, mon cher Basil ? (No direct equivalent in text for the rest of the English sentence)",3600,aligned,-1,-1,-1,-1,,
+"""However, it wasn't about myself I wanted to talk.""","""Toutefois, ce n'etait pas de moi que je voulais vous parler.""",3606,aligned,310280,310340,-1,-1,"Toutefois, ce n'etait pas de moi que je voulais vous parler. ",
+At least nothing should be.,(No direct equivalent in text),3620,not aligned,-1,-1,287837,287864,,"At least nothing should be."""
+And mind you don't talk about anything serious.,Et songez qu'il ne faut pas parler de choses serieuses.,3622,aligned,311184,311239,-1,-1,Et songez qu'il ne faut pas parler de choses serieuses. ,
+"""I love scandals about other people, but scandals about myself don't interest me.""","'J'aime les scandales sur les autres, mais ceux qui me concernent ne m'interessent point.'",3654,aligned,313512,313600,-1,-1,"J'aime les scandales sur les autres, mais ceux qui me concernent ne m'interessent point. ",
+"""I don't wish to know anything about them.""",'Je ne desire pas les connaitre.',3657,aligned,313480,313511,-1,-1,Je ne desire pas les connaitre. ,
+I met his father yesterday in St. James's Street.,J'ai rencontre son pere hier dans St-James Street.,3691,aligned,316332,316382,-1,-1,J'ai rencontre son pere hier dans St-James Street. ,
+What about Lord Kent's only son and his career?,Que dire du fils unique de lord Kent et de sa carriere compromise ?,3692,aligned,316264,316331,-1,-1,Que dire du fils unique de lord Kent et de sa carriere compromise ? ,
+"""You ask me why Berwick leaves a room when I enter it.  It is because I know everything about his life, not because he knows anything about mine.",'-- Vous me demandez pourquoi Berwick quitte un endroit ou j'arrive ? C'est parce que je connais toute sa vie et non parce qu'il connait quelque chose de la mienne.',3699,aligned,316711,316874,-1,-1,-- Vous me demandez pourquoi Berwick quitte un endroit ou j'arrive ? C'est parce que je connais toute sa vie et non parce qu'il connait quelque chose de la mienne. ,
+"If Adrian Singleton writes his friend's name across a bill, am I his keeper?","Si Adrien Singleton signe du nom de ses amis ses billets, suis-je son gardien ?",3702,aligned,317180,317259,-1,-1,"Si Adrien Singleton signe du nom de ses amis ses billets, suis-je son gardien ? ",
+"If Kent's silly son takes his wife from the streets, what is that to me?","Si le fils imbecile de Kent prend sa femme sur le trottoir, y suis-je pour quelque chose ?",3703,aligned,317089,317179,-1,-1,"Si le fils imbecile de Kent prend sa femme sur le trottoir, y suis-je pour quelque chose ? ",
+"Surely for that reason, if for none other, you should not have made his sister's name a by-word.","et pour cette raison, sinon pour une autre, vous n'auriez pas du faire du nom de sa soeur une risee.",3709,aligned,318501,318601,-1,-1,"et pour cette raison, sinon pour une autre, vous n'auriez pas du faire du nom de sa soeur une risee.
+",
+I won't tell you that I don't want to preach to you.,Je n'ai nul besoin de vous dire que je ne veux pas vous sermonner.,3731,aligned,319491,319557,-1,-1,Je n'ai nul besoin de vous dire que je ne veux pas vous sermonner. ,
+"Dorian, you don't know what is said about you.","Dorian, vous ne savez pas ce que l'on dit de vous.",3732,aligned,319440,319490,-1,-1,"Dorian, vous ne savez pas ce que l'on dit de vous. ",
+"""Why shouldn't you look at it?""","""Pourquoi ne la regarderiez-vous pas ?""",3758,aligned,321278,321315,-1,-1,Pourquoi ne la regarderiez-vous pas ? ,
+"""Don't touch me. Finish what you have to say.""",Ne m'approchez pas !... Achevez ce que vous avez a dire...,3774,aligned,322555,322613,-1,-1,"Ne m'approchez pas !... Achevez ce que vous avez a dire...
+",
+"My God! don't tell me that you are bad, and corrupt, and shameful.","Mon Dieu ! ne me dites pas que vous etes mechant, et corrompu, et couvert de honte !...",3786,aligned,323468,323555,-1,-1,"Mon Dieu ! ne me dites pas que vous etes mechant, et corrompu, et couvert de honte !...
+",
+Can't you see what I am going through?,Ne voyez-vous pas ce que je vais devenir ?,3789,aligned,323425,323467,-1,-1,Ne voyez-vous pas ce que je vais devenir ? ,
+"""I keep a diary of my life from day to day, and it never leaves the room in which it is written.","Je tiens un journal de ma vie jour par jour, et il ne sort jamais de la chambre ou il est ecrit ;",3792,aligned,-1,-1,299298,299393,,"I keep a diary of my life from day
+to day, and it never leaves the room in which it is written. "
+But don't ask me to read anything to-night.,Mais ne me demandez pas de lire quelque chose ce soir.,3797,aligned,323971,324025,-1,-1,Mais ne me demandez pas de lire quelque chose ce soir. ,
+Good heavens! it was Dorian Gray's own face that he was looking at!,"Ciel ! Cela pouvait-il etre la face, la propre face de Dorian Gray ?",3833,aligned,326328,326396,-1,-1,"Ciel ! Cela pouvait-il etre la face, la propre face de Dorian Gray ? ",
+"""There was nothing evil in it, nothing shameful.  You were to me such an ideal as I shall never meet again.""","""Il n'y avait rien de mauvais en lui, rien de honteux ; vous etiez pour moi un ideal comme je n'en rencontrerai plus jamais...""",3877,aligned,329337,329462,-1,-1,"Il n'y avait rien de mauvais en lui, rien de honteux ; vous etiez pour moi un ideal comme je n'en rencontrerai plus jamais... ",
+"""What is it that one was taught to say in one's boyhood?",Que nous a-t-on appris a dire dans notre enfance ?,3899,aligned,330786,330836,-1,-1,Que nous a-t-on appris a dire dans notre enfance ? ,
+Lead us not into temptation.,(No direct equivalent in text),3900,not aligned,-1,-1,305869,305897,,Lead us not into temptation. 
+"""Hush! Don't say that.""","""-- Ah ! ne dites pas cela.""",3915,aligned,331572,331598,-1,-1,-- Ah ! ne dites pas cela. ,
+My God! Don't you see that accursed thing leering at us?,Mon Dieu ! Ne voyez-vous pas cette maudite face qui nous regarde ?,3918,aligned,331643,331709,-1,-1,"Mon Dieu ! Ne voyez-vous pas cette maudite face qui nous regarde ?
+",
+"He rushed at him and dug the knife into the great vein that is behind the ear, crushing the man's head down on the table and stabbing again and again.","Dorian bondit sur lui, lui enfonca le couteau derriere l'oreille, tranchant la carotide, ecrasant la tete contre la table et frappant a coups furieux...",3927,aligned,332532,332684,-1,-1,"Dorian bondit sur lui, lui enfonca le couteau derriere l'oreille, tranchant la carotide, ecrasant la tete contre la table et frappant a coups furieux...
+",
+CHAPTER XIV.,(No direct equivalent in text),4014,not aligned,-1,-1,313173,313185,,"CHAPTER XIV.
+"
+Yes; that was the man he wanted.,(No direct equivalent in text),4015,not aligned,-1,-1,313136,313168,,"Yes; that was the man he wanted.
+"
+"Sur une gamme chromatique, Le sein de perles ruisselant, La Vénus de l'Adriatique Sort de l'eau son corps rose et blanc. Les dômes, sur l'azur des ondes Suivant la phrase au pur contour, S'enflent comme des gorges rondes Que soulève un soupir d'amour. L'esquif aborde et me dépose, Jetant son amarre au pilier, Devant une façade rose, Sur le marbre d'un escalier.","Sur une gamme chromatique. ~~~ Le sein de perles ruisselant, La Venus de l'Adriatique Sort de l'eau son corps rose et blanc. Les domes, sur l'azur des ondes, Suivant la phrase au pur contour, S'enflent comme des gorges rondes Que souleve un soupir d'amour. L'esquif aborde et me depose, Jetant son amarre au pilier, Devant une facade rose, Sur le marbre d'un escalier.",4052,aligned,342922,343303,-1,-1,"Sur une gamme chromatique.
+
+Le sein de perles ruisselant,
+
+La Venus de l'Adriatique
+
+Sort de l'eau son corps rose et blanc.
+
+
+
+
+
+Les domes, sur l'azur des ondes,
+
+Suivant la phrase au pur contour,
+
+S'enflent comme des gorges rondes
+
+Que souleve un soupir d'amour.
+
+
+
+L'esquif aborde et me depose,
+
+Jetant son amarre au pilier,
+
+Devant une facade rose,
+
+Sur le marbre d'un escalier.
+",
+"As he turned over the pages, his eye fell on the poem about the hand of Lacenaire, the cold yellow hand ""_du supplice encore mal lavée_,"" with its downy red hairs and its ""_doigts de faune_.""","Comme il tournait les pages, ses yeux tomberent sur le poeme de la main de Lacenaire, la main froide et jaune << du supplice encore mal lavee >> aux poils roux et aux << doigts de faune >>.",4054,aligned,342555,342744,-1,-1,"Comme il tournait les pages, ses yeux tomberent sur le poeme de la main de Lacenaire, la main froide et jaune << du supplice encore mal lavee >> aux poils roux et aux << doigts de faune >>. ",
+"It was Gautier's ""Emaux et Camées"", Charpentier's Japanese-paper edition, with the Jacquemart etching.","C'etait une edition Charpentier sur Japon des << Emaux et Camees >> de Gautier, ornee d'une eau-forte de Jacquemart.",4055,aligned,342291,342407,-1,-1,"C'etait une edition Charpentier sur Japon des << Emaux et Camees >> de Gautier, ornee d'une eau-forte de Jacquemart. ",
+He took long stealthy strides.,(No direct equivalent in text),4099,not aligned,-1,-1,322519,322549,,"He took long stealthy strides.
+"
+"Don't stir, and don't look at me like that.",Ne bronchez pas et ne me regardez pas ainsi...,4131,aligned,350832,350878,-1,-1,Ne bronchez pas et ne me regardez pas ainsi... ,
+"""Stop, Gray. I don't want to know anything further.","-- Arretez, Gray !... Je ne veux rien savoir de plus...",4134,aligned,351013,351068,-1,-1,"-- Arretez, Gray !... Je ne veux rien savoir de plus... ",
+Whether what you have told me is true or not true doesn't concern me.,"Que ce que vous venez de me dire soit vrai ou non, cela ne me regarde pas...'",4135,aligned,351069,351145,-1,-1,"Que ce que vous venez de me dire soit vrai ou non, cela ne me regarde pas... ",
+"""They don't interest me any more.""",'Ils ne m'interessent plus desormais...',4147,aligned,351232,351270,-1,-1,"Ils ne m'interessent plus desormais...
+",
+"""But I can't help myself.""",'Mais je n'y puis rien moi-meme.',4148,aligned,351385,351416,-1,-1,Mais je n'y puis rien moi-meme. ,
+"""What is it to me what devil's work you are up to?""","""Que m'importe cette oeuvre diabolique que vous faites...?""",4161,aligned,-1,-1,-1,-1,,
+"""I am glad of that.""","""J'aime mieux cela!...""",4162,aligned,-1,-1,326581,326599,,I am glad of that. 
+"Your friend Lord Henry Wotton can't have taught you much about psychology, whatever else he has taught you.","Votre ami lord Henry Wotton aurait pu vous mieux instruire en psychologie, entre autre choses qu'il vous enseigna...",4172,aligned,353042,353158,-1,-1,"Votre ami lord Henry Wotton aurait pu vous mieux instruire en psychologie, entre autre choses qu'il vous enseigna... ",
+You don't know what he had made me suffer.,Vous ne savez pas tout ce qu'il m'avait fait souffrir.,4177,aligned,353356,353410,-1,-1,Vous ne savez pas tout ce qu'il m'avait fait souffrir. ,
+Don't come to me.,(No direct equivalent in text),4178,not aligned,-1,-1,-1,-1,,
+You don't inquire where the dead things on which you experiment come from.,Vous ne vous informez point d'ou viennent les cadavres qui servent a vos experiences ?...,4211,aligned,355484,355573,-1,-1,Vous ne vous informez point d'ou viennent les cadavres qui servent a vos experiences ?... ,
+Don't inquire now.,Ne vous informez point de celui-ci.,4213,aligned,355574,355609,-1,-1,Ne vous informez point de celui-ci. ,
+"Alan! If you don't come to my assistance, I am ruined.","Alan ! si vous ne venez pas a mon secours, je suis perdu !...",4221,aligned,355920,355981,-1,-1,"Alan ! si vous ne venez pas a mon secours, je suis perdu !... ",
+Don't you understand?,Ne comprenez-vous pas ?,4223,aligned,356018,356041,-1,-1,Ne comprenez-vous pas ? ,
+He felt as if his heart was beating itself to death in some empty hollow.,(No direct equivalent in text),4239,not aligned,-1,-1,330373,330446,,"He felt as if
+his heart was beating itself to death in some empty hollow.
+"
+"""I don't think I can go in, Alan,"" he murmured.","-- Je crois que je ne pourrai pas entrer, Alan ! murmura-t-il.",4308,aligned,362055,362117,-1,-1,"-- Je crois que je ne pourrai pas entrer, Alan ! murmura-t-il.
+",
+"""Now, Alan, there is not a moment to be lost. How heavy this chest is! I'll take it for you. You bring the other things.""","""Maintenant, Alan, ne perdons pas un instant... Comme cette caisse est lourde !... Je vais la monter, prenez les autres objets. Il parlait vite, d'un ton de commandement.",4314,aligned,361694,361864,-1,-1,"Maintenant, Alan, ne perdons pas un instant... Comme cette caisse est lourde !... Je vais la monter, prenez les autres objets.
+
+Il parlait vite, d'un ton de commandement. ",
+"""It is nothing to me. I don't require you,"" said Campbell coldly.","-- Ca m'est egal, je n'ai pas besoin de vous, dit Campbell froidement.",4318,aligned,362119,362189,-1,-1,"-- Ca m'est egal, je n'ai pas besoin de vous, dit Campbell froidement.
+",
+"That evening, at eight-thirty, exquisitely dressed and wearing a large button-hole of Parma violets, Dorian Gray was ushered into Lady Narborough's drawing-room by bowing servants.","Ce soir-la, a huit heures trente, exquisement vetu, la boutonniere ornee d'un gros bouquet de violettes de Parme Dorian Gray etait introduit dans le salon de lady Narborough par des domestiques inclines.",4338,aligned,364415,364618,-1,-1,"Ce soir-la, a huit heures trente, exquisement vetu, la boutonniere ornee d'un gros bouquet de violettes de Parme Dorian Gray etait introduit dans le salon de lady Narborough par des domestiques inclines.
+",
+"""You don't know what an existence they lead down there.""",'Vous n'imaginez pas l'existence qu'ils menent.',4356,aligned,367067,367113,-1,-1,Vous n'imaginez pas l'existence qu'ils menent. ,
+"Lady Alice Chapman, his hostess's daughter, a dowdy dull girl, with one of those characteristic British faces that, once seen, are never remembered;","Lady Alice Chapman, la fille de l'hotesse, triste et mal fagotee, lotie d'une de ces banales figures britanniques qu'on ne se rappelle jamais ;",4362,aligned,368205,368348,-1,-1,"Lady Alice Chapman, la fille de l'hotesse, triste et mal fagotee, lotie d'une de ces banales figures britanniques qu'on ne se rappelle jamais ; ",
+You shan't sit next either of them.,Il ne faut pas aller vous asseoir pres d'eux.,4368,aligned,367390,367435,-1,-1,Il ne faut pas aller vous asseoir pres d'eux. ,
+"""Isn't he incorrigible?"" cried Dorian, leaning forward in his chair.","'-- N'est-il pas incorrigible ? s'ecria Dorian, se renversant sur le dossier de sa chaise.'",4416,aligned,372334,372423,-1,-1,"-- N'est-il pas incorrigible ? s'ecria Dorian, se renversant sur le dossier de sa chaise.
+",
+"""Narborough wasn't perfect,"" cried the old lady.",'-- Narborough n'etait pas parfait ! ~~~ s'ecria la vieille dame.',4424,aligned,372929,372989,-1,-1,"-- Narborough n'etait pas parfait ! s'ecria la vieille dame.
+",
+"Lord Henry, don't you think that Mr. Gray should get married?","Lord Henry, ne pensez-vous pas que Mr Gray devrait se marier ?...",4440,aligned,374214,374279,-1,-1,"Lord Henry, ne pensez-vous pas que Mr Gray devrait se marier ?...
+",
+"""Or do you think that would make it a petticoat party?""",(No direct equivalent in text),4460,not aligned,-1,-1,347838,347891,,"Or do you think that would make it a petticoat party?"""
+"""A great many people don't, but I find him charming.""","Il ne plait pas a tout le monde, mais je le trouve charmant.",4504,aligned,378265,378325,-1,-1,"Il ne plait pas a tout le monde, mais je le trouve charmant. ",
+"""Ah! what a nuisance people are! Try and make him come.""",'-- Ah ! quel peste que ces gens ! Tachez donc qu'il vienne.',4514,aligned,378539,378598,-1,-1,-- Ah ! quel peste que ces gens ! Tachez donc qu'il vienne. ,
+"""Yes,"" he answered. Then he bit his lip. ""No, I don't mean that. I didn't go to the club. I walked about.""","'-- Oui, repondit-il. Puis il se mordit les levres... Non, je veux dire, je ne suis pas alle au club... Je me suis promene.'",4515,aligned,378905,379027,-1,-1,"-- Oui, repondit-il. Puis il se mordit les levres... Non, je veux dire, je ne suis pas alle au club... Je me suis promene. ",
+I shan't go upstairs.,Je ne monterai pas.,4529,aligned,379782,379801,-1,-1,Je ne monterai pas. ,
+"Don't mind me, Harry.","Ne vous inquietez pas de moi, Harry,",4531,aligned,379638,379674,-1,-1,"Ne vous inquietez pas de moi, Harry, ",
+CHAPTER XVI.,(No direct equivalent in text),4573,not aligned,-1,-1,355063,355075,,"CHAPTER XVI.
+"
+"""You shall have another if you drive fast.""",'-- vous en aurez un autre si vous allez vite.',4579,aligned,-1,-1,354854,354895,,"You shall have another if
+you drive fast."""
+"""To cure the soul by means of the senses, and the senses by means of the soul!""",(No direct equivalent in text),4592,not aligned,-1,-1,356337,356414,,"To cure the soul by means of the senses, and the senses by means of
+the soul!"""
+George doesn't speak to me either....,Georges ne veut pas me parler non plus.,4651,aligned,390864,390903,-1,-1,Georges ne veut pas me parler non plus. ,
+"I don't care,"" he added with a sigh. ""As long as one has this stuff, one doesn't want friends. I think I have had too many friends.""","Ca m'est egal, ajouta-t-il avec un soupir... Tant qu'on a cette drogue, on n'a pas besoin d'amis. Je pense que j'en ai eu de trop...",4654,aligned,390904,391036,-1,-1,"Ca m'est egal, ajouta-t-il avec un soupir... Tant qu'on a cette drogue, on n'a pas besoin d'amis. Je pense que j'en ai eu de trop...
+",
+"""Yes."" ""That mad-cat is sure to be there. They won't have her in this place now.""",-- Oui... -- Cette folle y sera surement ; on n'en veut plus ici...,4668,aligned,391849,391917,-1,-1,"-- Oui...
+
+-- Cette folle y sera surement ; on n'en veut plus ici...
+",
+"""I don't want anything,"" murmured the young man.","-Moi, je n'ai besoin de rien, murmura le jeune homme.",4673,aligned,392198,392251,-1,-1,"-Moi, je n'ai besoin de rien, murmura le jeune homme.
+",
+"""You will write to me if you want anything, won't you?"" said Dorian, after a pause.","-- Vous m'ecrirez si vous avez besoin de quelque chose, n'est-ce pas ? dit Dorian un moment apres.",4684,aligned,393322,393420,-1,-1,"-- Vous m'ecrirez si vous avez besoin de quelque chose, n'est-ce pas ? dit Dorian un moment apres.
+",
+"""There goes the devil's bargain!"" she hiccoughed, in a hoarse voice.",-- C'est le marche du demon ! hoqueta-t-elle d'une voix eraillee.,4694,aligned,393739,393804,-1,-1,"-- C'est le marche du demon ! hoqueta-t-elle d'une voix eraillee.
+",
+"""Curse you!"" he answered, ""don't call me that.""","-- Malediction, cria-t-il, ne me dites pas cela !",4695,aligned,393806,393855,-1,-1,"-- Malediction, cria-t-il, ne me dites pas cela !
+",
+"""Prince Charming is what you like to be called, ain't it?"" she yelled after him.","-- C'est le Prince Charmant que vous aimez etre appele, n'est-ce pas ? glapit-elle derriere lui.",4697,aligned,393889,393985,-1,-1,"-- C'est le Prince Charmant que vous aimez etre appele, n'est-ce pas ? glapit-elle derriere lui.
+",
+"""Why didn't you kill him?"" she hissed out, putting haggard face quite close to his.","Pourquoi ne l'avez-vous pas tue, siffla-t-elle, en approchant de lui sa face hagarde.",4765,aligned,399557,399642,-1,-1,"Pourquoi ne l'avez-vous pas tue, siffla-t-elle, en approchant de lui sa face hagarde. ",
+"""I knew you were following him when you rushed out from Daly's. You fool! You should have killed him. He has lots of money, and he's as bad as bad.""","Je savais que vous le suiviez quand vous vous etes precipite de chez Daly. Fou que vous etes ! Vous auriez du le tuer ! Il a beaucoup d'argent, et il est aussi mauvais que mauvais!...",4766,aligned,-1,-1,-1,-1,,
+"""He is not the man I am looking for,"" he answered, ""and I want no man's money. I want a man's life.","Ce n'etait pas l'homme que je cherchais, repondit-il, et je n'ai besoin de l'argent de personne. J'ai besoin de la vie d'un homme !",4767,aligned,399832,399963,-1,-1,"Ce n'etait pas l'homme que je cherchais, repondit-il, et je n'ai besoin de l'argent de personne. J'ai besoin de la vie d'un homme ! ",
+"""Why, man, it's nigh on eighteen years since Prince Charming made me what I am.""",Savez-vous qu'il y a pres de dix-huit ans que le Prince Charmant m'a fait ce que je suis ?,4772,aligned,400181,400271,-1,-1,"Savez-vous qu'il y a pres de dix-huit ans que le Prince Charmant m'a fait ce que je suis ?
+",
+"'""Strike me dumb if it ain't so.'",'Que je devienne muette s'il n'en est ainsi.',4777,aligned,400416,400459,-1,-1,Que je devienne muette s'il n'en est ainsi. ,
+He hasn't changed much since then.,Il n'a pas beaucoup change depuis.,4782,aligned,400624,400658,-1,-1,Il n'a pas beaucoup change depuis. ,
+"""But don't give me away to him,"" she whined; ""I am afraid of him.","Mais ne me trahissez pas, gemit-elle. Il me fait peur...",4786,aligned,400796,400852,-1,-1,"Mais ne me trahissez pas, gemit-elle. Il me fait peur... ",
+"Let me have some money for my night's lodging.""",Donnez-moi quelque argent pour trouver un logement cette nuit.,4787,aligned,400853,400915,-1,-1,"Donnez-moi quelque argent pour trouver un logement cette nuit.
+",
+"""I won't hear of it,"" laughed Lord Henry, sinking into a chair.","'-- Je ne veux rien entendre, dit lord Henry, s'asseyant dans un fauteuil.'",4815,aligned,403495,403568,-1,-1,"-- Je ne veux rien entendre, dit lord Henry, s'asseyant dans un fauteuil. ",
+"""You don't like your country, then?""",'-- Vous n'aimez donc pas votre pays ?',4832,aligned,404670,404707,-1,-1,"-- Vous n'aimez donc pas votre pays ?
+",
+"""Would you have me take the verdict of Europe on it?""",'-- Voudriez-vous que je m\'en rapportasse au verdict de l\'Europe sur nous ? interrogea-t-il.',4836,aligned,-1,-1,375296,375347,,"Would you have me take the verdict of Europe on it?"""
+"""I live in it.""",'-- J\'y vis.',4837,aligned,-1,-1,375240,375253,,"I live in it."""
+"""That you may censure it the better.""",'-- C\'est que vous en censurez le meilleur !',4838,aligned,-1,-1,375257,375292,,"That you may censure it the better."""
+"""You need not be afraid. Our countrymen never recognize a description.""",'-- Vous n\'avez rien a craindre ; nos compatriotes ne se reconnaissent jamais dans une description.',4841,aligned,-1,-1,375537,375606,,"You need not be afraid. Our countrymen never recognize a description."""
+"""I could not use it. It is too true.""","'-- Je ne puis m\'en servir, c\'est trop vrai.'",4842,aligned,-1,-1,375498,375533,,"I could not use it. It is too true."""
+"""I daren't, Mr. Gray.""","'-- Je n'ose, M. Gray.'",4873,aligned,406993,407014,-1,-1,"-- Je n'ose, M. Gray. ",
+"""Well, I hope he won't stick pins into you, Duchess,"" laughed Dorian.","'-- J'espere du moins que l'idee ne lui viendra pas de vous transpercer d'une epingle, duchesse, dit Dorian en souriant.'",4876,aligned,406503,406622,-1,-1,"-- J'espere du moins que l'idee ne lui viendra pas de vous transpercer d'une epingle, duchesse, dit Dorian en souriant.
+",
+"""Ah! don't remind me of that,"" cried Dorian Gray.",'-- Ah ! Ne me faites pas souvenir de cela ! ~~~ s'ecria Dorian Gray.',4881,aligned,406194,406258,-1,-1,"-- Ah ! Ne me faites pas souvenir de cela ! s'ecria Dorian Gray.
+",
+"You don't, but it is nice of you to pretend that you do.","Vous ne vous en souvenez pas, je le sais, mais c'est gentil de votre part de faire semblant de vous en souvenir.",4887,aligned,407138,407250,-1,-1,"Vous ne vous en souvenez pas, je le sais, mais c'est gentil de votre part de faire semblant de vous en souvenir. ",
+You remember the one I wore at Lady Hilstone's garden-party?,Vous souvenez-vous de celui que je portais au garden-party de Lady Hilstone ?,4889,aligned,407057,407134,-1,-1,Vous souvenez-vous de celui que je portais au garden-party de Lady Hilstone ?.,
+"""I have never searched for happiness. Who wants happiness?""","""Je n'ai jamais recherche le bonheur. Qui a besoin du bonheur...?""",4909,aligned,-1,-1,378917,378974,,I have never searched for happiness. Who wants happiness? 
+"""Lady Narborough,"" he whispered.",(No direct equivalent in text),4931,not aligned,-1,-1,379997,380028,,"Lady Narborough,"" he whispered. "
+Sibyl Vane's brother had not come back to kill him.,le frere de Sibyl Vane n'etait pas revenu pour le tuer.,4980,aligned,413722,413777,-1,-1,le frere de Sibyl Vane n'etait pas revenu pour le tuer. ,
+"At the corner of the pine-wood he caught sight of Sir Geoffrey Clouston, the duchess's brother, jerking two spent cartridges out of his gun.","Au coin d'un bois de sapins, il apercut sir Geoffrey Clouston, le frere de la duchesse, extrayant de son fusil deux cartouches tirees.",5013,aligned,416274,416408,-1,-1,"Au coin d'un bois de sapins, il apercut sir Geoffrey Clouston, le frere de la duchesse, extrayant de son fusil deux cartouches tirees. ",
+"""But there is no use talking about the matter.""",'Mais pourquoi parler de cela?...',5064,aligned,-1,-1,389347,389392,,"But there is no use talking about the matter."""
+Don't laugh like that.,Ne riez pas !...,5079,aligned,421148,421164,-1,-1,Ne riez pas !... ,
+"""Good heavens! don't you see a man moving behind the trees there, watching me, waiting for me?""","""Mon Dieu ! Ne voyez-vous pas, derriere ces arbres, un homme qui me guette, qui m'attend !...""",5090,aligned,421405,421497,-1,-1,"Mon Dieu ! Ne voyez-vous pas, derriere ces arbres, un homme qui me guette, qui m'attend !...
+",
+"""I hope it is, but I can't help feeling it.""","""-- Je l'espere... mais je ne puis m'empecher d'y penser...""",5122,aligned,423921,423979,-1,-1,-- Je l'espere... mais je ne puis m'empecher d'y penser... ,
+"""Isn t it, Mr. Gray?""","""N'est-ce pas, M. Gray?...""",5138,aligned,-1,-1,48630,48649,,"Isn t it, Mr.
+Gray?"""
+I didn't hear what Harry said.,Je n'ai pas entendu ce qu'Harry disait...,5145,aligned,425099,425140,-1,-1,Je n'ai pas entendu ce qu'Harry disait... ,
+"""You have dropped it.""","""-- Vous l'avez laissee tomber.""",5174,aligned,-1,-1,395110,395130,,"You have dropped it."""
+"""asked Dorian, looking bored.""","""demanda Dorian d'un air ennuye'.""",5190,aligned,-1,-1,396739,396767,,"asked Dorian, looking bored. "
+"""Don't know who he is?""","'Vous ne savez qui il est,'",5195,aligned,428315,428340,-1,-1,"Vous ne savez qui il est, ",
+"""We don't know who he is, sir. That is what I took the liberty of coming to you about.""","'-- Nous ne savons qui il est, monsieur. C'est pourquoi j'ai pris la liberte de venir vous voir.'",5196,aligned,428215,428310,-1,-1,"-- Nous ne savons qui il est, monsieur. C'est pourquoi j'ai pris la liberte de venir vous voir.
+",
+"""What do you mean? Wasn't he one of your men?""",'que voulez-vous dire ? N'etait-il pas un de vos hommes ?...',5197,aligned,428370,428429,-1,-1,"que voulez-vous dire ? N'etait-il pas un de vos hommes ?...
+",
+"""Was there anything found on him?"" said Dorian, leaning forward and looking at the man with startled eyes. ""Anything that would tell his name?""","""A-t-on trouve quelque chose sur lui, dit Dorian en se penchant vers l'homme et le regardant fixement. Quelque chose faisant connaitre son nom...?""",5202,aligned,-1,-1,397384,397525,,"Was there anything found on him?"" said Dorian, leaning forward and
+looking at the man with startled eyes. ""Anything that would tell his
+name?"""
+(No direct equivalent in text),"La feuille de fraisier est l'ornement heraldique, en Angleterre, des couronnes ducales (N. D. ~~~ T.) XIX --",5243,not aligned,431301,431415,-1,-1,"La feuille de fraisier est l'ornement heraldique, en Angleterre, des couronnes ducales (N. D. T.)
+
+
+
+
+
+XIX
+
+
+
+
+
+-- ",
+"""I think I have altered.""",(No direct equivalent in text),5253,not aligned,-1,-1,400869,400892,,"I think I
+have altered."""
+"""Civilization is not by any means an easy thing to attain to.""",(No direct equivalent in text),5261,not aligned,-1,-1,400436,400496,,"Civilization is not
+by any means an easy thing to attain to. "
+"""There are no temptations there.""",(No direct equivalent in text),5263,not aligned,-1,-1,400322,400353,,There are no temptations there. 
+"""Harry, you are horrible! You mustn't say these dreadful things.""","'-- Harry, vous etes mechant ! Vous ne devriez pas dire ces choses abominables.'",5286,aligned,434064,434142,-1,-1,"-- Harry, vous etes mechant ! Vous ne devriez pas dire ces choses abominables. ",
+"""Hetty's heart is not broken. Of course, she cried and all that.""","'Le coeur d'Hetty n'est pas brise ; elle pleura, cela s'entend, et ce fut tout.'",5287,aligned,434143,434221,-1,-1,"Le coeur d'Hetty n'est pas brise ; elle pleura, cela s'entend, et ce fut tout. ",
+I don't care what you say to me.,mais je ne fais plus attention a ce que vous me dites.,5292,aligned,435252,435306,-1,-1,mais je ne fais plus attention a ce que vous me dites. ,
+"I can't bear this, Harry!","-- Je ne veux penser a cela, Harry ?",5294,aligned,435084,435120,-1,-1,"-- Je ne veux penser a cela, Harry ? ",
+"Besides, how do you know that Hetty isn't floating at the present moment in some starlit mill-pond, with lovely water-lilies round her, like Ophelia?","En outre savez-vous si le corps d'Hetty ne flotte pas a present dans quelque etang de moulin, eclaire par les etoiles, entoure par des nenuphars, comme Ophelie ?...",5295,aligned,434918,435082,-1,-1,"En outre savez-vous si le corps d'Hetty ne flotte pas a present dans quelque etang de moulin, eclaire par les etoiles, entoure par des nenuphars, comme Ophelie ?...
+",
+"Don't let us talk about it any more, and don't try to persuade me that the first good action I have done for years, the first little bit of self-sacrifice I have ever known, is really a sort of sin.","Ne parlons plus de cela, et n'essayez pas de me persuader que la premiere bonne action que j'aie faite depuis des annees, le premier petit sacrifice de moi-meme que je me connaisse, soit une sorte de peche.",5303,aligned,435484,435690,-1,-1,"Ne parlons plus de cela, et n'essayez pas de me persuader que la premiere bonne action que j'aie faite depuis des annees, le premier petit sacrifice de moi-meme que je me connaisse, soit une sorte de peche. ",
+"""They have had my own divorce-case and Alan Campbell's suicide.""","""il y a eu mon propre divorce, et le suicide d'Alan Campbell ;""",5315,aligned,436238,436299,-1,-1,"il y a eu mon propre divorce, et le suicide d'Alan Campbell ; ",
+"If he is dead, I don't want to think about him.",S'il est mort... je n'ai pas besoin d'y penser.,5321,aligned,437119,437166,-1,-1,S'il est mort... je n'ai pas besoin d'y penser. ,
+But then one regrets the loss even of one's worst habits.,Mais on regrette meme la perte de ses mauvaises habitudes ;,5334,aligned,437859,437918,-1,-1,Mais on regrette meme la perte de ses mauvaises habitudes ; ,
+They are such an essential part of one's personality.,elles sont une partie essentielle de la personnalite.,5337,aligned,437974,438027,-1,-1,"elles sont une partie essentielle de la personnalite.
+",
+"""But don't people say that he was murdered?""",'Mais ne dit-on pas qu'il a ete assassine ?',5348,aligned,438951,438993,-1,-1,"Mais ne dit-on pas qu'il a ete assassine ?
+",
+He watched him intently after he had spoken.,(No direct equivalent in text),5353,not aligned,-1,-1,407138,407182,,"He watched him intently after he had spoken.
+"
+"""I would say, my dear fellow, that you were posing for a character that doesn't suit you.""","'-- Je vous dirais, mon cher ami, que vous posez pour un caractere qui ne vous va pas.'",5355,aligned,439353,439438,-1,-1,"-- Je vous dirais, mon cher ami, que vous posez pour un caractere qui ne vous va pas. ",
+"I wish I could believe that he had come to such a really romantic end as you suggest, but I can't.",Je voudrais croire qu'il a pu avoir une fin aussi romantique que celle que vous supposez ; mais je ne puis...,5369,aligned,440366,440475,-1,-1,Je voudrais croire qu'il a pu avoir une fin aussi romantique que celle que vous supposez ; mais je ne puis... ,
+It's a habit bores have.,C'est une habitude qu'ont tous les facheux.,5384,aligned,441660,441703,-1,-1,C'est une habitude qu'ont tous les facheux. ,
+I don't think I have ever seen it since he finished it.,Je crois ne point l'avoir revu depuis qu'il y mit la derniere main.,5386,aligned,441788,441855,-1,-1,Je crois ne point l'avoir revu depuis qu'il y mit la derniere main. ,
+It belonged to Basil's best period.,Il appartenait a la meilleure epoque de Basil.,5392,aligned,442148,442194,-1,-1,Il appartenait a la meilleure epoque de Basil. ,
+"""Don't, Harry. The soul is a terrible reality.""","""Non, Harry. L'ame est une terrible realite.""",5420,aligned,444424,444467,-1,-1,"Non, Harry. L'ame est une terrible realite. ",
+Don't be so serious.,Ne soyez pas aussi serieux.,5432,aligned,444837,444864,-1,-1,Ne soyez pas aussi serieux. ,
+Don't make yourself incomplete.,Ne vous rendez pas incomplet.,5473,aligned,447400,447429,-1,-1,Ne vous rendez pas incomplet. ,
+Don't spoil it by renunciations.,Ne le gatez par aucun renoncement.,5474,aligned,447327,447361,-1,-1,Ne le gatez par aucun renoncement. ,
+"""You don't know everything about me.""","""Vous ne me connaissez pas tout entier.""",5491,aligned,448962,449000,-1,-1,Vous ne me connaissez pas tout entier. ,
+"""You laugh. Don't laugh.""","""Vous riez ? Ne riez pas...""",5496,aligned,449070,449096,-1,-1,"Vous riez ? Ne riez pas...
+",
+"""But I am tired to-night, Harry. I shan't go to the club.""","'mais je me sens fatigue ce soir, Harry ; je n'irai pas club.'",5503,aligned,449767,449827,-1,-1,"mais je me sens fatigue ce soir, Harry ; je n'irai pas club. ",
+I should not forgive that.,(No direct equivalent in text),5515,not aligned,-1,-1,417334,417360,,"I should not forgive that.
+"
+"Harry, promise me that you will never lend that book to any one.","Harry, promets-moi de ne plus jamais preter ce livre a personne.",5516,aligned,-1,-1,417361,417425,,"Harry, promise me that you will never lend that book to any one. "
+Her clever tongue gets on one's nerves.,Sa maniere d'esprit vous donne sur les nerfs...,5533,aligned,451504,451551,-1,-1,Sa maniere d'esprit vous donne sur les nerfs... ,
+Comme la peinture d'un chagrin Une figure sans coeur. (No direct equivalent in text),Comme la peinture d'un chagrin Une figure sans coeur.,5543,aligned,451982,452036,-1,-1,"Comme la peinture d'un chagrin
+
+Une figure sans coeur.
+",
+He would never again tempt innocence. He would be good.,(Already aligned above),5594,aligned,-1,-1,423259,423314,,"He would never again tempt innocence. He would be good.
+"
+It was nothing to him.,(No direct equivalent in text),5599,not aligned,-1,-1,423085,423107,,"It was
+nothing to him.
+"
+For curiosity's sake he had tried the denial of self.,"par curiosite, il avait essaye du renoncement...",5644,aligned,460134,460182,-1,-1,"par curiosite, il avait essaye du renoncement... ",
+"As it had killed the painter, so it would kill the painter's work, and all that that meant.","Comme il avait tue le peintre, il tuerait l'oeuvre du peintre, et tout ce qu'elle signifiait...",5670,aligned,461177,461272,-1,-1,"Comme il avait tue le peintre, il tuerait l'oeuvre du peintre, et tout ce qu'elle signifiait... ",
+"Inside, in the servants' part of the house, the half-clad domestics were talking in low whispers to each other.","Dans les communs de la maison, les domestiques a moitie habilles, se parlaient a voix basse ;",5682,aligned,462342,462435,-1,-1,"Dans les communs de la maison, les domestiques a moitie habilles, se parlaient a voix basse ; ",
+One of them was Sir Henry Ashton's uncle.,l'un d'eux etait l'oncle de sir Henry Ashton...,5683,aligned,462293,462340,-1,-1,"l'un d'eux etait l'oncle de sir Henry Ashton...
+",
+"""Mr. Dorian Gray sir,"" answered the policeman.","-- A M. Dorian Gray, Monsieur, repondit le policeman.",5686,aligned,462174,462227,-1,-1,"-- A M. Dorian Gray, Monsieur, repondit le policeman.
+",
+The windows yielded easily; their bolts were old.,Les fenetres cederent aisement ; leurs ferrures etaient vieilles...,5690,aligned,462820,462887,-1,-1,"Les fenetres cederent aisement ; leurs ferrures etaient vieilles...
+",

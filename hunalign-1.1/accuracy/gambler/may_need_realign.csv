@@ -1,0 +1,891 @@
+eng,fr,id,llm alignment result,phrase_startByte_fr,phrase_endByte_fr,phrase_startByte_eng,phrase_endByte_eng,extracted_text_fr,extracted_text_eng
+"Two splendid carriages, magnificently horsed, with Mlle. Blanche, Maria Philipovna, and Polina Alexandrovna in one of them, and the Frenchman, the Englishman, and the General in attendance on horseback!",(No direct equivalent in text),5,not aligned,-1,-1,3345,3547,,"Two splendid
+carriages, magnificently horsed, with Mlle. Blanche, Maria Philipovna,
+and Polina Alexandrovna in one of them, and the Frenchman, the
+Englishman, and the General in attendance on horseback! "
+"The latter gentleman was called by the lacqueys ""Monsieur le Comte,"" and Mlle. Blanche's mother was dubbed ""Madame la Comtesse.""","Quelque part encore, dans la meme maison, loge le petit Francais, que les domestiques appellent << Monsieur le comte >>. La mere de Mlle Blanche est une << Madame la comtesse >>.",8,aligned,3501,3679,-1,-1,"Quelque part encore, dans la meme maison, loge le petit Francais, que les domestiques appellent << Monsieur le comte >>. La mere de Mlle Blanche est une << Madame la comtesse >>. ",
+"Perhaps in very truth they were ""Comte et Comtesse.""",Et pourquoi ne seraient-ils pas comte et comtesse ?,9,aligned,3680,3731,-1,-1,"Et pourquoi ne seraient-ils pas comte et comtesse ?
+",
+"Of course, strictly speaking, he knew me; but I was an uninvited guest at the luncheon the General had forgotten to arrange otherwise, or I should have been dispatched to dine at the table d'hote.","-- Je crois d'ailleurs qu'on ne s'attendait meme pas a me voir au diner. Le general a sans doute oublie de donner des ordres a cet effet, mais son intention etait certainement de m'envoyer diner a la table d'hote. Je compris cela au regard mecontent dont il m'honora.",11,aligned,4011,4278,-1,-1,"-- Je crois d'ailleurs qu'on ne s'attendait meme pas a me voir au diner. Le general a sans doute oublie de donner des ordres a cet effet, mais son intention etait certainement de m'envoyer diner a la table d'hote. Je compris cela au regard mecontent dont il m'honora. ",
+"This strange Englishman I had met first in Prussia, where we had happened to sit vis-a-vis in a railway train in which I was travelling to overtake our party; while, later, I had run across him in France, and again in Switzerland twice within the space of two weeks!","J'avais fait la connaissance de cet Anglais en Prusse, dans un wagon ou nous etions assis l'un pres de l'autre. Je l'avais revu depuis en France et en Suisse.",12,aligned,4486,4644,-1,-1,"J'avais fait la connaissance de cet Anglais en Prusse, dans un wagon ou nous etions assis l'un pres de l'autre. Je l'avais revu depuis en France et en Suisse. ",
+"To think, therefore, that I should suddenly encounter him again here, in Roulettenberg!",(No direct equivalent in text),14,not aligned,-1,-1,5258,5345,,"To think, therefore, that I should suddenly encounter him again here,
+in Roulettenberg! "
+"How he had come to make the General's acquaintance I do not know, but, apparently, he was much struck with Polina.",Je ne sais comment il a fait la connaissance du general. Il me semble eperdument amoureux de Paulina.,17,aligned,4911,5012,-1,-1,Je ne sais comment il a fait la connaissance du general. Il me semble eperdument amoureux de Paulina. ,
+"Then, without waiting for an answer, she departed.",(No direct equivalent in text),28,not aligned,-1,-1,970,1020,,"Then, without waiting for an answer, she departed. "
+I was assigned a small room on the fourth floor of the hotel (for you must know that I belonged to the General's suite).,On m'assigna une petite chambre au quatrieme etage de l'hotel. -- On sait ici que j'appartiens a la suite du general.,31,aligned,1018,1135,-1,-1,On m'assigna une petite chambre au quatrieme etage de l'hotel. -- On sait ici que j'appartiens a la suite du general. ,
+"He wanted to do so, but each time was met by me with such a fixed, disrespectful stare that he desisted in confusion.",(No direct equivalent in text),37,not aligned,-1,-1,-1,-1,,
+"Finally his anger exploded, and he added sharply: ""I suppose you would like to take them to the Casino to play roulette? Well, excuse my speaking so plainly, but I know how addicted you are to gambling. Though I am not your mentor, nor wish to be, at least I have a right to require that you shall not actually compromise me.""","Enfin, il se facha tout a coup, et ajouta avec roideur : -- Car vous pourriez bien, si je vous laissais faire, les mener a la gare, a la roulette. Vous en etes bien capable, vous avez la tete legere. Quoique je ne sois pas votre mentor, -- et c'est un role que je n'ambitionne point, -- j'ai le droit de desirer que... en un mot... que vous ne me compromettiez pas...",39,aligned,1871,2239,-1,-1,"Enfin, il se facha tout a coup, et ajouta avec roideur :
+
+-- Car vous pourriez bien, si je vous laissais faire, les mener a la gare, a la roulette. Vous en etes bien capable, vous avez la tete legere. Quoique je ne sois pas votre mentor, -- et c'est un role que je n'ambitionne point, -- j'ai le droit de desirer que... en un mot... que vous ne me compromettiez pas...
+",
+I thought I could even detect a certain shamefacedness in the General's glance.,Il me semblait meme que le general avait un peu honte de me regarder.,44,aligned,363,432,-1,-1,"Il me semblait meme que le general avait un peu honte de me regarder.
+",
+"At all events, at my hotel in Paris I received far more attention from the company after I had told them about the fracas with the sacristan.",(No direct equivalent in text),61,not aligned,-1,-1,11322,11463,,"At all events, at my hotel in Paris I
+received far more attention from the company after I had told them
+about the fracas with the sacristan. "
+"A fat Polish nobleman, who had been the most offensive of all who were present at the table d h te, at once went upstairs, while some of the Frenchmen were simply disgusted when I told them that two years ago I had encountered a man at whom, in 1812, a French hero fired for the mere fun of discharging his musket.",(No direct equivalent in text),62,not aligned,-1,-1,11464,11780,,"A fat Polish nobleman, who had
+been the most offensive of all who were present at the table d h te, at
+once went upstairs, while some of the Frenchmen were simply disgusted
+when I told them that two years ago I had encountered a man at whom, in
+1812, a French  hero  fired for the mere fun of discharging his musket.
+"
+"That man was then a boy of ten and his family are still residing in Moscow.""",(No direct equivalent in text),63,not aligned,-1,-1,11781,11856,,"That man was then a boy of ten and his family are still residing in
+Moscow."""
+"""Impossible!""",(No direct equivalent in text),64,not aligned,-1,-1,11860,11871,,"Impossible!"""
+"""Is it likely that the Marquis would have lent the money if he had not known something or other about your grandmother? Did you notice, too, that three times during luncheon, when speaking of her, he called her La Baboulenka ? What loving, friendly behaviour, to be sure!""",-- Eh bien ! aurait-il donne de l'argent s'il n'avait pu compter sur la babouschka ? Quelles relations intimes et familieres !,112,aligned,-1,-1,-1,-1,,
+"""A very respected ex-captain told me the story, and I myself could see the scar left on his cheek.""",(No direct equivalent in text),117,not aligned,-1,-1,11997,12094,,"A very respected
+ex-captain told me the story, and I myself could see the scar left on
+his cheek."""
+"Mischa also I dispatched to play by the fountain, and in this fashion we that is to say, Polina and myself contrived to find ourselves alone.",(No direct equivalent in text),124,not aligned,-1,-1,12975,13116,,"Mischa also I
+dispatched to play by the fountain, and in this fashion we that is to
+say, Polina and myself contrived to find ourselves alone.
+"
+"""Looking for it?""",(No direct equivalent in text),133,not aligned,-1,-1,13987,14002,,"Looking for it?"""
+"although, while travelling, I had moped like an imbecile, rushed about like a man in a fever, and actually beheld her in my dreams.",(No direct equivalent in text),143,not aligned,-1,-1,18687,18818,,"although, while travelling, I had moped like an
+imbecile, rushed about like a man in a fever, and actually beheld her
+in my dreams. "
+Money must be so subservient to gentility as never to be worth a thought.,(No direct equivalent in text),165,not aligned,-1,-1,28382,28455,,"Money must be so subservient to gentility as never to be worth a
+thought. "
+"Yes; even if a gentleman should lose his whole substance, he must never give way to annoyance.",(No direct equivalent in text),166,not aligned,-1,-1,28287,28381,,"Yes; even if a gentleman
+should lose his whole substance, he must never give way to annoyance.
+"
+"On the other hand, I saw a Frenchman first win, and then lose, 30,000 francs cheerfully, and without a murmur.",(No direct equivalent in text),167,not aligned,-1,-1,28176,28286,,"On the other hand, I saw a Frenchman first win, and then lose, 30,000
+francs cheerfully, and without a murmur. "
+"In the same way, I saw our General once approach the table in a stolid, important manner. A lacquey darted to offer him a chair, but the General did not even notice him. Slowly he took out his money bags, and slowly extracted 300 francs in gold, which he staked on the black, and won. Yet he did not take up his winnings he left them there on the table. Again the black turned up, and again he did not gather in what he had won; and when, in the third round, the _red_ turned up he lost, at a stroke, 1200 francs. Yet even then he rose with a smile, and thus preserved his reputation; yet I knew that his money bags must be chafing his heart, as well as that, had the stake been twice or thrice as much again, he would still have restrained himself from venting his disappointment.",(No direct equivalent in text),168,not aligned,-1,-1,27393,28174,,"In the same way, I saw our General once approach the
+table in a stolid, important manner. A lacquey darted to offer him a
+chair, but the General did not even notice him. Slowly he took out his
+money bags, and slowly extracted 300 francs in gold, which he staked on
+the black, and won. Yet he did not take up his winnings he left them
+there on the table. Again the black turned up, and again he did not
+gather in what he had won; and when, in the third round, the _red_
+turned up he lost, at a stroke, 1200 francs. Yet even then he rose with
+a smile, and thus preserved his reputation; yet I knew that his money
+bags must be chafing his heart, as well as that, had the stake been
+twice or thrice as much again, he would still have restrained himself
+from venting his disappointment.
+"
+"Of course, the _supremely_ aristocratic thing is to be entirely oblivious of the mire of rabble, with its setting; but sometimes a reverse course may be aristocratic to remark, to scan, and even to gape at, the mob (for preference, through a lorgnette), even as though one were taking the crowd and its squalor for a sort of raree show which had been organised specially for a gentleman s diversion.",(No direct equivalent in text),177,not aligned,-1,-1,28456,28855,,"Of course, the _supremely_ aristocratic thing is to be
+entirely oblivious of the mire of rabble, with its setting; but
+sometimes a reverse course may be aristocratic to remark, to scan, and
+even to gape at, the mob (for preference, through a lorgnette), even as
+though one were taking the crowd and its squalor for a sort of raree
+show which had been organised specially for a gentleman s diversion.
+"
+"Though one may be squeezed by the crowd, one must look as though one were fully assured of being the observer of having neither part nor lot with the observed.",(No direct equivalent in text),180,not aligned,-1,-1,28856,29015,,"Though one may be squeezed by the crowd, one must look as though one
+were fully assured of being the observer of having neither part nor lot
+with the observed. "
+"As a matter of fact, the mob was playing in exceedingly foul fashion.",(No direct equivalent in text),181,not aligned,-1,-1,29858,29927,,"As a matter of fact, the mob was playing in exceedingly foul fashion.
+"
+"However, to me personally the scene _did_ seem to be worth undisguised contemplation more especially in view of the fact that I had come there not only to look at, but also to number myself sincerely and wholeheartedly with, the mob.",(No direct equivalent in text),182,not aligned,-1,-1,29250,29483,,"However, to me personally the scene _did_ seem to be worth undisguised
+contemplation more especially in view of the fact that I had come there
+not only to look at, but also to number myself sincerely and
+wholeheartedly with, the mob. "
+The thought that I was not going to play for myself quite unnerved me.,(No direct equivalent in text),184,not aligned,-1,-1,30958,31028,,"The thought that I was not going to play for
+myself quite unnerved me. "
+"Polina s money I decided to risk, that evening, only to the amount of 100 g lden.",(No direct equivalent in text),185,not aligned,-1,-1,30876,30957,,"Polina s money I decided to risk, that evening, only to
+the amount of 100 g lden. "
+"I could only divine and distinguish that stakes were hazarded on numbers, on ""odd"" or ""even,"" and on colours.",(No direct equivalent in text),186,not aligned,-1,-1,30766,30875,,"I could only divine and
+distinguish that stakes were hazarded on numbers, on ""odd"" or ""even,""
+and on colours. "
+At first the proceedings were pure Greek to me.,(No direct equivalent in text),187,not aligned,-1,-1,30718,30765,,At first the proceedings were pure Greek to me. 
+"Then there would arise a dispute, and frequently an uproar; and it would be a case of ""I beg of you to prove, and to produce witnesses to the fact, that the stake is yours.""",(No direct equivalent in text),188,not aligned,-1,-1,30543,30715,,"Then there
+would arise a dispute, and frequently an uproar; and it would be a case
+of ""I beg of you to prove, and to produce witnesses to the fact, that
+the stake is yours."""
+"Yet I was not then taking notes merely in order to be able to give you a description of roulette, but in order to get my bearings as to my behaviour when I myself should begin to play.",(No direct equivalent in text),190,not aligned,-1,-1,30221,30405,,"Yet I was not then taking notes merely in order to be
+able to give you a description of roulette, but in order to get my
+bearings as to my behaviour when I myself should begin to play. "
+"As for the crowd itself well, it consisted mostly of Frenchmen.",(No direct equivalent in text),191,not aligned,-1,-1,30157,30220,,"As for the crowd itself well, it consisted mostly
+of Frenchmen. "
+"The croupiers who sat at the two ends of it had not only to watch the stakes, but also to calculate the game an immense amount of work for two men!",(No direct equivalent in text),192,not aligned,-1,-1,30009,30156,,"The croupiers who sat at the two ends of it had not only
+to watch the stakes, but also to calculate the game an immense amount
+of work for two men! "
+"Indeed, I have an idea that sheer robbery was going on around that gaming-table.",(No direct equivalent in text),193,not aligned,-1,-1,29928,30008,,"Indeed, I have an idea that sheer robbery was going on around that
+gaming-table. "
+Another standard altogether has directed my life....,(No direct equivalent in text),194,not aligned,-1,-1,29804,29856,,"Another standard altogether has directed my life....
+"
+Yet let me say also this: that from the first I have been consistent in having an intense aversion to any trial of my acts and thoughts by a moral standard.,(No direct equivalent in text),195,not aligned,-1,-1,29647,29803,,"Yet let me say
+also this: that from the first I have been consistent in having an
+intense aversion to any trial of my acts and thoughts by a moral
+standard. "
+Let that stand as written: I am writing only to relieve my conscience.,(No direct equivalent in text),196,not aligned,-1,-1,29576,29646,,"Let that stand as
+written: I am writing only to relieve my conscience. "
+"As for my secret moral views, I had no room for them amongst my actual, practical opinions.",(No direct equivalent in text),197,not aligned,-1,-1,29484,29575,,"As for my secret moral views, I had no
+room for them amongst my actual, practical opinions. "
+"At the same time, to stare fixedly about one is unbecoming; for that, again, is ungentlemanly, seeing that no spectacle is worth an open stare are no spectacles in the world which merit from a gentleman too pronounced an inspection.",(No direct equivalent in text),198,not aligned,-1,-1,29016,29248,,"At the same time, to stare fixedly about one is
+unbecoming; for that, again, is ungentlemanly, seeing that no spectacle
+is worth an open stare are no spectacles in the world which merit from
+a gentleman too pronounced an inspection.
+"
+At first glance the scene irritated me.,(No direct equivalent in text),203,not aligned,-1,-1,21075,21114,,At first glance the scene irritated me. 
+"Yes, this I knew well.",(No direct equivalent in text),214,not aligned,-1,-1,19637,19659,,"Yes,
+this I knew well. "
+For in a desire to win quickly and to win much I can see nothing sordid;,(No direct equivalent in text),227,not aligned,-1,-1,23844,23916,,"For in a desire to win quickly and to win much I can see
+nothing sordid; "
+"True, out of a hundred persons, only one can win; yet what business is that of yours or of mine?",(No direct equivalent in text),233,not aligned,-1,-1,23079,23175,,"True, out of a hundred persons, only one can win; yet
+what business is that of yours or of mine?
+"
+"""That is my sole reason.""",(No direct equivalent in text),248,not aligned,-1,-1,33443,33466,,"That is my sole reason."""
+I had lost!,(No direct equivalent in text),260,not aligned,-1,-1,31396,31407,,I had lost! 
+(No direct equivalent in text),Vous le ferez.,278,not aligned,25244,25258,-1,-1,"Vous le ferez.
+",
+All I knew was that he was said to possess a ch teau.,(No direct equivalent in text),294,not aligned,-1,-1,42734,42787,,"All I knew was that he was
+said to possess a ch teau. "
+"For, I could not suppose that she was doing all this merely for the sake of money.",(No direct equivalent in text),303,not aligned,-1,-1,45971,46053,,"For, I could not suppose that she
+was doing all this merely for the sake of money. "
+What he had formerly been in France I had not a notion.,(No direct equivalent in text),305,not aligned,-1,-1,42678,42733,,"What he had
+formerly been in France I had not a notion. "
+"Yet clearly she _did_ need some money, and that as soon as possible, and for a special purpose.",(No direct equivalent in text),306,not aligned,-1,-1,46054,46149,,"Yet clearly she _did_
+need some money, and that as soon as possible, and for a special
+purpose. "
+"When she handed me over her store of six hundred g lden I exacted two conditions namely, that I should not go halves with her in her winnings, if any (that is to say, I should not take anything for myself), and that she should explain to me, that same evening, why it was so necessary for her to win, and how much was the sum which she needed.",(No direct equivalent in text),307,not aligned,-1,-1,45627,45970,,"When she handed me over her
+store of six hundred g lden I exacted two conditions namely, that I
+should not go halves with her in her winnings, if any (that is to say,
+I should not take anything for myself), and that she should explain to
+me, that same evening, why it was so necessary for her to win, and how
+much was the sum which she needed. "
+"It all began, this morning, with my being forced to go and play roulette for Polina Alexandrovna.",(No direct equivalent in text),308,not aligned,-1,-1,45529,45626,,"It all began, this morning, with my being forced to go and
+play roulette for Polina Alexandrovna. "
+"The time is now eleven o clock in the evening, and I am sitting in my room and thinking.",(No direct equivalent in text),309,not aligned,-1,-1,45440,45528,,"The time is
+now eleven o clock in the evening, and I am sitting in my room and
+thinking. "
+"Today has been a day of folly, stupidity, and ineptness.",(No direct equivalent in text),310,not aligned,-1,-1,45383,45439,,"Today has been a day of folly, stupidity, and ineptness. "
+The conversation had been carried on in execrable French.,(No direct equivalent in text),311,not aligned,-1,-1,45316,45373,,"The conversation
+had been carried on in execrable French.
+"
+"""Hm! Then I have an idea in my mind,"" he concluded.",(No direct equivalent in text),312,not aligned,-1,-1,45191,45241,,"Hm! Then I have an idea in my mind,"" he concluded. "
+"""No; I have never noticed whether she does so or not,"" I repeated with a smile.",(No direct equivalent in text),313,not aligned,-1,-1,45110,45188,,"No; I have never noticed whether she does so or not,"" I repeated with
+a smile.
+"
+"""What? You cannot say?"" he cried in great astonishment.",(No direct equivalent in text),314,not aligned,-1,-1,45053,45107,,"What? You cannot say?"" he cried in great astonishment.
+"
+"""I really cannot say,"" was my reply.",(No direct equivalent in text),315,not aligned,-1,-1,45015,45050,,"I really cannot say,"" was my reply.
+"
+"Presently, however, he resumed: ""Does Mlle. Polina like flowers?""",(No direct equivalent in text),316,not aligned,-1,-1,44946,45011,,"Presently, however, he resumed:
+
+""Does Mlle. Polina like flowers?"""
+"What he meant I did not know, but to my glance of inquiry he returned only a dry nod, and a reiterated ""It is so.""",(No direct equivalent in text),317,not aligned,-1,-1,44831,44944,,"What he
+meant I did not know, but to my glance of inquiry he returned only a
+dry nod, and a reiterated ""It is so."""
+After that he was silent as he looked me meaningly in the face.,(No direct equivalent in text),318,not aligned,-1,-1,44767,44830,,After that he was silent as he looked me meaningly in the face. 
+"At all events, I myself have always feared such women.",(No direct equivalent in text),322,not aligned,-1,-1,41222,41276,,"At all events, I
+myself have always feared such women. "
+But _who_ was this Mlle. Blanche?,(No direct equivalent in text),324,not aligned,-1,-1,38827,38860,,But _who_ was this Mlle. Blanche? 
+"But, forsooth, it was not worth her while to trouble about _my_ feelings about the fact that _I_ was uneasy, and, perhaps, thrice as put about by her cares and misfortunes as she was herself!",(No direct equivalent in text),337,not aligned,-1,-1,36366,36557,,"But, forsooth, it was not worth her while to trouble about
+_my_ feelings about the fact that _I_ was uneasy, and, perhaps, thrice
+as put about by her cares and misfortunes as she was herself!
+"
+That is how matters stood.,(No direct equivalent in text),344,not aligned,-1,-1,37452,37478,,"That is how
+matters stood.
+"
+"As for her dress, it was invariably rich, effective, and chic, yet in good taste.",(No direct equivalent in text),352,not aligned,-1,-1,41739,41820,,"As for her dress, it was invariably rich, effective, and chic,
+yet in good taste. "
+"And add to that his widowerhood, his children, his ruined property, his debts, and the woman with whom he had fallen in love!",(No direct equivalent in text),357,not aligned,-1,-1,40949,41074,,"And add to that his
+widowerhood, his children, his ruined property, his debts, and the
+woman with whom he had fallen in love! "
+Certainly he did not seem to be afraid of him; which was intelligible enough.,(No direct equivalent in text),365,not aligned,-1,-1,40064,40141,,"Certainly he did not seem to be afraid of him;
+which was intelligible enough. "
+"To begin with, I staked two hundred golden on ""even,"" and won.","D'abord j'ai joue sur le pair deux cents florins, et j'ai gagne,",374,aligned,35043,35107,-1,-1,"D'abord j'ai joue sur le pair deux cents florins, et j'ai gagne, ",
+"""And what a Russian idea!"" added the Frenchman.",-- Quelle pensee russe ! ajouta le Francais.,380,aligned,38070,38114,-1,-1,"-- Quelle pensee russe ! ajouta le Francais.
+",
+"Yet, next day, or, perhaps, the next evening, the red alone would turn up, and attain a run of over two score, and continue so for quite a length of time say, for a whole day.",(No direct equivalent in text),384,not aligned,-1,-1,47919,48094,,"Yet,
+next day, or, perhaps, the next evening, the red alone would turn up,
+and attain a run of over two score, and continue so for quite a length
+of time say, for a whole day. "
+"Again, for the whole of a day or a morning the red would alternate with the black, but almost without any order, and from moment to moment, so that scarcely two consecutive rounds would end upon either the one or the other.",(No direct equivalent in text),385,not aligned,-1,-1,47695,47918,,"Again, for the
+whole of a day or a morning the red would alternate with the black, but
+almost without any order, and from moment to moment, so that scarcely
+two consecutive rounds would end upon either the one or the other. "
+It was all very curious.,(No direct equivalent in text),386,not aligned,-1,-1,47670,47694,,It was all very curious. 
+"One, three, two: one, three, two.",(No direct equivalent in text),387,not aligned,-1,-1,47636,47669,,"One,
+three, two: one, three, two. "
+"Suppose the ball stopped twice at a dozen outer figures; it would then pass to a dozen of the first ones, and then, again, to a dozen of the middle ciphers, and fall upon them three or four times, and then revert to a dozen outers; whence, after another couple of rounds, the ball would again pass to the first figures, strike upon them once, and then return thrice to the middle series continuing thus for an hour and a half, or two hours.",(No direct equivalent in text),388,not aligned,-1,-1,47195,47635,,"Suppose the ball stopped twice
+at a dozen outer figures; it would then pass to a dozen of the first
+ones, and then, again, to a dozen of the middle ciphers, and fall upon
+them three or four times, and then revert to a dozen outers; whence,
+after another couple of rounds, the ball would again pass to the first
+figures, strike upon them once, and then return thrice to the middle
+series continuing thus for an hour and a half, or two hours. "
+"For instance, after a dozen middle figures there would always occur a dozen or so outer ones.",(No direct equivalent in text),389,not aligned,-1,-1,47101,47194,,"For instance, after a dozen middle figures there would
+always occur a dozen or so outer ones. "
+"This, of course, is a very strange thing.",(No direct equivalent in text),390,not aligned,-1,-1,47059,47100,,"This, of course, is a very
+strange thing. "
+"Then I began to play in timid fashion, venturing only twenty or thirty golden at a time.","puis j'ai commence timidement, en risquant deux ou trois pieces.",394,aligned,34273,34337,-1,-1,"puis j'ai commence timidement, en risquant deux ou trois pieces. ",
+I pressed forward towards the middle of the room until I had secured a seat at a croupier's elbow.,"Je me suis faufile jusqu'aupres du croupier,",395,aligned,34228,34272,-1,-1,"Je me suis faufile jusqu'aupres du croupier, ",
+At one moment I must have had in my hands gathered there within a space of five minutes about 4000 golden.,(No direct equivalent in text),402,not aligned,-1,-1,-1,-1,,
+"Accordingly I set down the largest stake allowed by the rules namely, 4000 golden and lost.","J'ai risque la plus grosse somme permise, quatre mille florins, et j'ai perdu.",403,aligned,35321,35399,-1,-1,"J'ai risque la plus grosse somme permise, quatre mille florins, et j'ai perdu. ",
+"Then I rose from the table, feeling as though I were stupefied.",(No direct equivalent in text),405,not aligned,-1,-1,48981,49044,,"Then I rose from the table, feeling as
+though I were stupefied. "
+"At this the General seemed extremely surprised, and asked me whence I had procured it; whereupon I replied that, though I had begun only with 100 golden, six or seven rounds had increased my capital to 5000 or 6000 golden, and that subsequently I had lost the whole in two rounds.",Le general fut tres etonne. Ou avais-je pu trouver tant d'argent ? J'expliquai que j'avais commence par cent florins. Que six ou sept coups de suite en doublant m'avaient amene a cinq ou six mille et que j'avais perdu le tout en deux coups.,411,aligned,35985,36225,-1,-1,Le general fut tres etonne. Ou avais-je pu trouver tant d'argent ? J'expliquai que j'avais commence par cent florins. Que six ou sept coups de suite en doublant m'avaient amene a cinq ou six mille et que j'avais perdu le tout en deux coups. ,
+"At all events they closeted themselves together, and then had a long and vehement discussion; after which the Frenchman departed in what appeared to be a passion, but returned, early this morning, to renew the combat.",(No direct equivalent in text),420,not aligned,-1,-1,50896,51113,,"At all events they closeted themselves together, and then had
+a long and vehement discussion; after which the Frenchman departed in
+what appeared to be a passion, but returned, early this morning, to
+renew the combat. "
+"""I think that roulette was devised specially for Russians,"" I retorted;","-- Je crois, au contraire, que les Russes seuls savent jouer !",423,aligned,36958,37020,-1,-1,"-- Je crois, au contraire, que les Russes seuls savent jouer ! ",
+"However, she had allowed me to fire up without correcting me, and from that I concluded that it was my cue to fire up, and to conceal the fact that I had been playing on her behalf.","Pourtant, elle ne m'interrompit pas, et j'en conclus que je devais cacher nos conventions.",424,aligned,36353,36443,-1,-1,"Pourtant, elle ne m'interrompit pas, et j'en conclus que je devais cacher nos conventions. ",
+So honourable is he that it is dreadful to have anything to do with him; and I cannot bear people of that sort.,(No direct equivalent in text),438,not aligned,-1,-1,53567,53678,,"So honourable is he that it
+is dreadful to have anything to do with him; and I cannot bear people
+of that sort. "
+"She stopped, well nigh breathless with anger.'",(No direct equivalent in text),481,not aligned,-1,-1,67124,67169,,"She stopped, well nigh breathless with anger. "
+"""No, I am not,"" she retorted. ""But I order you, nevertheless, to be silent.""",(No direct equivalent in text),482,not aligned,-1,-1,67047,67121,,"No, I am not,"" she retorted. ""But I order you, nevertheless, to be
+silent."""
+"You are laughing!""",(No direct equivalent in text),483,not aligned,-1,-1,67026,67043,,"You are laughing!"""
+"not because I do not love you, or am jealous of you, but, because I feel as though I could simply devour you...",(No direct equivalent in text),484,not aligned,-1,-1,66914,67025,,"not because I do not love you, or am jealous of you, but, because
+I feel as though I could simply devour you... "
+She seemed to have heard neither my voice nor any other during the progress of the meal.,(No direct equivalent in text),515,not aligned,-1,-1,57718,57806,,"She seemed to have
+heard neither my voice nor any other during the progress of the meal.
+"
+"""Why, it will be a case of Farewell, Mlle. Blanche, "" I remarked; ""for in such an event she would never become Madame General.",(No direct equivalent in text),527,not aligned,-1,-1,59045,59171,,"Why, it will be a case of  Farewell, Mlle. Blanche, "" I remarked; ""for
+in such an event she would never become Madame General. "
+"Do you know, I believe the old man is so much in love with her that he will shoot himself if she should throw him over.",(No direct equivalent in text),528,not aligned,-1,-1,59172,59291,,"Do you know, I
+believe the old man is so much in love with her that he will shoot
+himself if she should throw him over. "
+"At his age it is a dangerous thing to fall in love.""",(No direct equivalent in text),529,not aligned,-1,-1,59292,59343,,"At his age it is a dangerous
+thing to fall in love."""
+"Indeed, whenever he embarked upon anything that in the least exceeded the limits of daily small-talk, he left unfinished what he was saying.",(No direct equivalent in text),545,not aligned,-1,-1,57371,57511,,"Indeed, whenever he embarked
+upon anything that in the least exceeded the limits of daily
+small-talk, he left unfinished what he was saying. "
+I have no wish to be Hoppe and Company at the end of five generations.,(No direct equivalent in text),551,not aligned,-1,-1,56860,56932,,"I have no wish to be  Hoppe and Company  at the end of five
+generations. "
+"You yourself will agree that, unless he were drowning he would not mistake a straw for the trunk of a tree.""",(No direct equivalent in text),561,not aligned,-1,-1,61586,61693,,"You yourself will agree that,
+unless he were drowning he would not mistake a straw for the trunk of a
+tree."""
+"You cannot have been, for I remember that you spoke with a gravity which forbade the idea of your jesting.""",(No direct equivalent in text),569,not aligned,-1,-1,61979,62085,,"You cannot have
+been, for I remember that you spoke with a gravity which forbade the
+idea of your jesting."""
+"""True,"" I replied gloomily.",(No direct equivalent in text),570,not aligned,-1,-1,62089,62115,,"True,"" I replied gloomily. "
+"Indeed, what you say makes me ask myself Why have my absurd, senseless losses of today raised a doubt in my mind?",(No direct equivalent in text),572,not aligned,-1,-1,62158,62271,,"Indeed, what you say makes me ask myself Why have my absurd, senseless
+losses of today raised a doubt in my mind? "
+"Yet I am _still_ positive that, so soon as ever I begin to play for myself, I shall infallibly win.""",(No direct equivalent in text),573,not aligned,-1,-1,62272,62371,,"Yet I am _still_ positive
+that, so soon as ever I begin to play for myself, I shall infallibly
+win."""
+"""And why are you so certain?""",(No direct equivalent in text),574,not aligned,-1,-1,62375,62402,,"And why are you so certain?"""
+Were you joking?,(No direct equivalent in text),577,not aligned,-1,-1,61962,61978,,Were you joking? 
+"""I always felt certain that I should win.",(No direct equivalent in text),579,not aligned,-1,-1,62117,62157,,"I always felt certain that I should win.
+"
+I obeyed you simply because you ordered me to; but you must not blame me for the result.,(No direct equivalent in text),585,not aligned,-1,-1,60204,60292,,"I obeyed you simply because
+you ordered me to; but you must not blame me for the result. "
+I warned you that no good would ever come of it.,(No direct equivalent in text),586,not aligned,-1,-1,60293,60341,,"I warned
+you that no good would ever come of it. "
+"About the fact that you have gone and lost my money?""",(No direct equivalent in text),590,not aligned,-1,-1,60037,60089,,"About the fact that you have
+gone and lost my money?"""
+"Do you know a very strange thing? It is that, with every day, my love for you increases though that would seem to be almost an impossibility.",(No direct equivalent in text),641,not aligned,-1,-1,68086,68227,,"Do
+you know a very strange thing? It is that, with every day, my love for
+you increases though that would seem to be almost an impossibility. "
+"I love without hope, and know that hereafter I shall love you a thousand times more.",(No direct equivalent in text),644,not aligned,-1,-1,67809,67893,,"I
+love without hope, and know that hereafter I shall love you a thousand
+times more. "
+"The Baroness also turned in my direction, and gazed at me in wrathful perplexity, while some of the passers-by also began to stare at us, and others of them halted outright.",(No direct equivalent in text),704,not aligned,-1,-1,78234,78407,,"The Baroness also turned in
+my direction, and gazed at me in wrathful perplexity, while some of the
+passers-by also began to stare at us, and others of them halted
+outright.
+"
+"Our party occupied two suites in the hotel; each of which contained two rooms. The first (the larger suite) comprised a salon and a smoking-room, with, adjoining the latter, the General s study.",(No direct equivalent in text),717,not aligned,-1,-1,80190,80384,,"Our party occupied two suites in the hotel; each of which contained two
+rooms. The first (the larger suite) comprised a salon and a
+smoking-room, with, adjoining the latter, the General s study. "
+But I do not remember the details very well.,(No direct equivalent in text),727,not aligned,-1,-1,79328,79372,,"But I
+do not remember the details very well.
+"
+"Some of the bystanders gave vent to excited exclamations, and others remained staring at me in astonishment.",(No direct equivalent in text),728,not aligned,-1,-1,79219,79327,,"Some of the bystanders gave vent to excited
+exclamations, and others remained staring at me in astonishment. "
+"""I felt a strong desire to overlay the incident with an even added measure of grossness; so, the further I proceeded, the more did the gusto of my proceeding increase.""",(No direct equivalent in text),735,not aligned,-1,-1,82112,82278,,"I
+felt a strong desire to overlay the incident with an even added measure
+of grossness; so, the further I proceeded, the more did the gusto of my
+proceeding increase.
+"
+"""I would even go so far as to grant you that my behaviour might well be called stupid and indecent tomfoolery; but, _more_ than that it was not.""",(No direct equivalent in text),739,not aligned,-1,-1,82659,82802,,"I would even go so far as to grant you that my
+behaviour might well be called stupid and indecent tomfoolery; but,
+_more_ than that it was not. "
+"""My client committed the murder that is true; but he has no recollection of having committed it.""",(No direct equivalent in text),747,not aligned,-1,-1,83953,84048,,"My
+client committed the murder that is true; but he has no recollection of
+having committed it. "
+"""And doctors actually support these advocates by affirming that there really is such a malady that there really _can_ arise temporary delusions which make a man remember nothing of a given deed, or only a half or a quarter of it!""",(No direct equivalent in text),748,not aligned,-1,-1,84050,84278,,"And doctors actually support these advocates by
+affirming that there really is such a malady that there really _can_
+arise temporary delusions which make a man remember nothing of a given
+deed, or only a half or a quarter of it! "
+"""That is to say, I have been in a sick, nervous, irritable, fanciful condition, so that I have periodically lost control over myself.""",(No direct equivalent in text),752,not aligned,-1,-1,83050,83182,,"That is to
+say, I have been in a sick, nervous, irritable, fanciful condition, so
+that I have periodically lost control over myself. "
+"""That is all.""",(No direct equivalent in text),753,not aligned,-1,-1,82028,82040,,"That is all."""
+And what did you mean by saying that I formed part of your household?',(No direct equivalent in text),756,not aligned,-1,-1,86453,86522,,"And what
+did you mean by saying that I formed part of your household? "
+"Also I have the honour to remain your obedient servant.""",(No direct equivalent in text),771,not aligned,-1,-1,86069,86124,,"Also I have the honour to remain your obedient
+servant."""
+Let people see what they _would_ see.,(No direct equivalent in text),850,not aligned,-1,-1,91414,91451,,"Let people see what they
+_would_ see. "
+"Let Polina, for once, have a good fright, and be forced to whistle me to heel again.",(No direct equivalent in text),851,not aligned,-1,-1,91452,91536,,"Let Polina, for once, have a good fright, and be forced to
+whistle me to heel again. "
+"But, however much she might whistle, she should see that I was at least no draggle-tailed cockerel!",(No direct equivalent in text),852,not aligned,-1,-1,91537,91636,,"But, however much she might whistle, she
+should see that I was at least no draggle-tailed cockerel!
+"
+"He was almost breathless with anger, as well as in a terrible fright.",(No direct equivalent in text),869,not aligned,-1,-1,88474,88543,,"He was almost breathless with anger, as well as in a
+terrible fright.
+"
+"In short, sir, I swear to you that I will have you arrested, and marched out of the place, to prevent any further brawling on your part.",(No direct equivalent in text),872,not aligned,-1,-1,88306,88442,,"In short, sir,
+I swear to you that I will have you arrested, and marched out of the
+place, to prevent any further brawling on your part. "
+But suddenly De Griers entered my room.,(No direct equivalent in text),912,not aligned,-1,-1,93046,93085,,"But suddenly De Griers
+entered my room. "
+"Even between this couple there may be something which, though unknown to you, depends upon extraneous circumstances.",(No direct equivalent in text),934,not aligned,-1,-1,111641,111757,,"Even between this couple there may
+be something which, though unknown to you, depends upon extraneous
+circumstances. "
+"He told me last night that, because of the circumstance, he must move with especial care at present.",(No direct equivalent in text),949,not aligned,-1,-1,114971,115072,,"He told me last night that,
+because of the circumstance, he must  move with especial care at
+present. "
+"It happened that the hotel had the reputation of being the best, the most expensive, and the most aristocratic in all the spa, and at every turn on the staircase or in the corridors we encountered fine ladies and important-looking Englishmen more than one of whom hastened downstairs to inquire of the awestruck landlord who the newcomer was. To all such questions he returned the same answer namely, that the old lady was an influential foreigner, a Russian, a Countess, and a _grande dame_, and that she had taken the suite which, during the previous week, had been tenanted by a Grand Duchess: which circumstance was duly explained to the new occupant, as an excuse for raising the price of these apartments.","Notre hotel passait pour le meilleur, le plus cher et le plus aristocratique de l'endroit. Dans le corridor nous passions aupres de dames elegantes et de richissimes lords. ~~~ Plusieurs demandaient au maitre d'hotel des renseignements sur l'inconnue qui semblait elle-meme tres impressionnee. Il ne manquait pas de repondre que c'etait << une etrangere de marque, une Russe, une comtesse, une grande dame, qui allait prendre l'appartement occupe huit jours auparavant par la duchesse de N... >>",973,aligned,98556,99044,-1,-1,"Notre hotel passait pour le meilleur, le plus cher et le plus aristocratique de l'endroit. Dans le corridor nous passions aupres de dames elegantes et de richissimes lords. Plusieurs demandaient au maitre d'hotel des renseignements sur l'inconnue qui semblait elle-meme tres impressionnee. Il ne manquait pas de repondre que c'etait << une etrangere de marque, une Russe, une comtesse, une grande dame, qui allait prendre l'appartement occupe huit jours auparavant par la duchesse de N... ",
+"""Well, I must tell you that she first appeared here in company with an Italian a prince of some sort, a man who bore an historic name (Barberini or something of the kind). The fellow was simply a mass of rings and diamonds real diamonds, too and the couple used to drive out in a marvellous carriage. At first Mlle. Blanche played trente et quarante with fair success, but, later, her luck took a marked change for the worse. I distinctly remember that in a single evening she lost an enormous sum. But worse was to ensue, for one fine morning her prince disappeared horses, carriage, and all. Also, the hotel bill which he left unpaid was enormous. Upon this Mlle. ~~~ Zelma (the name which she assumed after figuring as Madame Barberini) was in despair. She shrieked and howled all over the hotel, and even tore her clothes in her frenzy. In the hotel there was staying also a Polish count (you must know that ALL travelling Poles are counts! ), and the spectacle of Mlle. Zelma tearing her clothes and, catlike, scratching her face with her beautiful, scented nails produced upon him a strong impression. So the pair had a talk together, and, by luncheon time, she was consoled. Indeed, that evening the couple entered the Casino arm-in-arm Mlle. Zelma laughing loudly, according to her custom, and showing even more expansiveness in her manners than she had before shown. For instance, she thrust her way into the file of women roulette-players in the exact fashion of those ladies who, to clear a space for themselves at the tables, push their fellow-players roughly aside. Doubtless you have noticed them?""","-- Elle etait arrivee ici avec un certain prince italien decore d'un nom historique, -- quelque chose comme... Barbarini, -- un homme tout constelle de bijoux, de pierreries tres authentiques. Il sortait dans un magnifique attelage. Mlle Blanche jouait au trente et quarante, d'abord avec succes, puis avec chance contraire. Un soir, elle perdit une grosse somme. Mais le vrai malheur, c'est que le lendemain matin le prince disparut, et avec lui disparurent chevaux et voitures. La note de l'hotel s'elevait a un chiffre enorme. Mlle Zelma, -- au lieu de Mme Barbarini, elle etait devenue Mlle Zelma, -- etait dans un desespoir extreme. Elle pleurait, criait, et, dans sa rage, dechirait ses vetements. Il y avait dans le meme hotel un comte polonais. A l'etranger, tous les Polonais sont comtes. Mlle Zelma, qui lacerait ses robes et se dechirait le visage de ses ongles roses et parfumes, produisit sur lui une certaine impression. Ils eurent un entretien, et, a l'heure du diner, elle etait consolee. Le soir, le comte polonais se montra dans les salons de jeu ayant a son bras Mlle Zelma. Elle riait tres haut, comme a l'ordinaire, plus libre meme que d'habitude dans ses manieres. Elle etait de la categorie de ces joueuses qui, a la roulette, ecartent de vive force les gens assis, pour se faire place. C'est le chic particulier de ces dames ; vous l'aurez certainement remarque.",992,aligned,87585,88971,-1,-1,"-- Elle etait arrivee ici avec un certain prince italien decore d'un nom historique, -- quelque chose comme... Barbarini, -- un homme tout constelle de bijoux, de pierreries tres authentiques. Il sortait dans un magnifique attelage. Mlle Blanche jouait au trente et quarante, d'abord avec succes, puis avec chance contraire. Un soir, elle perdit une grosse somme. Mais le vrai malheur, c'est que le lendemain matin le prince disparut, et avec lui disparurent chevaux et voitures. La note de l'hotel s'elevait a un chiffre enorme. Mlle Zelma, -- au lieu de Mme Barbarini, elle etait devenue Mlle Zelma, -- etait dans un desespoir extreme. Elle pleurait, criait, et, dans sa rage, dechirait ses vetements. Il y avait dans le meme hotel un comte polonais. A l'etranger, tous les Polonais sont comtes. Mlle Zelma, qui lacerait ses robes et se dechirait le visage de ses ongles roses et parfumes, produisit sur lui une certaine impression. Ils eurent un entretien, et, a l'heure du diner, elle etait consolee. Le soir, le comte polonais se montra dans les salons de jeu ayant a son bras Mlle Zelma. Elle riait tres haut, comme a l'ordinaire, plus libre meme que d'habitude dans ses manieres. Elle etait de la categorie de ces joueuses qui, a la roulette, ecartent de vive force les gens assis, pour se faire place. C'est le chic particulier de ces dames ; vous l'aurez certainement remarque.
+",
+"""I told you so!",(No direct equivalent in text),1034,not aligned,-1,-1,168577,168591,,I told you so! 
+"""Upon zero, upon zero! Again upon zero! Stake as much as ever you can. How much have we got? Seventy ten-g lden pieces? We shall not miss them, so stake twenty pieces at a time.""",(No direct equivalent in text),1051,not aligned,-1,-1,169635,169811,,"Upon zero, upon zero! Again upon zero! Stake as much as ever you can.
+How much have we got? Seventy ten-g lden pieces? We shall not miss
+them, so stake twenty pieces at a time."""
+'To oppose her was useless. Once more the wheel revolved.',(No direct equivalent in text),1058,not aligned,-1,-1,172756,172812,,"To oppose her was useless. Once more the wheel revolved.
+"
+"""Then stake everything upon zero. You have seen how it ought to be done?",(No direct equivalent in text),1080,not aligned,-1,-1,176938,177009,,"Then stake everything upon zero. You have seen how it ought to be
+done? "
+"How much capital do you possess?""",(No direct equivalent in text),1081,not aligned,-1,-1,177010,177042,,"How much capital do you possess?"""
+"""Two hundred g lden, Madame.""",(No direct equivalent in text),1082,not aligned,-1,-1,177046,177073,,"Two hundred g lden, Madame."""
+"""Not very much. See here; I will lend you five hundred if you wish. Take this purse of mine.""",(No direct equivalent in text),1083,not aligned,-1,-1,177077,177168,,"Not very much. See here; I will lend you five hundred if you wish.
+Take this purse of mine."""
+"With that she added sharply to the General: ""But _you_ need not expect to receive any.""",(No direct equivalent in text),1084,not aligned,-1,-1,177170,177256,,"With that she added sharply to the General:
+""But _you_ need not expect to receive any."""
+"""C est une terrible vieille.""",(No direct equivalent in text),1087,not aligned,-1,-1,177396,177423,,"C est une terrible
+vieille."""
+"""I _do_ mean to try my luck presently.""",(No direct equivalent in text),1090,not aligned,-1,-1,176897,176934,,"I _do_ mean to try my luck presently."""
+"""Yet just now I could see that you were burning to do so?""",(No direct equivalent in text),1092,not aligned,-1,-1,176837,176893,,"Yet just now I could see that you were burning to do so?"""
+"""Have you never tried your luck, Alexis Ivanovitch?""",(No direct equivalent in text),1094,not aligned,-1,-1,176768,176818,,"Have you never tried your luck, Alexis Ivanovitch?"""
+"""Quelle victoire!"" exclaimed De Griers.",(No direct equivalent in text),1098,not aligned,-1,-1,174247,174285,,"Quelle victoire!"" exclaimed De Griers.
+"
+"""Mais, Madame, c tait du feu!"" added Mlle. Blanche with an elusive smile.",(No direct equivalent in text),1099,not aligned,-1,-1,174288,174361,,"Mais, Madame, c  tait du feu!"" added Mlle. Blanche with an elusive
+smile.
+"
+"""No, Madame.""",(No direct equivalent in text),1107,not aligned,-1,-1,176822,176833,,"No, Madame."""
+"""Eight thousand roubles!""",(No direct equivalent in text),1116,not aligned,-1,-1,174722,174745,,Eight thousand roubles! 
+"""How _did_ you do it, Madame?"" Martha exclaimed ecstatically.",(No direct equivalent in text),1140,not aligned,-1,-1,174876,174936,,"How _did_ you do it, Madame?"" Martha exclaimed ecstatically. "
+"""What has that got to do with _you?_,"" retorted the old lady. ""It is not _your_ money that I am going to lose; it is my own. And where is that Mr. Astley of yours?"" she added to myself.","-- Et qu'est-ce que ca vous fait ? Ce n'est pas votre argent que je perdrai, c'est le mien !... Et ou est M. Astley ?",1152,aligned,129753,129870,-1,-1,"-- Et qu'est-ce que ca vous fait ? Ce n'est pas votre argent que je perdrai, c'est le mien !... Et ou est M. Astley ?
+",
+"The meal over, Theodosia and Martha broke into a joint flood of ecstasy. ""I was watching you all the time, Madame,"" quavered Martha, ""and I asked Potapitch what mistress was trying to do. And, my word! ~~~ the heaps and _heaps_ of money that were lying upon the table! Never in my life have I seen so much money. And there were gentlefolk around it, and other gentlefolk sitting down. So, I asked Potapitch where all these gentry had come from; for, thought I, maybe the Holy Mother of God will help our mistress among them. Yes, I prayed for you, Madame, and my heart died within me, so that I kept trembling and trembling. The Lord be with her, I thought to myself; and in answer to my prayer He has now sent you what He has done! Even yet I tremble I tremble to think of it all.""",(No direct equivalent in text),1156,not aligned,-1,-1,178950,179728,,"The meal
+over, Theodosia and Martha broke into a joint flood of ecstasy.
+
+""I was watching you all the time, Madame,"" quavered Martha, ""and I
+asked Potapitch what mistress was trying to do. And, my word! the heaps
+and _heaps_ of money that were lying upon the table! Never in my life
+have I seen so much money. And there were gentlefolk around it, and
+other gentlefolk sitting down. So, I asked Potapitch where all these
+gentry had come from; for, thought I, maybe the Holy Mother of God will
+help our mistress among them. Yes, I prayed for you, Madame, and my
+heart died within me, so that I kept trembling and trembling. The Lord
+be with her, I thought to myself; and in answer to my prayer He has now
+sent you what He has done! Even yet I tremble I tremble to think of it
+all."""
+How can I ever bring myself to leave her?,(No direct equivalent in text),1175,not aligned,-1,-1,184429,184470,,"How can I ever bring myself to leave her?
+"
+More I do not know.,(No direct equivalent in text),1176,not aligned,-1,-1,184409,184428,,More I do not know. 
+"I yearn but to be in her presence, and within the circle of her light and splendour to be there now, and forever, and for the whole of my life.",(No direct equivalent in text),1177,not aligned,-1,-1,184265,184408,,"I yearn but to be in her presence, and within the circle of her light
+and splendour to be there now, and forever, and for the whole of my
+life. "
+"However, I set off to search for Astley first at his hotel, and then at the Casino, where I went the round of the salons in vain.",(No direct equivalent in text),1191,not aligned,-1,-1,185333,185462,,"However, I set off
+to search for Astley first at his hotel, and then at the Casino, where
+I went the round of the salons in vain. "
+"""Here is the moneychanger s office.""",(No direct equivalent in text),1235,not aligned,-1,-1,200504,200538,,"Here is the moneychanger s
+office."""
+"I entered to get the securities changed, while the Grandmother remained outside in the porch, and the rest waited at a little distance, in doubt as to their best course of action.",(No direct equivalent in text),1236,not aligned,-1,-1,200541,200720,,"I entered to get the securities changed, while the Grandmother remained
+outside in the porch, and the rest waited at a little distance, in
+doubt as to their best course of action. "
+At length the old lady turned such an angry stare upon them that they departed along the road towards the Casino.,(No direct equivalent in text),1241,not aligned,-1,-1,200721,200834,,"At length the old lady turned
+such an angry stare upon them that they departed along the road towards
+the Casino.
+"
+The process of changing involved complicated calculations which soon necessitated my return to the Grandmother for instructions.,(No direct equivalent in text),1261,not aligned,-1,-1,200836,200964,,"The process of changing involved complicated calculations which soon
+necessitated my return to the Grandmother for instructions.
+"
+"""See what we have won!",(No direct equivalent in text),1262,not aligned,-1,-1,202876,202897,,"See what we have won!
+"
+"""Never mind, though. Get the documents cashed",(No direct equivalent in text),1263,not aligned,-1,-1,201031,201075,,"Never
+mind, though. Get the documents cashed "
+"I felt greatly put out as I watched her play, but I decided to hold my tongue, and to give her no more advice.",(No direct equivalent in text),1264,not aligned,-1,-1,203076,203186,,"I felt greatly put out as I watched her play, but I decided to hold my
+tongue, and to give her no more advice.
+"
+Suddenly De Griers appeared on the scene.,(No direct equivalent in text),1265,not aligned,-1,-1,203188,203229,,Suddenly De Griers appeared on the scene. 
+"It seemed that all this while he and his companions had been standing beside us though I noticed that Mlle. Blanche had withdrawn a little from the rest, and was engaged in flirting with the Prince.",(No direct equivalent in text),1266,not aligned,-1,-1,203230,203428,,"It seemed that all this while
+he and his companions had been standing beside us though I noticed that
+Mlle. Blanche had withdrawn a little from the rest, and was engaged in
+flirting with the Prince. "
+Clearly the General was greatly put out at this.,(No direct equivalent in text),1267,not aligned,-1,-1,203429,203477,,"Clearly the General was greatly put out at
+this. "
+"Indeed, he was in a perfect agony of vexation.",(No direct equivalent in text),1268,not aligned,-1,-1,203478,203524,,"Indeed, he was in a perfect agony of vexation. "
+"But Mlle. was careful never to look his way, though he did his best to attract her notice.",(No direct equivalent in text),1269,not aligned,-1,-1,203525,203615,,"But Mlle. was
+careful never to look his way, though he did his best to attract her
+notice. "
+"Poor General! By turns his face blanched and reddened, and he was trembling to such an extent that he could scarcely follow the old lady s play.",(No direct equivalent in text),1270,not aligned,-1,-1,203616,203760,,"Poor General! By turns his face blanched and reddened, and he
+was trembling to such an extent that he could scarcely follow the old
+lady s play. "
+"At length Mlle. and the Prince took their departure, and the General followed them.",(No direct equivalent in text),1271,not aligned,-1,-1,203761,203844,,"At length Mlle. and the Prince took their departure, and
+the General followed them.
+"
+"""Madame, Madame,"" sounded the honeyed accents of De Griers as he leant over to whisper in the Grandmother s ear.",(No direct equivalent in text),1272,not aligned,-1,-1,203847,203958,,"Madame, Madame,"" sounded the honeyed accents of De Griers as he leant
+over to whisper in the Grandmother s ear. "
+"""That stake will never win. No, no, it is impossible,"" he added in Russian with a writhe.",(No direct equivalent in text),1273,not aligned,-1,-1,203960,204048,,"That stake will never win.
+No, no, it is impossible,"" he added in Russian with a writhe. "
+"""No, no!""",(No direct equivalent in text),1274,not aligned,-1,-1,204050,204057,,"No, no!"""
+"""But why not?"" asked the Grandmother, turning round.",(No direct equivalent in text),1275,not aligned,-1,-1,204061,204112,,"But why not?"" asked the Grandmother, turning round. "
+"""Show me what I ought to do.""",(No direct equivalent in text),1276,not aligned,-1,-1,204114,204141,,"Show me what I
+ought to do."""
+"Instantly De Griers burst into a babble of French as he advised, jumped about, declared that such and such chances ought to be waited for, and started to make calculations of figures.",(No direct equivalent in text),1277,not aligned,-1,-1,204144,204327,,"Instantly De Griers burst into a babble of French as he advised, jumped
+about, declared that such and such chances ought to be waited for, and
+started to make calculations of figures. "
+"All this he addressed to me in my capacity as translator tapping the table the while with his finger, and pointing hither and thither.",(No direct equivalent in text),1278,not aligned,-1,-1,204328,204462,,"All this he addressed to me in
+my capacity as translator tapping the table the while with his finger,
+and pointing hither and thither. "
+"At length he seized a pencil, and began to reckon sums on paper until he had exhausted the Grandmother s patience.",(No direct equivalent in text),1279,not aligned,-1,-1,204463,204577,,"At length he seized a pencil, and
+began to reckon sums on paper until he had exhausted the Grandmother s
+patience.
+"
+"""Away with you!"" she interrupted.",(No direct equivalent in text),1280,not aligned,-1,-1,204580,204612,,"Away with you!"" she interrupted. "
+"""Away with you!"" she interrupted.",(No direct equivalent in text),1281,not aligned,-1,-1,204580,204612,,"Away with you!"" she interrupted. "
+"Oh, it was YOUR fault before all your fault!""",(No direct equivalent in text),1283,not aligned,-1,-1,203029,203073,,"Oh, it was
+YOUR fault before all your fault!"""
+"""The thieves!"" she exclaimed as she clapped her hands together.",(No direct equivalent in text),1284,not aligned,-1,-1,200967,201029,,"The thieves!"" she exclaimed as she clapped her hands together. "
+"Surely it would be worth our while to stake four thousand instead of a hundred, for we might win another four thousand, and then !",(No direct equivalent in text),1285,not aligned,-1,-1,202898,203028,,"Surely it would be worth our while to stake four thousand instead of a
+hundred, for we might win another four thousand, and then ! "
+"""There you are!""",(No direct equivalent in text),1286,not aligned,-1,-1,202832,202846,,"There you are!"""
+"No; send the banker out to me,"" she added as an afterthought.",(No direct equivalent in text),1287,not aligned,-1,-1,201076,201137,,"No; send the banker out to me,""
+she added as an afterthought.
+"
+"""Would one of the clerks do, Madame?""",(No direct equivalent in text),1288,not aligned,-1,-1,201140,201175,,"Would one of the clerks do, Madame?"""
+"""Yes, one of the clerks. The thieves!""",(No direct equivalent in text),1289,not aligned,-1,-1,201179,201215,,"Yes, one of the clerks. The thieves!"""
+"The clerk consented to come out when he perceived that he was being asked for by an old lady who was too infirm to walk; after which the Grandmother began to upbraid him at length, and with great vehemence, for his alleged usuriousness, and to bargain with him in a mixture of Russian, French, and German I acting as interpreter.",(No direct equivalent in text),1290,not aligned,-1,-1,201218,201547,,"The clerk consented to come out when he perceived that he was being
+asked for by an old lady who was too infirm to walk; after which the
+Grandmother began to upbraid him at length, and with great vehemence,
+for his alleged usuriousness, and to bargain with him in a mixture of
+Russian, French, and German I acting as interpreter. "
+"Meanwhile, the grave-faced official eyed us both, and silently nodded his head.",(No direct equivalent in text),1291,not aligned,-1,-1,201548,201627,,"Meanwhile, the
+grave-faced official eyed us both, and silently nodded his head. "
+"At the Grandmother, in particular, he gazed with a curiosity which almost bordered upon rudeness.",(No direct equivalent in text),1292,not aligned,-1,-1,201628,201725,,"At the
+Grandmother, in particular, he gazed with a curiosity which almost
+bordered upon rudeness. "
+"At length, too, he smiled.",(No direct equivalent in text),1293,not aligned,-1,-1,201726,201752,,"At length, too, he smiled.
+"
+"""Pray recollect yourself!"" cried the old lady.",(No direct equivalent in text),1294,not aligned,-1,-1,201755,201800,,"Pray recollect yourself!"" cried the old lady. "
+"""And may my money choke you! Alexis Ivanovitch, tell him that we can easily repair to someone else.""",(No direct equivalent in text),1295,not aligned,-1,-1,201802,201900,,"And may my money choke
+you! Alexis Ivanovitch, tell him that we can easily repair to someone
+else."""
+"""The clerk says that others will give you even less than he.""",(No direct equivalent in text),1296,not aligned,-1,-1,201904,201963,,"The clerk says that others will give you even less than he."""
+"Of what the ultimate calculations consisted I do not exactly remember, but at all events they were alarming.",(No direct equivalent in text),1297,not aligned,-1,-1,201966,202074,,"Of what the ultimate calculations consisted I do not exactly remember,
+but at all events they were alarming. "
+"Receiving twelve thousand florins in gold, I took also the statement of accounts, and carried it out to the Grandmother.",(No direct equivalent in text),1298,not aligned,-1,-1,202075,202195,,"Receiving twelve thousand florins
+in gold, I took also the statement of accounts, and carried it out to
+the Grandmother.
+"
+"""Well, well,"" she said, ""I am no accountant.",(No direct equivalent in text),1299,not aligned,-1,-1,202198,202241,,"Well, well,"" she said, ""I am no accountant. "
+"Let us hurry away, hurry away.""",(No direct equivalent in text),1300,not aligned,-1,-1,202242,202272,,"Let us hurry away, hurry
+away."""
+And she waved the paper aside.,(No direct equivalent in text),1301,not aligned,-1,-1,202274,202304,,"And she waved the paper aside.
+"
+"""Neither upon that accursed zero, however, nor upon that equally accursed red do I mean to stake a cent,"" I muttered to myself as I entered the Casino.",(No direct equivalent in text),1302,not aligned,-1,-1,202307,202457,,"Neither upon that accursed zero, however, nor upon that equally
+accursed red do I mean to stake a cent,"" I muttered to myself as I
+entered the Casino.
+"
+This time I did all I could to persuade the old lady to stake as little as possible saying that a turn would come in the chances when she would be at liberty to stake more.,(No direct equivalent in text),1303,not aligned,-1,-1,202459,202631,,"This time I did all I could to persuade the old lady to stake as little
+as possible saying that a turn would come in the chances when she would
+be at liberty to stake more. "
+"But she was so impatient that, though at first she agreed to do as I suggested, nothing could stop her when once she had begun.",(No direct equivalent in text),1304,not aligned,-1,-1,202632,202759,,"But she was so impatient that, though at
+first she agreed to do as I suggested, nothing could stop her when once
+she had begun. "
+By way of prelude she won stakes of a hundred and two hundred g lden.,(No direct equivalent in text),1305,not aligned,-1,-1,202760,202829,,"By way of prelude she won stakes of a hundred and two
+hundred g lden.
+"
+she said as she nudged me.,(No direct equivalent in text),1306,not aligned,-1,-1,202848,202874,,she said as she nudged me. 
+"It is my opinion that though croupiers seem such ordinary, humdrum officials men who care nothing whether the bank wins or loses they are, in reality, anything but indifferent to the bank s losing, and are given instructions to attract players, and to keep a watch over the bank s interests; as also, that for such services, these officials are awarded prizes and premiums.",(No direct equivalent in text),1336,not aligned,-1,-1,193468,193841,,"It is my
+opinion that though croupiers seem such ordinary, humdrum officials men
+who care nothing whether the bank wins or loses they are, in reality,
+anything but indifferent to the bank s losing, and are given
+instructions to attract players, and to keep a watch over the bank s
+interests; as also, that for such services, these officials are awarded
+prizes and premiums. "
+Try zero again.,-- Allons ! mets encore quatre mille florins sur la rouge.,1418,aligned,-1,-1,194813,194828,,Try zero again. 
+"Otherwise I shall have nothing to travel with.""",(No direct equivalent in text),1450,not aligned,-1,-1,207310,207356,,"Otherwise I shall have nothing to travel with."""
+And Potapitch spat upon his hands probably to show that he was ready to serve her in any way he could.,(No direct equivalent in text),1456,not aligned,-1,-1,206770,206872,,"And Potapitch spat
+upon his hands probably to show that he was ready to serve her in any
+way he could.
+"
+"""We are off again,"" she announced.",-- Nous partons.,1462,aligned,-1,-1,206394,206427,,"We are off again,"" she announced.
+"
+"For some time past he had been feeling ashamed of being seen in such company, and this had proved the last straw.",(No direct equivalent in text),1467,not aligned,-1,-1,205889,206002,,"For some time past
+he had been feeling ashamed of being seen in such company, and this had
+proved the last straw.
+"
+"""But whither, Madame?""",(No direct equivalent in text),1517,not aligned,-1,-1,206430,206450,,"But whither, Madame?"""
+"The rest of the day Mlle. ~~~ spent in probing the Prince, and trying to make him declare himself; but in this she made a woeful mistake.",(No direct equivalent in text),1541,not aligned,-1,-1,230280,230413,,"The rest of the day Mlle.
+spent in probing the Prince, and trying to make him declare himself;
+but in this she made a woeful mistake. "
+The little incident occurred in the evening.,(No direct equivalent in text),1542,not aligned,-1,-1,230414,230458,,"The little incident occurred in
+the evening. "
+"Suddenly Mlle. Blanche realised that the Prince had not even a copper to his name, but, on the contrary, was minded to borrow of her money wherewith to play at roulette.",(No direct equivalent in text),1543,not aligned,-1,-1,230459,230628,,"Suddenly Mlle. Blanche realised that the Prince had not
+even a copper to his name, but, on the contrary, was minded to borrow
+of her money wherewith to play at roulette. "
+"In high displeasure she drove him from her presence, and shut herself up in her room.",(No direct equivalent in text),1544,not aligned,-1,-1,230629,230714,,"In high displeasure she
+drove him from her presence, and shut herself up in her room.
+"
+"The same morning I went to see or, rather, to look for Mr. Astley, but was unsuccessful in my quest. Neither in his rooms nor in the Casino nor in the Park was he to be found; nor did he, that day, lunch at his hotel as usual.",(No direct equivalent in text),1545,not aligned,-1,-1,230716,230942,,"The same morning I went to see or, rather, to look for Mr. Astley, but
+was unsuccessful in my quest. Neither in his rooms nor in the Casino
+nor in the Park was he to be found; nor did he, that day, lunch at his
+hotel as usual. "
+"However, at about five o clock I caught sight of him walking from the railway station to the H tel d Angleterre. He seemed to be in a great hurry and much preoccupied, though in his face I could discern no actual traces of worry or perturbation.",(No direct equivalent in text),1546,not aligned,-1,-1,230943,231188,,"However, at about five o clock I caught sight of him
+walking from the railway station to the H tel d Angleterre. He seemed
+to be in a great hurry and much preoccupied, though in his face I could
+discern no actual traces of worry or perturbation. "
+"He held out to me a friendly hand, with his usual ejaculation of ""Ah!"" but did not check his stride.",(No direct equivalent in text),1547,not aligned,-1,-1,231189,231289,,"He held out to me a
+friendly hand, with his usual ejaculation of ""Ah!"" but did not check
+his stride. "
+"Indeed, even when the General pursued her to the Casino, and met her walking arm in arm with the Prince, he (the General) received from her and her mother not the slightest recognition. Nor did the Prince himself bow.",(No direct equivalent in text),1548,not aligned,-1,-1,230062,230279,,"Indeed, even when the General pursued
+her to the Casino, and met her walking arm in arm with the Prince, he
+(the General) received from her and her mother not the slightest
+recognition. Nor did the Prince himself bow. "
+"I turned and walked beside him, but found, somehow, that his answers forbade any putting of definite questions.",(No direct equivalent in text),1549,not aligned,-1,-1,231290,231401,,"I turned and walked beside him, but found, somehow, that
+his answers forbade any putting of definite questions. "
+"""She is gambling away everything that she has,"" I remarked.",(No direct equivalent in text),1550,not aligned,-1,-1,231650,231708,,"She is gambling away everything that she has,"" I remarked.
+"
+"""Indeed? She arrived at the Casino even before I had taken my departure by train, so I knew she had been playing. If I should have time I will go to the Casino to-night, and take a look at her. The thing interests me.""",(No direct equivalent in text),1551,not aligned,-1,-1,231711,231927,,"Indeed? She arrived at the Casino even before I had taken my departure
+by train, so I knew she had been playing. If I should have time I will
+go to the Casino to-night, and take a look at her. The thing interests
+me."""
+"""Where have you been today?"" I asked surprised at myself for having, as yet, omitted to put to him that question.",(No direct equivalent in text),1552,not aligned,-1,-1,231931,232043,,"Where have you been today?"" I asked surprised at myself for having, as
+yet, omitted to put to him that question.
+"
+"""To Frankfort.""",(No direct equivalent in text),1553,not aligned,-1,-1,232046,232059,,"To Frankfort."""
+"""On business?""",(No direct equivalent in text),1554,not aligned,-1,-1,232063,232075,,"On business?"""
+"""On business.""",(No direct equivalent in text),1555,not aligned,-1,-1,232079,232091,,"On business."""
+What more was there to be asked after that?,(No direct equivalent in text),1556,not aligned,-1,-1,232094,232137,,What more was there to be asked after that? 
+"Moreover, I felt reluctant to speak to him of Polina; nor, for his part, did he ask me any questions concerning her, although, on my telling him of the Grandmother s exploits, he listened attentively and gravely, and then shrugged his shoulders.",(No direct equivalent in text),1557,not aligned,-1,-1,231402,231647,,"Moreover, I felt
+reluctant to speak to him of Polina; nor, for his part, did he ask me
+any questions concerning her, although, on my telling him of the
+Grandmother s exploits, he listened attentively and gravely, and then
+shrugged his shoulders.
+"
+"As for the latter, from early morning she had taken decisive measures, by completely excluding the General from her presence, and bestowing upon him not a glance.",(No direct equivalent in text),1558,not aligned,-1,-1,229899,230061,,"As for the latter, from early morning she had taken decisive
+measures, by completely excluding the General from her presence, and
+bestowing upon him not a glance. "
+"At present I am lonely and alone. Autumn is coming already it is mellowing the leaves; and, as I sit brooding in this melancholy little town (and how melancholy the little towns of Germany can be! ), I find myself taking no thought for the future, but living under the influence of passing moods, and of my recollections of the tempest which recently drew me into its vortex, and then cast me out again.","Au lieu de reflechir a ce qu'il convient que je fasse, je vis sous l'influence des evenements accomplis, pris encore dans le recent tourbillon qui m'a rejete loin de mon centre naturel...",1562,aligned,155703,155890,-1,-1,"Au lieu de reflechir a ce qu'il convient que je fasse, je vis sous l'influence des evenements accomplis, pris encore dans le recent tourbillon qui m'a rejete loin de mon centre naturel... ",
+"Finally De Griers waved his hand, and disappeared from view; and by evening it became known that he had left the hotel, after holding a very secret and important conference with Mlle. Blanche.",(No direct equivalent in text),1579,not aligned,-1,-1,229706,229898,,"Finally De Griers waved his hand, and disappeared
+from view; and by evening it became known that he had left the hotel,
+after holding a very secret and important conference with Mlle.
+Blanche. "
+"She had lost all the money which, earlier in the day, I had got for her paper securities a sum amounting to about ten thousand roubles.",(No direct equivalent in text),1590,not aligned,-1,-1,216757,216892,,"She had lost all the money which,
+earlier in the day, I had got for her paper securities a sum amounting
+to about ten thousand roubles. "
+"This she did under the direction of the Pole whom, that afternoon, she had dowered with two ten-g lden pieces.",(No direct equivalent in text),1591,not aligned,-1,-1,216893,217003,,"This she did under the direction of the
+Pole whom, that afternoon, she had dowered with two ten-g lden pieces.
+"
+"But before his arrival on the scene, she had commanded Potapitch to stake for her; until at length she had told him also to go about his business.",(No direct equivalent in text),1592,not aligned,-1,-1,217004,217150,,"But before his arrival on the scene, she had commanded Potapitch to
+stake for her; until at length she had told him also to go about his
+business. "
+Upon that the Pole had leapt into the breach.,(No direct equivalent in text),1593,not aligned,-1,-1,217151,217196,,Upon that the Pole had leapt into the breach. 
+"Not only did it happen that he knew the Russian language, but also he could speak a mixture of three different dialects, so that the pair were able to understand one another.",(No direct equivalent in text),1594,not aligned,-1,-1,217197,217371,,"Not only did it
+happen that he knew the Russian language, but also he could speak a
+mixture of three different dialects, so that the pair were able to
+understand one another. "
+"Yet the old lady never ceased to abuse him, despite his deferential manner, and to compare him unfavourably with myself (so, at all events, Potapitch declared).",(No direct equivalent in text),1595,not aligned,-1,-1,217372,217532,,"Yet the old lady never ceased to abuse him,
+despite his deferential manner, and to compare him unfavourably with
+myself (so, at all events, Potapitch declared). "
+"""_You_,"" the old chamberlain said to me, ""treated her as a gentleman should, but he he robbed her right and left, as I could see with my own eyes. Twice she caught him at it, and rated him soundly. On one occasion she even pulled his hair, so that the bystanders burst out laughing. Yet she lost everything, sir that is to say, she lost all that you had changed for her. Then we brought her home, and, after asking for some water and saying her prayers, she went to bed. So worn out was she that she fell asleep at once. May God send her dreams of angels! And _this_ is all that foreign travel has done for us! Oh, my own Moscow! ~~~ For what have we not at home there, in Moscow? Such a garden and flowers as you could never see here, and fresh air and apple-trees coming into blossom, and a beautiful view to look upon. Ah, but what must she do but go travelling abroad? Alack, alack!""",(No direct equivalent in text),1596,not aligned,-1,-1,217534,218415,,"_You_,"" the old
+chamberlain said to me, ""treated her as a gentleman should, but he he
+robbed her right and left, as I could see with my own eyes. Twice she
+caught him at it, and rated him soundly. On one occasion she even
+pulled his hair, so that the bystanders burst out laughing. Yet she
+lost everything, sir that is to say, she lost all that you had changed
+for her. Then we brought her home, and, after asking for some water and
+saying her prayers, she went to bed. So worn out was she that she fell
+asleep at once. May God send her dreams of angels! And _this_ is all
+that foreign travel has done for us! Oh, my own Moscow! For what have
+we not at home there, in Moscow? Such a garden and flowers as you could
+never see here, and fresh air and apple-trees coming into blossom, and
+a beautiful view to look upon. Ah, but what must she do but go
+travelling abroad? Alack, alack!"""
+It was bound to have been so. For me to formulate the query which I really wished to put was a simple impossibility.,(No direct equivalent in text),1628,not aligned,-1,-1,232497,232613,,"It was bound to
+have been so. For me to formulate the query which I really wished to
+put was a simple impossibility.
+"
+"Indeed, when I was returning to the hotel after my conversation with Astley, and chanced to meet Polina and the children, I could see that her face was as calm as though the family disturbances had never touched her.",(No direct equivalent in text),1639,not aligned,-1,-1,233108,233324,,"Indeed, when I was returning to the hotel after my conversation with
+Astley, and chanced to meet Polina and the children, I could see that
+her face was as calm as though the family disturbances had never
+touched her. "
+"Still, even though I was aware of the position in which the General was placed, it had never occurred to me that he would have any reason to avoid _her_, or to trouble her with family explanations.",(No direct equivalent in text),1640,not aligned,-1,-1,232910,233107,,"Still, even though I was aware of the position in which
+the General was placed, it had never occurred to me that he would have
+any reason to avoid _her_, or to trouble her with family explanations.
+"
+"Then I tried to get him to speak of Polina and the children, but he only returned brief answers of ""Yes, yes,"" and again started to maunder about the Prince, and the likelihood of the latter marrying Mlle. Blanche.",(No direct equivalent in text),1645,not aligned,-1,-1,239899,240113,,"Then I tried to get
+him to speak of Polina and the children, but he only returned brief
+answers of ""Yes, yes,"" and again started to maunder about the Prince,
+and the likelihood of the latter marrying Mlle. Blanche. "
+"My God, what distress it caused me!",(No direct equivalent in text),1646,not aligned,-1,-1,235847,235882,,"My God, what distress it caused me!
+"
+"""Then how will you pay your hotel bill?"" I cried in consternation. ""And what shall you do afterwards?""",(No direct equivalent in text),1664,not aligned,-1,-1,239686,239786,,"Then how will you pay your hotel bill?"" I cried in consternation. ""And
+what shall you do afterwards?"""
+"He looked at me vaguely, but it was clear that he had not understood perhaps had not even heard my questions.",(No direct equivalent in text),1665,not aligned,-1,-1,239789,239898,,"He looked at me vaguely, but it was clear that he had not
+understood perhaps had not even heard my questions. "
+"""What on earth am I to do?"" he concluded. ""What on earth am I to do? Is this not ingratitude? Is it not sheer ingratitude?""",(No direct equivalent in text),1666,not aligned,-1,-1,240115,240236,,"What on earth
+am I to do?"" he concluded. ""What on earth am I to do? Is this not
+ingratitude? Is it not sheer ingratitude?"""
+"Yet to leave him alone was dangerous, for something might happen to him.",(No direct equivalent in text),1694,not aligned,-1,-1,240303,240375,,"Yet to leave him alone was
+dangerous, for something might happen to him. "
+But I must not delay a moment; I must leave by the 9:30 train.,(No direct equivalent in text),1712,not aligned,-1,-1,241390,241452,,"But I must not delay a moment; I must leave by the 9:30
+train. "
+"Hesitating a moment on the threshold I changed my mind as to entering, and departed unnoticed.",(No direct equivalent in text),1721,not aligned,-1,-1,244904,244998,,"Hesitating a moment on the threshold I changed my mind as to entering,
+and departed unnoticed. "
+had long ago packed her trunks in readiness for the first morning train to Paris!,(No direct equivalent in text),1723,not aligned,-1,-1,244821,244902,,"had long ago packed her trunks in readiness for
+the first morning train to Paris!
+"
+"Fortunately, the poor General did not know that his fate had been decided that Mlle.",(No direct equivalent in text),1724,not aligned,-1,-1,244736,244820,,"Fortunately, the poor General did not know that his fate had
+been decided that Mlle. "
+"Afterwards I learnt from Mlle. Blanche herself that, after dismissing the Prince and hearing of the General s tears, she bethought her of going to comfort the old man, and had just arrived for the purpose when I entered.",(No direct equivalent in text),1725,not aligned,-1,-1,244515,244735,,"Afterwards I learnt from Mlle. Blanche herself that, after dismissing
+the Prince and hearing of the General s tears, she bethought her of
+going to comfort the old man, and had just arrived for the purpose when
+I entered. "
+"Clearly the General was almost out of his mind with joy, for he was talking all sorts of nonsense, and bubbling over with a long-drawn, nervous laugh a laugh which twisted his face into innumerable wrinkles, and caused his eyes almost to disappear.",(No direct equivalent in text),1726,not aligned,-1,-1,244265,244513,,"Clearly the General was almost out of his
+mind with joy, for he was talking all sorts of nonsense, and bubbling
+over with a long-drawn, nervous laugh a laugh which twisted his face
+into innumerable wrinkles, and caused his eyes almost to disappear.
+"
+"Martha, come and lift me up.""",(No direct equivalent in text),1736,not aligned,-1,-1,242816,242844,,"Martha, come
+and lift me up."""
+The figure was Polina!,(No direct equivalent in text),1745,not aligned,-1,-1,245265,245287,,"The figure was Polina!
+"
+"Here Polina halted for a moment, and stood biting her lips.",(No direct equivalent in text),1755,not aligned,-1,-1,248246,248305,,"Here Polina halted for a
+moment, and stood biting her lips. "
+"""Just as I expected! Well, what is the General going to do?""",(No direct equivalent in text),1781,not aligned,-1,-1,248974,249032,,"Just as I expected! Well, what is the General going to do?"""
+"Although she, an unprotected girl, had come to me in my room in an hotel room and had probably compromised herself thereby, I had not understood!",(No direct equivalent in text),1803,not aligned,-1,-1,250626,250771,,"Although she, an
+unprotected girl, had come to me in my room in an hotel room and had
+probably compromised herself thereby, I had not understood!
+"
+"Although the occurrence can easily be explained by arithmetic, I still believe it to have been a miracle. Yet why did this conviction take such a hold upon me at the time, and remain with me ever since? Previously, I had thought of the idea, not as an occurrence which was ever likely to come about, but as something which _never_ could come about.",(No direct equivalent in text),1809,not aligned,-1,-1,251856,252204,,"Although the
+occurrence can easily be explained by arithmetic, I still believe it to
+have been a miracle. Yet why did this conviction take such a hold upon
+me at the time, and remain with me ever since? Previously, I had
+thought of the idea, not as an occurrence which was ever likely to come
+about, but as something which _never_ could come about.
+"
+"""Passe"" was a row of numbers from 19 to 36 inclusive; while a row of numbers from 1 to 18 inclusive was known as ""Manque."" But what had that to do with me? I had not noticed I had not so much as heard the numbers upon which the previous coup had fallen, and so took no bearings when I began to play, as, in my place, any _systematic_ gambler would have done. No, I merely extended my stock of twenty ten-g lden pieces, and threw them down upon the space ""Passe"" which happened to be confronting me.",(No direct equivalent in text),1810,not aligned,-1,-1,253553,254050,,"Passe"" was a row of numbers from 19 to 36 inclusive; while a row of
+numbers from 1 to 18 inclusive was known as ""Manque."" But what had that
+to do with me? I had not noticed I had not so much as heard the numbers
+upon which the previous coup had fallen, and so took no bearings when I
+began to play, as, in my place, any _systematic_ gambler would have
+done. No, I merely extended my stock of twenty ten-g lden pieces, and
+threw them down upon the space ""Passe"" which happened to be confronting
+me.
+"
+"These gamesters took little note of what was going on around them, and were interested in none of the appurtenances of the season, but played from morning till night, and would have been ready to play through the night until dawn had that been possible. As it was, they used to disperse unwillingly when, at midnight, roulette came to an end. Likewise, as soon as ever roulette was drawing to a close and the head croupier had called ""Les trois derniers coups,"" most of them were ready to stake on the last three rounds all that they had in their pockets and, for the most part, lost it.",(No direct equivalent in text),1812,not aligned,-1,-1,252685,253272,,"These gamesters
+took little note of what was going on around them, and were interested
+in none of the appurtenances of the season, but played from morning
+till night, and would have been ready to play through the night until
+dawn had that been possible. As it was, they used to disperse
+unwillingly when, at midnight, roulette came to an end. Likewise, as
+soon as ever roulette was drawing to a close and the head croupier had
+called ""Les trois derniers coups,"" most of them were ready to stake on
+the last three rounds all that they had in their pockets and, for the
+most part, lost it. "
+"and that, finally, four times in succession I lost.",(No direct equivalent in text),1841,not aligned,-1,-1,256591,256642,,"and that, finally, four times in
+succession I lost. "
+"Suddenly a croupier informed me that I had won thirty thousand florins, as well as that, since the latter was the limit for which, at any one time, the bank could make itself responsible, roulette at that table must close for the night.",Tout a coup les croupiers me firent observer que j'avais gagne trente mille florins et qu'on allait fermer la roulette jusqu'au lendemain.,1846,aligned,177199,177337,-1,-1,Tout a coup les croupiers me firent observer que j'avais gagne trente mille florins et qu'on allait fermer la roulette jusqu'au lendemain. ,
+"An overpowering impulse had made me do so, and I remember how her thin little fingers pressed mine in token of her lively gratitude.",(No direct equivalent in text),1861,not aligned,-1,-1,259538,259670,,"An
+overpowering impulse had made me do so, and I remember how her thin
+little fingers pressed mine in token of her lively gratitude. "
+"Also, Poles came around me to proffer their services, but I heeded none of them.",(No direct equivalent in text),1863,not aligned,-1,-1,258422,258502,,"Also, Poles came around me to proffer
+their services, but I heeded none of them. "
+"Although I knew nothing of the game and I scarcely knew the stakes, except those on black and red I joined the ring of players, while the rest of the crowd massed itself around me.","C'est un jeu de cartes. J'ignorais le jeu, sauf ses combinaisons de rouge et de noir, auxquelles je m'attachai. Toute la foule qui m'avait suivi m'entourait.",1868,aligned,-1,-1,260081,260261,,"Although I knew nothing of the
+game and I scarcely knew the stakes, except those on black and red I
+joined the ring of players, while the rest of the crowd massed itself
+around me. "
+"Indeed, never since my boyhood have I done that.",(No direct equivalent in text),1878,not aligned,-1,-1,263530,263578,,"Indeed, never since my boyhood have I done
+that. "
+"Yet some whim or other led me, on remarking that the red had come up consecutively for seven times, to attach myself to that colour.",(No direct equivalent in text),1894,not aligned,-1,-1,261613,261745,,"Yet some whim or other led me, on remarking that the red had come up
+consecutively for seven times, to attach myself to that colour.
+"
+"Also, I remember that oh, strange sensation! I suddenly, and without any challenge from my own presumption, became obsessed with a _desire_ to take risks.",(No direct equivalent in text),1895,not aligned,-1,-1,261863,262017,,"Also, I remember that oh,
+strange sensation! I suddenly, and without any challenge from my own
+presumption, became obsessed with a _desire_ to take risks. "
+"If the spirit has passed through a great many sensations, possibly it can no longer be sated with them, but grows more excited, and demands more sensations, and stronger and stronger ones, until at length it falls exhausted.",(No direct equivalent in text),1896,not aligned,-1,-1,262018,262242,,"If the
+spirit has passed through a great many sensations, possibly it can no
+longer be sated with them, but grows more excited, and demands more
+sensations, and stronger and stronger ones, until at length it falls
+exhausted. "
+"Certainly, if the rules of the game had permitted even of my staking fifty thousand florins at a time, I should have staked them.",(No direct equivalent in text),1897,not aligned,-1,-1,262243,262372,,"Certainly, if the rules of the game had permitted even of my
+staking fifty thousand florins at a time, I should have staked them.
+"
+Yet her eyes had followed every one of my movements.,(No direct equivalent in text),1919,not aligned,-1,-1,266154,266206,,"Yet her eyes
+had followed every one of my movements. "
+Finally I came to a meditative halt before my little trunk.,(No direct equivalent in text),1922,not aligned,-1,-1,265905,265964,,"Finally I came to a meditative halt before
+my little trunk.
+"
+"That done, I left everything where it lay, and proceeded to pace the room with rapid strides as I lost myself in thought.",(No direct equivalent in text),1924,not aligned,-1,-1,265597,265718,,"That done, I left everything where it lay, and proceeded to pace the
+room with rapid strides as I lost myself in thought. "
+"On the whole, she appeared to be laughing at Astley, for she kept repeating that he was waiting for her, and did I know whether, even at that moment, he was not standing beneath the window?",(No direct equivalent in text),1948,not aligned,-1,-1,269990,270179,,"On the whole, she
+appeared to be laughing at Astley, for she kept repeating that he was
+waiting for her, and did I know whether, even at that moment, he was
+not standing beneath the window? "
+"At intervals, too, she would break off into the smile which I was beginning to dread.",(No direct equivalent in text),1967,not aligned,-1,-1,269201,269286,,"At intervals, too, she would break off into the
+smile which I was beginning to dread. "
+"For instance, he does not blame the General in the matter, but declares that Mlle. Blanche that love But no; I do not know, I do not know.""","Il excuse le general.  Il dit que Blanche... la passion... Enfin, je ne sais pas moi-meme, le pauvre !",1989,aligned,-1,-1,271153,271291,,"For instance, he does not
+blame the General in the matter, but declares that Mlle. Blanche that
+love But no; I do not know, I do not know."""
+"""What poor creatures these people are. How sorry I am for them, and for Grandmamma!",(No direct equivalent in text),1992,not aligned,-1,-1,271376,271458,,"What poor
+creatures these people are. How sorry I am for them, and for
+Grandmamma! "
+"""Then _take_ your fifty thousand francs!"" and she hurled them full in my face. The packet burst as she did so, and the floor became strewed with bank-notes. The instant that the deed was done she rushed from the room.",(No direct equivalent in text),2008,not aligned,-1,-1,273557,273773,,"Then _take_ your fifty thousand francs!"" and she hurled them full in
+my face. The packet burst as she did so, and the floor became strewed
+with bank-notes. The instant that the deed was done she rushed from the
+room.
+"
+"""Yes; they have _always_ been yours,"" I said.",(No direct equivalent in text),2009,not aligned,-1,-1,273510,273554,,"Yes; they have _always_ been yours,"" I said.
+"
+"Yet I neither saw nor heard her, for my head was in a whirl....",(No direct equivalent in text),2069,not aligned,-1,-1,271995,272058,,"Yet I neither saw nor heard her, for my head
+was in a whirl....
+"
+And how unwilling you were to go when I sent you!,(No direct equivalent in text),2076,not aligned,-1,-1,271817,271866,,And how unwilling you were to go when I sent you! 
+"Oh, how I laughed and laughed!""",(No direct equivalent in text),2077,not aligned,-1,-1,271867,271897,,"Oh, how
+I laughed and laughed!"""
+Then she kissed and embraced me again; again she pressed her face to mine with tender passion.,(No direct equivalent in text),2078,not aligned,-1,-1,271900,271994,,"Then she kissed and embraced me again; again she pressed her face to
+mine with tender passion. "
+"""\""Yes, yes my children,\"" was all that I could extract from him. \""Yes, you are right in what you have said about them.\""""","'-- C'est une ingrate ! s'ecria-t-il, une mechante et une ingrate, la honte de notre famille !",2130,aligned,212920,213013,-1,-1,"-- C'est une ingrate ! s'ecria-t-il, une mechante et une ingrate, la honte de notre famille ! ",
+"""\""Un vrai Russe un Kalmuk\"" she usually called me.""","'Qu'etait-ce pour elle qu'une broche de sept cents francs ? Le general ne possedait pas plus de mille francs, et je ne sais meme d'ou cet argent lui venait.'",2135,aligned,211224,211379,-1,-1,"Qu'etait-ce pour elle qu'une broche de sept cents francs ? Le general ne possedait pas plus de mille francs, et je ne sais meme d'ou cet argent lui venait. ",
+"""That is to say, she would burst out into tirades which were met only with silence as I lolled on a sofa and stared fixedly at the ceiling.""",(No direct equivalent in text),2141,not aligned,-1,-1,290596,290734,,"That is to say, she would
+burst out into tirades which were met only with silence as I lolled on
+a sofa and stared fixedly at the ceiling. "
+"""At first she imagined that it was due merely to the fact that I was a fool, \""un utchitel\""; wherefore she would break off her harangue in the belief that, being too stupid to understand, I was a hopeless case.""","'Et elle me quittait, pour revenir dix minutes apres. Ces scenes demi-muettes commencerent quand elle changea son attelage contre un plus beau qui coutait seize mille francs.'",2143,aligned,204347,204521,-1,-1,"Et elle me quittait, pour revenir dix minutes apres.
+
+Ces scenes demi-muettes commencerent quand elle changea son attelage contre un plus beau qui coutait seize mille francs.
+",
+"""Then she would leave the room, but return ten minutes later to resume the contest.""",(No direct equivalent in text),2144,not aligned,-1,-1,290972,291054,,"Then she would leave the room, but return ten minutes later to resume
+the contest. "
+"""This continued throughout her squandering of my money a squandering altogether out of proportion to our means.""",(No direct equivalent in text),2145,not aligned,-1,-1,291055,291165,,"This continued throughout her squandering of my money a
+squandering altogether out of proportion to our means. "
+"""An example is the way in which she changed her first pair of horses for a pair which cost sixteen thousand francs.""",(No direct equivalent in text),2146,not aligned,-1,-1,291166,291280,,"An example is
+the way in which she changed her first pair of horses for a pair which
+cost sixteen thousand francs.
+"
+"""\""Bibi,\"" she said on the latter occasion as she approached me, \""surely you are not angry?\""""","'-- Eh bien ! bibi, tu ne te faches donc pas ?'",2147,aligned,204523,204568,-1,-1,"-- Eh bien ! bibi, tu ne te faches donc pas ?
+",
+"""\""No-o-o: I am merely tired,\"" was my reply as I pushed her from me.""",'-- Non ; tu m'ennuies !',2148,aligned,204570,204593,-1,-1,-- Non ; tu m'ennuies ! ,
+"""\""You see,\"" she went on, \""I decided to spend so much upon these horses only because I can easily sell them again. They would go at any time for _twenty_ thousand francs.\""""","'-- Vois-tu, ce qui m'a decidee, c'est que c'est une occasion. On peut revendre l'attelage pour vingt mille francs.'",2150,aligned,204700,204814,-1,-1,"-- Vois-tu, ce qui m'a decidee, c'est que c'est une occasion. On peut revendre l'attelage pour vingt mille francs.
+",
+"""\""Yes, yes. They are splendid horses, and you have got a splendid turn-out. I am quite content. Let me hear no more of the matter.\""""","'-- Je te crois, je te crois. Les chevaux sont admirables ; ca te fait une tres jolie sortie. Et puis, assez la-dessus !'",2151,aligned,204816,204935,-1,-1,"-- Je te crois, je te crois. Les chevaux sont admirables ; ca te fait une tres jolie sortie. Et puis, assez la-dessus !
+",
+"""\""Then you are not angry?\""""","'-- Alors, tu ne te faches pas ?'",2152,aligned,204937,204968,-1,-1,"-- Alors, tu ne te faches pas ?
+",
+"""\""No. Why should I be? You are wise to provide yourself with what you need, for it will all come in handy in the future. Yes, I quite see the necessity of your establishing yourself on a good basis, for without it you will never earn your million. My hundred thousand francs I look upon merely as a beginning as a mere drop in the bucket.\""""","'-- Et pourquoi me facherais-je ? Tu fais tres bien de te pourvoir des choses qui te sont necessaires. Tout cela te servira plus tard. Il faut que tu aies l'air de depenser les rentes d'un million pour pouvoir en gagner le capital. Nos cent mille francs ne sont que le commencement, une goutte dans la mer.'",2153,aligned,204970,205275,-1,-1,"-- Et pourquoi me facherais-je ? Tu fais tres bien de te pourvoir des choses qui te sont necessaires. Tout cela te servira plus tard. Il faut que tu aies l'air de depenser les rentes d'un million pour pouvoir en gagner le capital. Nos cent mille francs ne sont que le commencement, une goutte dans la mer.
+",
+"""\""Well, well, what a man you are!\"" she exclaimed.""",'-- Comment ! c'est toi qui me dis ca ? Mais tu as donc de l'esprit !',2155,aligned,205353,205421,-1,-1,-- Comment ! c'est toi qui me dis ca ? Mais tu as donc de l'esprit ! ,
+"""\""Mais tu as donc de l’esprit. Sais-tu, mon gar on, although you are a tutor, you ought to have been born a prince. Are you not sorry that your money should be going so quickly?\""""","'Sais-tu, mon garcon ? tu n'es qu'un outchitel, mais tu aurais du naitre prince. Tu ne regrettes donc pas que l'argent ait ete si vite depense ?'",2156,aligned,205422,205565,-1,-1,"Sais-tu, mon garcon ? tu n'es qu'un outchitel, mais tu aurais du naitre prince. Tu ne regrettes donc pas que l'argent ait ete si vite depense ?
+",
+"""\""No. The quicker it goes the better.\""""",'-- Ah ! qu'il s'en aille plus vite encore !',2158,aligned,205567,205610,-1,-1,"-- Ah ! qu'il s'en aille plus vite encore !
+",
+"""That is to say, I handed her fifty thousand francs at Frankfurt, and, three days later (in Paris), advanced her another fifty thousand on note of hand.""",(No direct equivalent in text),2167,not aligned,-1,-1,286724,286875,,"That is to say, I handed her fifty
+thousand francs at Frankfurt, and, three days later (in Paris),
+advanced her another fifty thousand on note of hand. "
+"""Nevertheless, a week had not elapsed ere she came to me for more money.""","'Nevertheless, une semaine n'avait pas elapse qu'elle vint me demander plus d'argent.'",2168,aligned,-1,-1,286876,286947,,"Nevertheless, a
+week had not elapsed ere she came to me for more money. "
+"""\""Et les cent mille francs qui nous restent,"" she added, ""tu les mangeras avec moi, mon utchitel.""""","'-- Et les cent mille francs qui te restent, tu les mangeras avec moi, mon outchitel.'",2169,aligned,200867,200951,-1,-1,"-- Et les cent mille francs qui te restent, tu les mangeras avec moi, mon outchitel.
+",
+"""Yes, she always called me her ""utchitel"".""",'Elle m'appelait toujours son outchitel.',2170,aligned,200953,200992,-1,-1,"Elle m'appelait toujours son outchitel.
+",
+"""Blanche one could not imagine.""",(No direct equivalent in text),2172,not aligned,-1,-1,287144,287174,,"Blanche one could not
+imagine. "
+"""_My_ hundred thousand francs (as she explained to me later) she needed to set up her establishment in Paris, \""so that once and for all I may be on a decent footing, and proof against any stones which may be thrown at me at all events for a long time to come.\""""","'Quant a mes cent mille francs, elle me declara categoriquement, un beau jour, qu'elle en avait besoin pour son installation a Paris. -- De cette facon, dit-elle, je serai convenablement pourvue une fois pour toutes, et personne ne pourra plus entraver mes projets.'",2174,aligned,201145,201410,-1,-1,"Quant a mes cent mille francs, elle me declara categoriquement, un beau jour, qu'elle en avait besoin pour son installation a Paris.
+
+-- De cette facon, dit-elle, je serai convenablement pourvue une fois pour toutes, et personne ne pourra plus entraver mes projets.
+",
+"""\""What do _you_ want with money?\"" she would say to me with air of absolute simplicity; and I never disputed the point.""","'-- Pour quoi faire, disait-elle, pourquoi veux-tu de l'argent dans ta poche ? Tu ne peux rien avoir a en faire ! Je ne discutais pas.'",2176,aligned,201585,201719,-1,-1,"-- Pour quoi faire, disait-elle, pourquoi veux-tu de l'argent dans ta poche ? Tu ne peux rien avoir a en faire !
+
+Je ne discutais pas.
+",
+"""Nevertheless, though she fitted out her flat very badly with the money, the fact did not prevent her from saying when, later, she was showing me over the rooms of her new abode: \""See what care and taste can do with the most wretched of means!\""""","'En revanche, elle depensait cet argent sans compter pour son appartement. Quand nous y entrames, elle me dit solennellement : -- Vois ce que l'on peut faire quand on sait suppleer aux grands moyens par du gout et de l'economie !'",2177,aligned,201721,201950,-1,-1,"En revanche, elle depensait cet argent sans compter pour son appartement. Quand nous y entrames, elle me dit solennellement :
+
+-- Vois ce que l'on peut faire quand on sait suppleer aux grands moyens par du gout et de l'economie !
+",
+"""However, her \""wretchedness\"" had cost fifty thousand francs, while with the remaining fifty thousand she purchased a carriage and horses.""","'Ce gout et cette economie valaient pourtant juste cinquante mille francs. Chevaux, voitures, bals, auxquels etaient invitees Hortense, Lisette, Cleopatre (d'assez belles femmes), avaient pris l'autre moitie de mes cent mille francs.'",2178,aligned,201952,202184,-1,-1,"Ce gout et cette economie valaient pourtant juste cinquante mille francs. Chevaux, voitures, bals, auxquels etaient invitees Hortense, Lisette, Cleopatre (d'assez belles femmes), avaient pris l'autre moitie de mes cent mille francs. ",
+"""Also, we gave a couple of balls evening parties attended by Hortense and Lisette and Cl opatre, who were women remarkable both for the number of their liaisons and (though only in some cases) for their good looks.""",(No direct equivalent in text),2179,not aligned,-1,-1,288211,288424,,"Also, we gave a couple of balls evening parties attended by Hortense
+and Lisette and Cl opatre, who were women remarkable both for the
+number of their liaisons and (though only in some cases) for their good
+looks. "
+"""\""C est un utchitel,\"" Blanche would say of me, \""qui a gagn deux cent mille francs, and but for me, would have had not a notion how to spend them. Presently he will have to return to his tutoring. Does any one know of a vacant post? You know, one must do something for him.\""""","'-- C'est un outchitel, disait Blanche. Il a gagne deux cent mille francs, et sans moi il n'aurait pas su les depenser. Dans quelques jours il redeviendra outchitel. Connaissez-vous une place qui lui convienne ? Il faut faire quelque chose pour lui !'",2182,aligned,202736,202985,-1,-1,"-- C'est un outchitel, disait Blanche. Il a gagne deux cent mille francs, et sans moi il n'aurait pas su les depenser. Dans quelques jours il redeviendra outchitel. Connaissez-vous une place qui lui convienne ? Il faut faire quelque chose pour lui !
+",
+"""\""Mais sais-tu mais dis donc, are you _really_ rich? Mais sais-tu, you have too much contempt for money. Qu est-ce que tu feras apr s, dis donc?\""""","'-- Mais... sais-tu ?... mais, dis donc, tu es donc riche ? Sais-tu ? tu meprises tout de meme trop l'argent. Que feras-tu ensuite, hein ?'",2183,aligned,205612,205749,-1,-1,"-- Mais... sais-tu ?... mais, dis donc, tu es donc riche ? Sais-tu ? tu meprises tout de meme trop l'argent. Que feras-tu ensuite, hein ?
+",
+"""\""Apr s I shall go to Homburg, and win another hundred thousand francs.\""""","'-- Apres ? J'irai a Hombourg, et je gagnerai encore cent mille francs.'",2184,aligned,205751,205821,-1,-1,"-- Apres ? J'irai a Hombourg, et je gagnerai encore cent mille francs.
+",
+"""\""Oui, oui, c est a, c est magnifique! Ah, I know you will win them, and bring them to me when you have done so. Dis donc you will end by making me love you. Since you are what you are, I mean to love you all the time, and never to be unfaithful to you. You see, I have not loved you before parce que je croyais que tu n es qu un utchitel (quelque chose comme un lacquais, n est-ce pas?) Yet all the time I have been true to you, parce que je suis bonne fille.\""""","'-- Oui, oui, c'est ca, c'est magnifique. Je suis convaincue que tu les gagneras... et que tu les apporteras ici !... Dis donc, mais je finirai par t'aimer pour tout de bon ! Puisque tu es ainsi, je t'aimerai et je te promets de ne pas te faire une seule infidelite. Vois-tu, je ne t'aimais pas jusqu'a present, parce que je croyais que tu n'etais qu'un outchitel, quelque chose comme un laquais, n'est-ce pas ? Et, pourtant, je t'ai toujours ete fidele parce que je suis bonne fille.'",2185,aligned,205823,206306,-1,-1,"-- Oui, oui, c'est ca, c'est magnifique. Je suis convaincue que tu les gagneras... et que tu les apporteras ici !... Dis donc, mais je finirai par t'aimer pour tout de bon ! Puisque tu es ainsi, je t'aimerai et je te promets de ne pas te faire une seule infidelite. Vois-tu, je ne t'aimais pas jusqu'a present, parce que je croyais que tu n'etais qu'un outchitel, quelque chose comme un laquais, n'est-ce pas ? Et, pourtant, je t'ai toujours ete fidele parce que je suis bonne fille.
+",
+"""Already I had learnt that, after our unexpected departure from Roulettenberg, he had had a sort of a fit that he had fallen into a swoon, and spent a week in a species of garrulous delirium.""",(No direct equivalent in text),2188,not aligned,-1,-1,297154,297344,,"Already I had learnt that, after
+our unexpected departure from Roulettenberg, he had had a sort of a
+fit that he had fallen into a swoon, and spent a week in a species of
+garrulous delirium. "
+"""Doctors had been summoned to him, but he had broken away from them, and suddenly taken a train to Paris.""",(No direct equivalent in text),2189,not aligned,-1,-1,297345,297449,,"Doctors had been summoned to him, but he had broken
+away from them, and suddenly taken a train to Paris. "
+"""To think clearly, or even to engage in any serious conversation, had now become impossible for him; he could only ejaculate after each word \""Hm!\"" and then nod his head in confirmation.""","'(On l'eut retrouvee chez Albert.) Il jetait autour de lui d'etranges regards, comme s'il cherchait quelque chose. Mais, n'apercevant rien, il perdait le souvenir de ce qu'il desirait et tombait en torpeur jusqu'au moment ou Blanche, gaie, vive, vetue a miracle, apparaissait, apres s'etre annoncee par un frais eclat de rire.'",2191,aligned,209334,209658,-1,-1,"On l'eut retrouvee chez Albert.) Il jetait autour de lui d'etranges regards, comme s'il cherchait quelque chose. Mais, n'apercevant rien, il perdait le souvenir de ce qu'il desirait et tombait en torpeur jusqu'au moment ou Blanche, gaie, vive, vetue a miracle, apparaissait, apres s'etre annoncee par un frais eclat de rire. ",
+"""Next, after remaining in this condition for an hour or two (this I remarked on two occasions when Blanche had gone out for the day probably to see Albert), he would begin to look about him, and to grow uneasy, and to hurry about with an air as though he had suddenly remembered something, and must try and find it; after which, not perceiving the object of his search, nor succeeding in recalling what that object had been, he would as suddenly relapse into oblivion, and continue so until the reappearance of Blanche merry, wanton, half-dressed, and laughing her strident laugh as she approached to pet him, and even to kiss him (though the latter reward he seldom received).""",(No direct equivalent in text),2197,not aligned,-1,-1,298540,299216,,"Next, after remaining in this condition
+for an hour or two (this I remarked on two occasions when Blanche had
+gone out for the day probably to see Albert), he would begin to look
+about him, and to grow uneasy, and to hurry about with an air as though
+he had suddenly remembered something, and must try and find it; after
+which, not perceiving the object of his search, nor succeeding in
+recalling what that object had been, he would as suddenly relapse into
+oblivion, and continue so until the reappearance of Blanche merry,
+wanton, half-dressed, and laughing her strident laugh as she approached
+to pet him, and even to kiss him (though the latter reward he seldom
+received). "
+"""\""You are good and clever,\"" she said to me towards the finish, \""and my one regret is that you are also so wrong-headed. You will _her_ be a rich man!\""""","'Peu s'en fallut, un jour, que je ne dusse employer la force pour l'empecher d'acheter une broche de sept cents francs qu'il avait vue au Palais-Royal et qu'il voulait, coute que coute, offrir a Blanche.'",2203,aligned,211021,211223,-1,-1,"Peu s'en fallut, un jour, que je ne dusse employer la force pour l'empecher d'acheter une broche de sept cents francs qu'il avait vue au Palais-Royal et qu'il voulait, coute que coute, offrir a Blanche. ",
+"""\""You lie!\"" I interrupted. \""Did I not see you, the other day, with Albert with that black-jowled officer?\""""","'-- Tu mens ! et Albert, ce petit officier basane ?... je l'ai bien vu.'",2208,aligned,206308,206378,-1,-1,"-- Tu mens ! et Albert, ce petit officier basane ?... je l'ai bien vu.
+",
+"""\""Oh, oh! Mais tu es \""""",'-- Oh ! oh ! mais tu es...',2209,aligned,206380,206406,-1,-1,"-- Oh ! oh ! mais tu es...
+",
+"""\""Yes, you are lying right enough. But what makes you suppose that I should be angry? Rubbish! Il faut que jeunesse se passe. Even if that officer were here now, I should refrain from putting him out of the room if I thought you really cared for him. Only, mind you, do not give him any of my money. You hear?\""""","'-- Allons ! allons ! ne mens pas. Crois-tu donc que je me fache pour si peu ? Je m'en moque. Je ne pouvais pas le chasser ; tu le connaissais avant que nous nous fussions vus, et tu l'aimes. Seulement, ne lui donne pas d'argent, entends-tu ?'",2210,aligned,206408,206649,-1,-1,"-- Allons ! allons ! ne mens pas. Crois-tu donc que je me fache pour si peu ? Je m'en moque. Je ne pouvais pas le chasser ; tu le connaissais avant que nous nous fussions vus, et tu l'aimes. Seulement, ne lui donne pas d'argent, entends-tu ?
+",
+"""\""You say, do you, that you would not be angry? Mais tu es un vrai philosophe, sais-tu? Oui, un vrai philosophe! Eh bien, je t aimerai, je t aimerai. Tu verras-tu seras content.\""""","'-- Alors, tu ne te faches pas pour cela non plus ? Mais tu es un vrai philosophe, sais-tu, un vrai philosophe ! s'ecria-t-elle toute transportee. Eh bien ! je t'aimerai, je t'aimerai, tu verras, tu seras content...'",2211,aligned,206651,206865,-1,-1,"-- Alors, tu ne te faches pas pour cela non plus ? Mais tu es un vrai philosophe, sais-tu, un vrai philosophe ! s'ecria-t-elle toute transportee. Eh bien ! je t'aimerai, je t'aimerai, tu verras, tu seras content...
+",
+"""The promised \"" toiles\"" I did not see, but in other respects she, to a certain extent, kept her word. Moreover, she introduced me to Hortense, who was a remarkable woman in her way, and known among us as Th r se Philosophe.""",(No direct equivalent in text),2213,not aligned,-1,-1,-1,-1,,
+"""At all events, Blanche bought herself articles to the tune of eighty thousand francs, and the rest sufficed just to meet our expenses of living.""",(No direct equivalent in text),2217,not aligned,-1,-1,294629,294773,,"At all events, Blanche bought herself
+articles to the tune of eighty thousand francs, and the rest sufficed
+just to meet our expenses of living. "
+"""\""I have purposely refrained from making you responsible for my bills or borrowings,\"" she said, \""for the reason that I am sorry for you. Any other woman in my place would have done so, and have let you go to prison. See, then, how much I love you, and how good-hearted I am! Think, too, what this accursed marriage with the General is going to cost me!\""""","'-- Je n'ai pas voulu te faire payer toutes les notes, me dit-elle ; j'ai eu pitie de toi. Remarque bien qu'une autre n'aurait pas eu tant de scrupules, et que tu serais a cette heure en prison. Tu vois bien que je t'aime et que je suis bonne. Mais, que ce maudit mariage va me couter !'",2219,aligned,207513,207798,-1,-1,"-- Je n'ai pas voulu te faire payer toutes les notes, me dit-elle ; j'ai eu pitie de toi. Remarque bien qu'une autre n'aurait pas eu tant de scrupules, et que tu serais a cette heure en prison. Tu vois bien que je t'aime et que je suis bonne. Mais, que ce maudit mariage va me couter !
+",
+"""It did so at the close of our month together, and I am bound to suppose that it was upon the ceremony that the last remnants of my money were spent.""",(No direct equivalent in text),2221,not aligned,-1,-1,295401,295549,,"It did so at the close of our
+month together, and I am bound to suppose that it was upon the ceremony
+that the last remnants of my money were spent. "
+"""It happened thus:""",(No direct equivalent in text),2223,not aligned,-1,-1,193999,194016,,"It happened thus:
+"
+"Scarcely a year and a half have passed, yet I am in a worse position than the meanest beggar.",(No direct equivalent in text),2247,not aligned,-1,-1,309087,309180,,"Scarcely a year and a half
+have passed, yet I am in a worse position than the meanest beggar. "
+"But to Roulettenberg I shall not go until next year, for they say it is bad to try one's luck twice in succession at a table. Moreover, Homburg is where the best play is carried on.",Peut-etre l'annee prochaine passerai-je une saison a Roulettenbourg ; mais on dit qu'il n'est pas bon de courir deux fois la chance a la meme table.,2253,aligned,216918,217066,-1,-1,"Peut-etre l'annee prochaine passerai-je une saison a Roulettenbourg ; mais on dit qu'il n'est pas bon de courir deux fois la chance a la meme table.
+",
+"Ah, at such moments one forgets both oneself and one's former failures! This I had gained by risking my very life. I had dared so to risk, and behold, again I was a member of mankind!","Oui, a ces moments-la, on oublie tous les insucces passes... J'avais risque ma vie, j'avais gagne, j'etais de nouveau un homme.",2257,aligned,220379,220506,-1,-1,"Oui, a ces moments-la, on oublie tous les insucces passes... J'avais risque ma vie, j'avais gagne, j'etais de nouveau un homme.
+",
+"Then, having given me a final handshake, she exclaimed, ""Attends! ""; whereafter, running into her boudoir, she brought me thence two thousand-franc notes.","Et, en me serrant une derniere fois la main, elle s'ecria : << Attends ! >> Elle courut dans son boudoir, et, un instant apres, elle m'apporta deux billets de mille francs.",2260,aligned,216163,216335,-1,-1,"Et, en me serrant une derniere fois la main, elle s'ecria : << Attends ! >> Elle courut dans son boudoir, et, un instant apres, elle m'apporta deux billets de mille francs. ",
+"I went and hired a room, I shut myself up in it, and sat counting my money until three o'clock in the morning.","Je louai une chambre, je m'enfermai, et, jusqu'a trois heures du matin je restai debout, occupe a compter mon argent.",2265,aligned,220508,220625,-1,-1,"Je louai une chambre, je m'enfermai, et, jusqu'a trois heures du matin je restai debout, occupe a compter mon argent.
+",
+"Consequently, I was in a position to try my luck again at roulette; and if I won anything I should be able to continue my play, whereas, if I lost what I now possessed, I should once more have to accept a lacquey's place, provided that, in the alternative, I failed to discover a Russian family which stood in need of a tutor.","Tout en revant a ces ennuis, je traversai la foret et passai dans la principaute voisine. ~~~ Il m'arrivait de marcher ainsi quatre heures de suite, et je revenais a Hombourg, harasse et affame.",2273,aligned,221598,221788,-1,-1,"Tout en revant a ces ennuis, je traversai la foret et passai dans la principaute voisine. Il m'arrivait de marcher ainsi quatre heures de suite, et je revenais a Hombourg, harasse et affame. ",
+"Plunged in these reflections, I started on my daily walk through the Park and forest towards a neighbouring principality. Sometimes, on such occasions, I spent four hours on the way, and would return to Homburg tired and hungry; but, on this particular occasion, I had scarcely left the gardens for the Park when I caught sight of Astley seated on a bench.",(No direct equivalent in text),2274,not aligned,-1,-1,315716,316072,,"Plunged in these reflections, I
+started on my daily walk through the Park and forest towards a
+neighbouring principality. Sometimes, on such occasions, I spent four
+hours on the way, and would return to Homburg tired and hungry; but, on
+this particular occasion, I had scarcely left the gardens for the Park
+when I caught sight of Astley seated on a bench. "
+He beamed with satisfaction as he did so.,(No direct equivalent in text),2296,not aligned,-1,-1,306490,306531,,"He beamed with satisfaction as he did
+so. "
+All thinking persons know that ancient truth.,(No direct equivalent in text),2304,not aligned,-1,-1,318110,318155,,"All thinking persons know that ancient
+truth. "
+"In fact, I will bet you a wager that I shall do so.""",(No direct equivalent in text),2323,not aligned,-1,-1,319847,319898,,"In fact, I will bet you a wager that I shall do so."""
+"When that hour shall come, you will see me arise from the dead.""",(No direct equivalent in text),2326,not aligned,-1,-1,319624,319687,,"When that hour shall come, you will see me arise from the dead."""
+I burst out with an involuntary sneer.,(No direct equivalent in text),2344,not aligned,-1,-1,320421,320459,,"I burst out with
+an involuntary sneer.
+"
+My interest in Mlle. Polina does not extend beyond her outward circumstances and surroundings.,(No direct equivalent in text),2345,not aligned,-1,-1,320936,321030,,"My interest in Mlle. Polina does not
+extend beyond her outward circumstances and surroundings. "
+"Astley said this with a firm, and even an angry, air.",(No direct equivalent in text),2359,not aligned,-1,-1,320312,320365,,"Astley said this with a firm, and even an angry,
+air.
+"
+"""The more she may detest the present De Griers, the more will she lament the De Griers of the past even though the latter never existed but in her own imagination.""",return (No direct equivalent in text),2368,aligned,-1,-1,325901,326063,,"The more she may detest the
+present De Griers, the more will she lament the De Griers of the
+past even though the latter never existed but in her own imagination.
+"
+"That is a fact, and it shows what a last remaining golden can do....",C'est un fait !,2411,aligned,234224,234239,-1,-1,C'est un fait ! ,
+"Well, I won the stake, and in twenty minutes had left the Casino with a hundred and seventy golden in my pocket!","J'ai gagne, et, vingt minutes apres, je sortais avec cent soixante-dix florins dans ma poche.",2412,aligned,234130,234223,-1,-1,"J'ai gagne, et, vingt minutes apres, je sortais avec cent soixante-dix florins dans ma poche. ",

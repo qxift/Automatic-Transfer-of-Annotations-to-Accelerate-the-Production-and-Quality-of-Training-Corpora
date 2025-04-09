@@ -1,0 +1,57 @@
+{
+  "fields": [
+    {
+      "name": "eng",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "fr",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "id",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "llm alignment result",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "phrase_startByte_fr",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "phrase_endByte_fr",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "phrase_startByte_eng",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "phrase_endByte_eng",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "extracted_text_fr",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "extracted_text_eng",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
