@@ -1,0 +1,258 @@
+eng,fr,id,llm alignment result,phrase_startByte_fr,phrase_endByte_fr,phrase_startByte_eng,phrase_endByte_eng,extracted_text_fr,extracted_text_eng
+"Weak if we were and foolish, not thus we failed, not thus; When that black Baal blocked the heavens he had no hymns from us (No direct equivalent in text)",(No direct equivalent in text),1,not aligned,-1,-1,-1,-1,,
+They twisted even decent sin to shapes not to be named: Men were ashamed of honour; but we were not ashamed. (No direct equivalent in text),(No direct equivalent in text),2,not aligned,-1,-1,-1,-1,,
+"Life was a fly that faded, and death a drone that stung; The world was very old indeed when you and I were young. (No direct equivalent in text)",(No direct equivalent in text),3,not aligned,-1,-1,-1,-1,,
+"Like the white lock of Whistler, that lit our aimless gloom, Men showed their own white feather as proudly as a plume. (No direct equivalent in text)",(No direct equivalent in text),4,not aligned,-1,-1,-1,-1,,
+"Round us in antic order their crippled vices came Lust that had lost its laughter, fear that had lost its shame. (No direct equivalent in text)",(No direct equivalent in text),5,not aligned,-1,-1,-1,-1,,
+Science announced nonentity and art admired decay; The world was old and ended: but you and I were gay; (No direct equivalent in text),(No direct equivalent in text),6,not aligned,-1,-1,-1,-1,,
+"Children we were our forts of sand were even as weak as we, High as they went we piled them up to break that bitter sea. (No direct equivalent in text)",(No direct equivalent in text),7,not aligned,-1,-1,-1,-1,,
+"A cloud was on the mind of men, and wailing went the weather, Yea, a sick cloud upon the soul when we were boys together. (No direct equivalent in text)",(No direct equivalent in text),8,not aligned,-1,-1,-1,-1,,
+"Fools as we were in motley, all jangling and absurd, When all church bells were silent our cap and bells were heard. (No direct equivalent in text)",(No direct equivalent in text),17,not aligned,-1,-1,-1,-1,,
+"I find again the book we found, I feel the hour that flings Far out of fish-shaped Paumanok some cry of cleaner things; (No direct equivalent in text)",(No direct equivalent in text),18,not aligned,-1,-1,-1,-1,,
+To Edmund Clerihew Bentley (No direct equivalent in text),(No direct equivalent in text),19,not aligned,-1,-1,-1,-1,,
+G. K. C. CHAPTER I. (No direct equivalent in text),(No direct equivalent in text),20,not aligned,-1,-1,-1,-1,,
+"We have found common things at last and marriage and a creed, And I may safely write it now, and you may safely read. (No direct equivalent in text)",(No direct equivalent in text),21,not aligned,-1,-1,-1,-1,,
+"Between us, by the peace of God, such truth can now be told; Yea, there is strength in striking root and good in growing old. (No direct equivalent in text)",(No direct equivalent in text),22,not aligned,-1,-1,-1,-1,,
+"The doubts that drove us through the night as we two talked amain, And day had broken on the streets e'er it broke upon the brain. (No direct equivalent in text)",(No direct equivalent in text),23,not aligned,-1,-1,-1,-1,,
+"The doubts that were so plain to chase, so dreadful to withstand Oh, who shall understand but you; yea, who shall understand? (No direct equivalent in text)",(No direct equivalent in text),24,not aligned,-1,-1,-1,-1,,
+"Not all unhelped we held the fort, our tiny flags unfurled; Some giants laboured in that cloud to lift it from the world. (No direct equivalent in text)",(No direct equivalent in text),25,not aligned,-1,-1,-1,-1,,
+"Of what colossal gods of shame could cow men and yet crash, Of what huge devils hid the stars, yet fell at a pistol flash. (No direct equivalent in text)",(No direct equivalent in text),26,not aligned,-1,-1,-1,-1,,
+"We have seen the City of Mansoul, even as it rocked, relieved Blessed are they who did not see, but being blind, believed. (No direct equivalent in text)",(No direct equivalent in text),27,not aligned,-1,-1,-1,-1,,
+God and the good Republic come riding back in arms: (No direct equivalent in text),(No direct equivalent in text),28,not aligned,-1,-1,-1,-1,,
+But we were young; we lived to see God break their bitter charms. (No direct equivalent in text),(No direct equivalent in text),29,not aligned,-1,-1,-1,-1,,
+"Yea, cool and clear and sudden as a bird sings in the grey, Dunedin to Samoa spoke, and darkness unto day. (No direct equivalent in text)",(No direct equivalent in text),30,not aligned,-1,-1,-1,-1,,
+Or sane and sweet and sudden as a bird sings in the rain Truth out of Tusitala spoke and pleasure out of pain. (No direct equivalent in text),(No direct equivalent in text),31,not aligned,-1,-1,-1,-1,,
+"And the Green Carnation withered, as in forest fires that pass, Roared in the wind of all the world ten million leaves of grass; (No direct equivalent in text)",(No direct equivalent in text),32,not aligned,-1,-1,-1,-1,,
+"This is a tale of those old fears, even of those emptied hells, And none but you shall understand the true thing that it tells (No direct equivalent in text)",(No direct equivalent in text),33,not aligned,-1,-1,-1,-1,,
+A NIGHTMARE (No direct equivalent in text),(No direct equivalent in text),70,not aligned,-1,-1,-1,-1,,
+THE TWO POETS OF SAFFRON PARK (No direct equivalent in text),(No direct equivalent in text),71,not aligned,-1,-1,-1,-1,,
+"'It is to me indeed Victoria'; it is the victory of Adam.""",(No direct equivalent in text),105,not aligned,-1,-1,11861,11918,,"It is to me indeed  Victoria'; it
+is the victory of Adam."""
+"When you say 'thank you' for the salt, do you mean what you say?","'Quand vous dites : << Merci ! >> a la personne qui vous passe le sel, pensez-vous ce que vous dites ?'",136,aligned,13338,13439,-1,-1,"Quand vous dites : << Merci ! >> a la personne qui vous passe le sel, pensez-vous ce que vous dites ? ",
+"When you say 'the world is round,' do you mean what you say?","'Quand vous dites : << La terre est ronde, >> pensez-vous ce que vous dites ?'",138,aligned,13440,13516,-1,-1,"Quand vous dites : << La terre est ronde, >> pensez-vous ce que vous dites ? ",
+The heavy hinges began to move; it was obviously some kind of password.,Les gonds puissants se mirent a tourner.  C'etait evidemment le mot de passe.,267,aligned,-1,-1,26653,26724,,"The heavy hinges began to move; it was obviously some
+kind of password.
+"
+'Gregory went on.',(No direct equivalent in text),304,not aligned,-1,-1,30761,30777,,"Gregory went
+on.
+"
+I was misinformed.,(No direct equivalent in text),328,not aligned,-1,-1,31174,31192,,"I was
+misinformed. "
+"""I feel somehow as if you were my mother, Syme,"" he continued casually.",(No direct equivalent in text),355,not aligned,-1,-1,34461,34531,,"I feel somehow as if you were my mother, Syme,"" he continued casually.
+"
+"""My dear fellow,"" said Syme heartily, ""I congratulate you. A great career!""","Mon cher ami ! s'ecria Syme cordialement, je vous felicite ! Quelle belle carriere !",366,aligned,36292,36376,-1,-1,"Mon cher ami ! s'ecria Syme cordialement, je vous felicite ! Quelle belle carriere !
+",
+Little was to be hoped from them.,(No direct equivalent in text),438,not aligned,-1,-1,41662,41695,,Little was to be hoped from them. 
+(No direct equivalent in text),Nous sommes des fous ?,477,not aligned,49432,49454,-1,-1,Nous sommes des fous ? ,
+"Suppose (I would say to him), suppose that we are only repeating that still mysterious paradox of history.","Admettez, lui dirais-je, supposez pour un instant que nous nous bornons a reproduire ce grand paradoxe historique qui est un mystere aujourd'hui encore.",478,aligned,49160,49312,-1,-1,"Admettez, lui dirais-je, supposez pour un instant que nous nous bornons a reproduire ce grand paradoxe historique qui est un mystere aujourd'hui encore. ",
+"We are simple, as they were simple; look at Comrade Witherspoon.",Nous sommes simples comme ils etaient simples ; voyez plutot le camarade Witherspoon !,488,aligned,50344,50430,-1,-1,Nous sommes simples comme ils etaient simples ; voyez plutot le camarade Witherspoon ! ,
+"We are modest, as they were modest; look at me.",Nous sommes modestes comme ils etaient modestes : voyez-moi !,489,aligned,50431,50492,-1,-1,Nous sommes modestes comme ils etaient modestes : voyez-moi ! ,
+We are merciful and kind...,Nous sommes pleins d'indulgence et de bonte...,490,aligned,50493,50539,-1,-1,"Nous sommes pleins d'indulgence et de bonte...
+",
+"Do we line these walls with weapons and bar that door with death lest anyone should come and hear Comrade Gregory saying to us, 'Be good, and you will be happy,' 'Honesty is the best policy,' and 'Virtue is its own reward'?","'Avons-nous fait de ces murs un ratelier d'armes, avons-nous barricade cette porte avec des engins de mort pour empecher les gens de venir ecouter les homelies du camarade Gregory ? << Soyez bons et vous serez heureux...'",502,aligned,53010,53229,-1,-1,"Avons-nous fait de ces murs un ratelier d'armes, avons-nous barricade cette porte avec des engins de mort pour empecher les gens de venir ecouter les homelies du camarade Gregory ? << Soyez bons et vous serez heureux... ",
+"We are the enemies of society, for society is the enemy of humanity, its oldest and its most pitiless enemy (hear, hear).",(No direct equivalent in text),514,not aligned,-1,-1,50689,50810,,"We are the enemies of
+society, for society is the enemy of humanity, its oldest and its most
+pitiless enemy (hear, hear). "
+"""In our society, at any rate, which loves him sincerely, which is founded upon love...""","'Dans notre societe du moins ou il est aime, dans notre societe qui est fondee sur l'amour...'",518,aligned,50992,51084,-1,-1,"Dans notre societe du moins ou il est aime, dans notre societe qui est fondee sur l'amour...
+",
+"But louder than Gregory's shouting and louder than the roar of the room came the voice of Syme, still speaking in a peal of pitiless thunder ""I do not go to the Council to rebut that slander that calls us murderers; I go to earn it (loud and prolonged cheering).","-- Halte-la ! Mais Syme reprit la parole, en criant plus fort que la clameur de l'assistance. -- Je n'irai pas au Conseil pour refuter la calomnie qui fait de vous des assassins : j'irai pour la meriter moi-meme. ~~~ (Applaudissements nourris et prolonges.)",534,aligned,-1,-1,52946,53210,,"But louder than Gregory's shouting and louder than the roar of the room
+came the voice of Syme, still speaking in a peal of pitiless thunder 
+
+""I do not go to the Council to rebut that slander that calls us
+murderers; I go to earn it (loud and prolonged cheering). "
+"""The question is that Comrade Syme """,(No direct equivalent in text),557,not aligned,-1,-1,54856,54889,,The question is that Comrade Syme 
+"Do not elect this man.""",(No direct equivalent in text),582,not aligned,-1,-1,55386,55408,,"Do
+not elect this man."""
+"""You are a man of honour, and I thank you.",(No direct equivalent in text),602,not aligned,-1,-1,58565,58606,,"You are a man of honour, and I thank you. "
+It looked like a stream of literal fire winding under the vast caverns of a subterranean country.,(No direct equivalent in text),625,not aligned,-1,-1,61956,62053,,"It looked like a stream of literal fire winding under the
+vast caverns of a subterranean country.
+"
+The policeman sighed and shook his head.,(No direct equivalent in text),656,not aligned,-1,-1,64131,64171,,"The policeman sighed and shook his head.
+"
+"""Telephone?"" inquired Syme, with interest.",(No direct equivalent in text),752,not aligned,-1,-1,72836,72877,,"Telephone?"" inquired Syme, with interest.
+"
+"""They say we are a lot of jolly gentlemen who pretend they are anarchists.""",(No direct equivalent in text),823,not aligned,-1,-1,82623,82696,,"They say we are
+a lot of jolly gentlemen who pretend they are anarchists."""
+"""Now when you were found under Admiral Biffin's bed...""","'Or, quand on vous trouva sous le lit de l'amiral Biffin...'",909,aligned,97759,97817,-1,-1,"Or, quand on vous trouva sous le lit de l'amiral Biffin...
+",
+Mais son salut n'exigeait certainement pas moins.,(No direct equivalent in text),1009,not aligned,-1,-1,-1,-1,,
+It never occurred to him to be spiritually won over to the enemy.,(No direct equivalent in text),1014,not aligned,-1,-1,101936,102001,,"It never occurred to
+him to be spiritually won over to the enemy. "
+"I suggest Comrade Saturday, Dr. Bull.""",(No direct equivalent in text),1091,not aligned,-1,-1,110648,110685,,"I suggest Comrade Saturday, Dr. Bull."""
+He would find out at least if the President was mortal.,(No direct equivalent in text),1102,not aligned,-1,-1,111342,111397,,"He would find out at
+least if the President was mortal.
+"
+~~~,~~~,1136,aligned,-1,-1,-1,-1,,
+said the late Gogol.,(No direct equivalent in text),1144,not aligned,-1,-1,113758,113778,,said the late Gogol. 
+It was quite strange that any human being should stand in such weather observing such a shop.,Il etait assez etrange qu'un etre humain quelconque se tint par un pareil temps en observation devant une telle boutique.,1185,aligned,129091,129212,-1,-1,Il etait assez etrange qu'un etre humain quelconque se tint par un pareil temps en observation devant une telle boutique. ,
+"But the old man could only walk like a snail, and Syme had walked like the wind!","~~~ Mais quoi ? Le vieillard n'allait guere plus vite qu'un escargot, et Syme avait file comme le vent ! ~~~",1222,aligned,133973,134076,-1,-1," Mais quoi ? Le vieillard n'allait guere plus vite qu'un escargot, et Syme avait file comme le vent !
+
+A",
+"He moved by inches, he let himself down with little gasps of caution.",(No direct equivalent in text),1242,not aligned,-1,-1,124278,124347,,"He moved by inches, he let himself down with little gasps of
+caution. "
+"Concealment was impossible now; and looking back over his shoulder, he could see the black figure of the old gentleman coming after him with long, swinging strides like a man winning a mile race.","Impossible maintenant de se cacher. En se retournant, il put voir le vieillard qui le poursuivait a grandes enjambees. ~~~ On eut dit deux hommes se defiant a la course. (The last part is a partial match, describing the chase)",1274,aligned,-1,-1,129426,129621,,"Concealment was
+impossible now; and looking back over his shoulder, he could see the
+black figure of the old gentleman coming after him with long, swinging
+strides like a man winning a mile race. "
+Perhaps it was a ritual.,(No direct equivalent in text),1299,not aligned,-1,-1,131307,131331,,Perhaps it was a ritual. 
+"Perhaps the new Thursday was always chased along Cheapside, as the new Lord Mayor is always escorted along it.",(No direct equivalent in text),1300,not aligned,-1,-1,131332,131442,,"Perhaps the new
+Thursday was always chased along Cheapside, as the new Lord Mayor is
+always escorted along it. "
+"""You swear it! You swear it!",'Vous le jurez ? ~~~ repeta le professeur.',1310,aligned,-1,-1,133611,133638,,You swear it! You swear it! 
+"""Your suggestion is ridiculous,"" he began. ""Why on earth...""","'-- Votre supposition est ridicule, dit-il, pourquoi, jamais...?...'",1316,aligned,-1,-1,-1,-1,,
+"""Why?""",(No direct equivalent in text),1362,not aligned,-1,-1,140383,140387,,"Why?"""
+"""If we had been three hundred we could still have done nothing.""",(No direct equivalent in text),1381,not aligned,-1,-1,138819,138881,,"If we had been three hundred we could still
+have done nothing."""
+"""Young man,"" said the Professor pleasantly, ""I am amused to observe that you think I am a coward.  As to that I will say only one word, and that shall be entirely in the manner of your own philosophical rhetoric. You think that it is possible to pull down the President. I know that it is impossible, and I am going to try it,""","'Jeune homme, repondit le professeur avec gaite, je vois que vous me prenez pour un lache, et cela m'amuse. Je ne vous dirai qu'un mot, un mot tout a fait dans le gout de votre rhetorique philosophique : vous croyez qu'il est possible d'abattre le President ; je sais que c'est impossible, et je vais essayer de le faire.'",1407,aligned,154322,154642,-1,-1,"Jeune homme, repondit le professeur avec gaite, je vois que vous me prenez pour un lache, et cela m'amuse. Je ne vous dirai qu'un mot, un mot tout a fait dans le gout de votre rhetorique philosophique : vous croyez qu'il est possible d'abattre le President ; je sais que c'est impossible, et je vais essayer de le faire.
+",
+"""Dr. Bull!"" exclaimed Syme.",(No direct equivalent in text),1418,not aligned,-1,-1,143809,143835,,"Dr. Bull!"" exclaimed Syme. "
+"Un vieil hotel recrepi, mais delabre, occupait ce retrait, a vingt pas de la rue. -- (No direct equivalent in text)","Un vieil hotel recrepi, mais delabre, occupait ce retrait, a vingt pas de la rue.",1440,aligned,156976,157057,-1,-1,"Un vieil hotel recrepi, mais delabre, occupait ce retrait, a vingt pas de la rue.
+",
+It seemed that an impertinent fellow had dressed himself up as a preposterous parody of myself.,J'appris qu'un impertinent osait me parodier.,1487,aligned,-1,-1,149670,149765,,"It seemed
+that an impertinent fellow had dressed himself up as a preposterous
+parody of myself. "
+Don't you notice his detestable virility and vitality?,"N'avez-vous pas remarque sa virilite, sa vitalite detestable ?",1539,aligned,168891,168953,-1,-1,"N'avez-vous pas remarque sa virilite, sa vitalite detestable ? ",
+"You should hear me say, 'Buck up, old cock!' It would bring tears to your eyes.","Ah ! ~~~ si vous m'entendiez dire : << Allons ! vieux coq ! ~~~ courage ! >>, vous en auriez les larmes aux yeux.",1547,aligned,167257,167362,-1,-1,"Ah ! si vous m'entendiez dire : << Allons ! vieux coq ! courage ! >>, vous en auriez les larmes aux yeux.
+",
+"""Lush' too,"" said Syme, shaking his head sagaciously, ""we must have 'lush' word applied to grass, don't you know?""","-- Mon mot favori est << contemporain >> ; quel est le votre ? Il nous faut aussi le mot << luisant >> poursuivit Syme en hochant la tete d'un air capable. Cela se dit de l'herbe, vous savez ?",1557,aligned,170572,170764,-1,-1,"-- Mon mot favori est << contemporain >> ; quel est le votre ? Il nous faut aussi le mot << luisant >> poursuivit Syme en hochant la tete d'un air capable. Cela se dit de l'herbe, vous savez ?
+",
+"What's yours?""",(No direct equivalent in text),1559,not aligned,-1,-1,157737,157750,,"What's yours?"""
+My favourite word is 'coeval'.,(No direct equivalent in text),1561,not aligned,-1,-1,-1,-1,,
+"'I suppose we could not extend it from the fingers to the toes? That would involve pulling off our boots and socks during the conversation, which however unobtrusively performed...'","'Ne pourrions-nous pas nous servir des doigts des pieds comme de ceux des mains ? Il nous suffirait d'oter discretement nos chaussures et nos chaussettes pendant la conversation, et alors...'",1575,aligned,171483,171672,-1,-1,"Ne pourrions-nous pas nous servir des doigts des pieds comme de ceux des mains ? Il nous suffirait d'oter discretement nos chaussures et nos chaussettes pendant la conversation, et alors...
+",
+"""Syme said, ""I am a poet.""'",'-- Je suis un poete.',1667,aligned,-1,-1,168976,169000,,"Syme said, ""I am a poet."""
+"The young man called Bull, with an innocent courtesy characteristic of him, insisted on going last until they reached the street; but there his own robust rapidity asserted itself unconsciously, and he walked quickly on ahead towards a railway inquiry office, talking to the others over his shoulder.","'Avec la politesse qui le caracterisait, Bull avait fait passer les premiers ses compagnons dans l'escalier. ... Mais, dans la rue, sa juvenile impatience l'emporta, et il les preceda en se dirigeant vers un bureau d'informations de chemin de fer. ... Tout en marchant :'",1702,aligned,-1,-1,173607,173907,,"The young man called Bull, with an innocent courtesy characteristic of
+him, insisted on going last until they reached the street; but there
+his own robust rapidity asserted itself unconsciously, and he walked
+quickly on ahead towards a railway inquiry office, talking to the
+others over his shoulder.
+"
+The Professor still feared that all was lost; but he was loyal. He pulled out his own official card and put it beside his friend's.,'Le professeur fit le geste qui signifie : Tout est perdu ! ... Mais il etait loyal. Il tira sa carte de sa poche et la deposa tranquillement a cote de celle de Syme.',1711,aligned,-1,-1,172387,172518,,"The Professor still feared that all was lost; but he was loyal. He
+pulled out his own official card and put it beside his friend's. "
+"""Why, by God,"" said Syme, ""I'll take the risk of that myself! Dr. Bull, I am a police officer. There's my card,"" and he flung down the blue card upon the table.","'-- Par Dieu ! ... reprit Syme, j'en veux courir le risque. Docteur Bull, je suis de la police, voici ma carte. Et il jeta la carte bleue sur la table.'",1720,aligned,-1,-1,172226,172385,,"Why, by God,"" said Syme, ""I'll take the risk of that myself! Dr. Bull,
+I am a police officer. There's my card,"" and he flung down the blue
+card upon the table.
+"
+I am going to profit by the fact that he has many friends and moves in the best society.,(No direct equivalent in text),1793,not aligned,-1,-1,181192,181280,,"I am going to profit by the fact that he has many
+friends and moves in the best society."""
+"""Syme, who had now taken the lead as Bull had taken it in London, led them along a kind of marine parade until he came to some cafés, embowered in a bulk of greenery and overlooking the sea.""","'et Syme prit la direction, comme Bull l'avait prise a Londres. Il fit suivre a ses amis le boulevard qui longe la mer et les mena en vue de quelques cafes enfonces dans la verdure et dominant le rivage.'",1811,aligned,197337,197540,-1,-1,"et Syme prit la direction, comme Bull l'avait prise a Londres.
+
+Il fit suivre a ses amis le boulevard qui longe la mer et les mena en vue de quelques cafes enfonces dans la verdure et dominant le rivage. ",
+"""This seems most extraordinary,"" said the gentleman who was _d cor_, looking doubtfully at the Marquis.","-- Cela m'a l'air bien extraordinaire, fit le monsieur decore en regardant le marquis d'un air interrogateur.",1860,aligned,204291,204400,-1,-1,"-- Cela m'a l'air bien extraordinaire, fit le monsieur decore en regardant le marquis d'un air interrogateur.
+",
+"'Lui serait-il possible de jeter sa bombe, a Paris, en temps utile ?'",(No direct equivalent in text),1906,not aligned,-1,-1,-1,-1,,
+In twenty minutes the Paris train would have gone by.,(No direct equivalent in text),1914,not aligned,-1,-1,193709,193762,,"In
+twenty minutes the Paris train would have gone by.
+"
+The principals saluted.,(No direct equivalent in text),1928,not aligned,-1,-1,195128,195151,,The principals saluted. 
+But there was no scar.,(No direct equivalent in text),1979,not aligned,-1,-1,199653,199675,,"But there was no scar.
+"
+"The four witnesses were motionless and silent, like Syme.","Les quatre temoins etaient immobiles et silencieux, comme Syme.",2000,aligned,221290,221353,-1,-1,"Les quatre temoins etaient immobiles et silencieux, comme Syme. ",
+"""You great silly, pink-faced, towheaded turnip! You """,(No direct equivalent in text),2014,not aligned,-1,-1,205130,205180,,"You great silly, pink-faced, towheaded turnip! You "
+"It may be my literary fancy, but somehow I feel that it ought to mean something.",Peut-etre n'est-ce chez moi qu'une fantaisie professionnelle d'homme de lettres -- que cela doit avoir un sens.,2031,aligned,-1,-1,206248,206328,,"It may be my literary fancy, but somehow I feel that it
+ought to mean something."""
+"""Why, as a matter of fact...""","Voyons, au fait...",2061,aligned,228221,228239,-1,-1,"Voyons, au fait... ",
+"With two impatient strides he overtook the man in the Marquis's straw hat, the man whom he had come to address as Ratcliffe.","En deux bonds, il rejoignit l'homme qui portait le chapeau de paille du marquis, l'homme qu'il avait appris a appeler Ratcliff.",2143,aligned,-1,-1,217982,218106,,"With two impatient strides he overtook the man in the
+Marquis's straw hat, the man whom he had come to address as Ratcliffe.
+"
+"""But he might be out.""",(No direct equivalent in text),2249,not aligned,-1,-1,231370,231390,,"But he might be out."""
+This with some difficulty they brought round into the street before the Doctor's house.,(No direct equivalent in text),2285,not aligned,-1,-1,235193,235280,,"This with some difficulty they brought round into the
+street before the Doctor's house. "
+"""""The devils are coming on!""",(No direct equivalent in text),2396,not aligned,-1,-1,246721,246746,,"The devils are coming on!"""
+and buried his face in his hands.,(No direct equivalent in text),2419,not aligned,-1,-1,249350,249383,,"and buried his face in his
+hands.
+"
+"and foremost of all rode the good innkeeper, flushed with the fiery innocence of the evening light.",(No direct equivalent in text),2422,not aligned,-1,-1,249206,249305,,"and foremost of all rode the good
+innkeeper, flushed with the fiery innocence of the evening light.
+"
+Dr. Bull tossed his sword into the sea.,'-- Le docteur Bull lanca son epee dans la mer.',2546,aligned,-1,-1,259149,259188,,"Dr. Bull tossed his sword into the sea.
+"
+"""This is more cheerful,"" said Dr. Bull; ""we are six men going to ask one man what he means.""","-- Ca va bien ! dit Bull. -- Nous sommes six, et nous allons demander a un seul homme ce qu'il veut.",2590,aligned,-1,-1,263375,263465,,"This is more cheerful,"" said Dr. Bull; ""we are six men going to ask
+one man what he means."""
+"""I think it is six men going to ask one man what they mean.""",(No direct equivalent in text),2592,not aligned,-1,-1,263521,263579,,"I think it is six
+men going to ask one man what they mean."""
+"Sunday leant forward, seized it, and jerked it violently out of the man's hand.",(No direct equivalent in text),2637,not aligned,-1,-1,268900,268979,,"Sunday leant
+forward, seized it, and jerked it violently out of the man's hand. "
+"One was addressed to himself, and the other to Dr. Bull, with a very long, and it is to be feared partly ironical, string of letters after his name.",(No direct equivalent in text),2643,not aligned,-1,-1,269897,270045,,"One was addressed to himself,
+and the other to Dr. Bull, with a very long, and it is to be feared
+partly ironical, string of letters after his name. "
+And here there occurred what seemed to the allies a providential stoppage.,(No direct equivalent in text),2649,not aligned,-1,-1,270767,270841,,"And here there occurred what seemed to the allies a
+providential stoppage. "
+"Through street after street and square after square went whirling this preposterous vehicle, in which the fare was urging the horse and the driver trying desperately to stop it.",(No direct equivalent in text),2651,not aligned,-1,-1,269120,269297,,"Through
+street after street and square after square went whirling this
+preposterous vehicle, in which the fare was urging the horse and the
+driver trying desperately to stop it. "
+"I am the man in the dark room, who made you all policemen.""",(No direct equivalent in text),2655,not aligned,-1,-1,267554,267612,,"I am the man in
+the dark room, who made you all policemen."""
+"""He'll be out of the gate!"" screamed the populace.",'criait la foule. Il va sortir du Jardin !,2699,aligned,300631,300672,-1,-1,"criait la foule. Il va sortir du Jardin !
+",
+Do,(No direct equivalent in text),2737,not aligned,-1,-1,13661,13663,,Don
+"""Look over there!""",(No direct equivalent in text),2739,not aligned,-1,-1,280020,280036,,"Look over there!"""
+"""What is there queer about a captive balloon?""","'-- Et pourquoi regarderais-je le ballon captif ? Qu'a-t-il de particulier, ce ballon captif ?' (Note: This English sentence shares a close semantic relation with the second French sentence.  A perfect one-to-one alignment is impossible without rewording.)",2743,aligned,-1,-1,280232,280276,,"What is there queer about a captive balloon?"""
+"""He's got into it!"" shrieked the Secretary.","""hurla le secretaire, il y est monte !""",2748,aligned,305892,305929,-1,-1,"hurla le secretaire, il y est monte !
+",
+"""We always think of fat people as heavy, but he could have danced against a sylph.""",'-- Il est naturel qu'un gros homme soit lourd. Celui-la danserait plus legerement qu'un sylphe.',2765,aligned,-1,-1,284070,284151,,"We always think of fat people as heavy, but
+he could have danced against a sylph. "
+"""I see now what I mean. Moderate strength is shown in violence, supreme strength is shown in levity.""","'-- Oui, je vois maintenant ce qu'il faut dire : une force moyenne se manifeste par la violence ; une force supreme se manifeste par la legerete.'",2766,aligned,-1,-1,284152,284251,,"I see now what I mean. Moderate
+strength is shown in violence, supreme strength is shown in levity. "
+"""It was like the old speculations what would happen if an elephant could leap up in the sky like a grasshopper?""","'-- Vous rappelez-vous ces questions qu'on aimait a discuter, jadis, comme : << Qu'arriverait-il si un elephant sautait en l'air comme une sauterelle ? >>'",2767,aligned,-1,-1,284252,284362,,"It
+was like the old speculations what would happen if an elephant could
+leap up in the sky like a grasshopper?"""
+"""Shall I make it clear if I say that I liked him because he was so fat?""",'-- Serai-je plus clair en disant que je l'aime d'etre si gros ?',2770,aligned,-1,-1,283864,283934,,"Shall I make it clear if I
+say that I liked him because he was so fat?"""
+"""There is a kind of gaiety in the thing, as if he were bursting with some good news.""","'-- Il y a, dans tout cela, je ne sais quelle gaite superieure. C'est comme s'il devait nous apporter d'heureuses nouvelles...'",2771,aligned,-1,-1,284597,284680,,"There is a kind of gaiety in the thing, as if he were bursting
+with some good news. "
+"""I never read the Bible myself, but that part they laugh at is literal truth, 'Why leap ye, ye high hills?' The hills do leap at least, they try to....""","'-- Je n'ai jamais lu la Bible, quant a moi, mais ce passage dont on s'est tant moque : << Pourquoi sautez-vous, collines elevees ? >> recele une verite litterale. ~~~ Les collines, en effet, sautent. Tout au moins, elles font de visibles efforts pour sauter...'",2772,aligned,-1,-1,284816,284966,,"I never read the Bible myself, but that part they
+laugh at is literal truth, 'Why leap ye, ye high hills?' The hills do
+leap at least, they try to.... "
+"""Why do I like Sunday?... how can I tell you?... because he's such a Bounder.""","'-- Pourquoi j'aime Dimanche ?... Comment vous dire ? Eh bien, parce que c'est un grand sauteur !'",2773,aligned,-1,-1,284967,285043,,"Why do I like Sunday?... how can I tell
+you?... because he's such a Bounder."""
+"There was a long silence, and then the Secretary said in a curious, strained voice ""You do not know Sunday at all.""","'-- Le secretaire prit a son tour la parole. Sa voix etait singuliere, singulierement douloureuse : -- Bull, vous ne connaissez pas du tout Dimanche.'",2774,aligned,-1,-1,285046,285162,,"There was a long silence, and then the Secretary said in a curious,
+strained voice 
+
+""You do not know Sunday at all. "
+"""Perhaps it is because you are better than I, and do not know hell.""","'-- Peut-etre ne pouvez-vous le connaitre, parce que vous etes meilleur que moi, parce que vous ne connaissez pas l'Enfer.'",2775,aligned,-1,-1,285163,285229,,"Perhaps it is because you are better
+than I, and do not know hell. "
+"""I was a fierce fellow, and a trifle morbid from the first.""","'-- J'ai toujours ete d'une humeur sombre et decidee, quelque peu morbide.'",2776,aligned,-1,-1,285230,285288,,"I was a fierce fellow, and a trifle
+morbid from the first. "
+"""The man who sits in darkness, and who chose us all, chose me because I had all the crazy look of a conspirator because my smile went crooked, and my eyes were gloomy, even when I smiled.""","'-- L'homme de la chambre obscure m'a choisi, moi, parce que j'ai naturellement l'air d'un conspirateur, avec mes yeux tragiques, meme quand je souris, et mon rictus.'",2777,aligned,-1,-1,285289,285475,,"The man who sits in darkness, and who chose us
+all, chose me because I had all the crazy look of a conspirator because
+my smile went crooked, and my eyes were gloomy, even when I smiled. "
+"""But there must have been something in me that answered to the nerves in all these anarchic men.'""","'-- Il doit y avoir en moi, quelque chose de l'anarchiste...'",2778,aligned,-1,-1,285476,285571,,"But
+there must have been something in me that answered to the nerves in all
+these anarchic men. "
+"""Haven't you sometimes felt it on a spring day? You know Nature plays tricks, but somehow that day proves they are good-natured tricks.""","'-- N'avez-vous pas eu un sentiment de ce genre, par une matinee de printemps ? La nature se plait a nous jouer des tours ; mais, un matin de printemps, on sent que ses tours sont de bons tours...'",2779,aligned,-1,-1,284681,284815,,"Haven't you sometimes felt it on a spring day? You
+know Nature plays tricks, but somehow that day proves they are
+good-natured tricks. "
+"""How can I explain what my queer sympathy was? It didn't prevent my fighting him like hell!""",'-- Remarquez que cette sympathie ne m'a pas empeche de le combattre comme l'enfer.',2780,aligned,-1,-1,283773,283863,,"How can I explain what my queer sympathy was? It
+didn't prevent my fighting him like hell! "
+"""No, it's not an admiration of force, or any silly thing like that.""",'-- Ce n'est pas que j'aie une admiration pour la force ou quelque autre sottise de ce genre.',2781,aligned,-1,-1,284530,284596,,"No, it's not an admiration of force, or any silly thing like
+that. "
+"""I don't understand a word of all that idea of his being the same man who gave us all our blue cards. It seems to make everything nonsense.""","'-- Qu'il soit l'homme aux cartes bleues, cela confond ma raison. Et il semble bien que cela confonde toute l'histoire.'",2782,aligned,-1,-1,283496,283634,,"I don't understand a word of all that idea of his being
+the same man who gave us all our blue cards. It seems to make
+everything nonsense. "
+"""But I don't care who knows it, I always had a sympathy for old Sunday himself, wicked as he was. Just as if he was a great bouncing baby.""","'-- Mais -- peu m'importe qu'on le sache -- j'ai toujours eu de la sympathie pour lui, malgre sa mechancete. Comment expliquer cela ? Il me semble qu'il est un enfant, un grand enfant !'",2783,aligned,-1,-1,283635,283772,,"But I don't care who knows it, I always had a
+sympathy for old Sunday himself, wicked as he was. Just as if he was a
+great bouncing baby. "
+"""I wish the beastly gas-bag would burst!""",'-- je voudrais bien que cette outre volatile eclatat.',2786,aligned,-1,-1,282792,282831,,"I wish
+the beastly gas-bag would burst!"""
+"""Do you believe all that tale about his being our man in the dark room? ~~~ Sunday would say he was anybody.""",'-- Croyez-vous au conte qu'il nous a fait ? Croyez-vous qu'il etait vraiment l'homme de la chambre obscure ? Dimanche est capable de tous les mensonges !',2790,aligned,-1,-1,283120,283223,,"Do you believe all that tale
+about his being our man in the dark room? Sunday would say he was
+anybody."""
+"""But it isn't that that I mean. I can't wish old Sunday's balloon to burst because""",'-- mais ce n'est pas ce que je veux dire. Je ne puis desirer que le ballon creve parce que...',2792,aligned,-1,-1,283286,283367,,"But it
+isn't that that I mean. I can't wish old Sunday's balloon to burst
+because "
+"""He talked to me in an ordinary way.""",(No direct equivalent in text),2819,not aligned,-1,-1,287085,287120,,He talked to me in an ordinary way. 
+Very gradually and very vaguely he realised into what rich roads the carriage was carrying him.,"Vaguement, insensiblement presque, il s'apercut toutefois que la route etait belle, que la voiture franchissait la porte de pierre d'une sorte de parc, puis gravissait une colline, boisee a gauche a droite, mais soigneusement cultivee.",2953,aligned,-1,-1,298862,298957,,"Very gradually and very vaguely he realised into what rich roads the
+carriage was carrying him. "
+"He saw that they passed the stone gates of what might have been a park, that they began gradually to climb a hill which, while wooded on both sides, was somewhat more orderly than a forest.",(No direct equivalent in text),2958,not aligned,-1,-1,298958,299147,,"He saw that they passed the stone gates of
+what might have been a park, that they began gradually to climb a hill
+which, while wooded on both sides, was somewhat more orderly than a
+forest. "
+"and when he found that he had to wear a sword, it stirred a boyish dream.",(No direct equivalent in text),2997,not aligned,-1,-1,303606,303679,,"and when he found that he had to wear a sword, it
+stirred a boyish dream. "
+Syme seemed to see every shape in Nature imitated in some crazy costume.,(No direct equivalent in text),3018,not aligned,-1,-1,306063,306135,,"Syme
+seemed to see every shape in Nature imitated in some crazy costume.
+"
+I can answer for every one of the great guards of Law whom he has accused.,(No direct equivalent in text),3141,not aligned,-1,-1,317809,317883,,"I can answer for every one of the great guards of Law whom
+he has accused. "
